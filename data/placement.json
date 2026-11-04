@@ -1,0 +1,23 @@
+[
+  {"id": "p001", "level": "A0", "q": "What does 'halò' mean?", "choices": ["hello", "goodbye", "thank you", "sorry"], "answer": 0},
+  {"id": "p002", "level": "A0", "q": "What does 'tapadh leat' mean?", "choices": ["please", "thank you", "excuse me", "good night"], "answer": 1},
+  {"id": "p003", "level": "A1", "q": "Translate: 'Tha mi sgìth.'", "choices": ["I am happy.", "I am tired.", "I am cold.", "I am a student."], "answer": 1},
+  {"id": "p004", "level": "A1", "q": "How do you ask 'Are you tired?' in Gaelic?", "choices": ["Tha thu sgìth.", "Chan eil thu sgìth.", "A bheil thu sgìth?", "Bidh thu sgìth."], "answer": 2},
+  {"id": "p005", "level": "A1", "q": "What is the Gaelic word order pattern?", "choices": ["Subject-Verb-Object", "Verb-Subject-Object", "Object-Verb-Subject", "Verb-Object-Subject"], "answer": 1},
+  {"id": "p006", "level": "A1", "q": "'Mo mhàthair' means:", "choices": ["your mother", "my mother", "his mother", "our mother"], "answer": 1},
+  {"id": "p007", "level": "A2", "q": "Translate: 'Bidh mi a' dol dhan sgoil a-màireach.'", "choices": ["I went to school yesterday.", "I am going to school now.", "I will go to school tomorrow.", "I like going to school."], "answer": 2},
+  {"id": "p008", "level": "A2", "q": "What does lenition typically add to a word?", "choices": ["an 's' at the end", "an 'h' after the first letter", "a doubled vowel", "nothing, it removes letters"], "answer": 1},
+  {"id": "p009", "level": "A2", "q": "'Chòrd am film rium gu mòr.' means roughly:", "choices": ["The film was too long.", "I enjoyed the film a lot.", "I didn't understand the film.", "The film starts tomorrow."], "answer": 1},
+  {"id": "p010", "level": "A2", "q": "What does 'is toil leam' express?", "choices": ["I want", "I like", "I need", "I remember"], "answer": 1},
+  {"id": "p011", "level": "A2", "q": "'An do bhruidhinn thu ris?' means:", "choices": ["Will you speak to him?", "Did you speak to him?", "Are you speaking to him?", "Should you speak to him?"], "answer": 1},
+  {"id": "p012", "level": "B1", "q": "Translate: 'Nam biodh an t-airgead agam, cheannaichinn taigh.'", "choices": ["Because I had the money, I bought a house.", "If I had the money, I would buy a house.", "I don't have money for a house.", "I will buy a house next year."], "answer": 1},
+  {"id": "p013", "level": "B1", "q": "Which connector means 'although'?", "choices": ["mar sin", "ged a", "a rèir", "a bharrachd air"], "answer": 1},
+  {"id": "p014", "level": "B1", "q": "'Chaidh an taigh a thogail an-uiridh.' means:", "choices": ["The house will be built next year.", "I am building a house this year.", "The house was built last year.", "We should build a house."], "answer": 2},
+  {"id": "p015", "level": "B1", "q": "What does 'thuirt e gun robh e deiseil' mean?", "choices": ["He asked if he was ready.", "He said that he was ready.", "He will say he is ready.", "He wasn't ready to say anything."], "answer": 1},
+  {"id": "p016", "level": "B1", "q": "'A rèir mo bheachd-sa' means:", "choices": ["according to the news", "in my opinion", "as a result", "without a doubt"], "answer": 1},
+  {"id": "p017", "level": "B2", "q": "What does the autonomous/impersonal verb form (e.g. ending in '-ar' or '-adh') typically express?", "choices": ["a strong command", "an action with no stated subject, like a passive", "the near future only", "a question about ability"], "answer": 1},
+  {"id": "p018", "level": "B2", "q": "'Air an làimh eile' is best translated as:", "choices": ["on the other hand", "at the end of the day", "according to", "as a result of this"], "answer": 0},
+  {"id": "p019", "level": "B2", "q": "'Thathar ag ràdh gum bi am poileasaidh ùr ga bhuileachadh ron ath-bhliadhna.' means roughly:", "choices": ["Nobody knows about the new policy yet.", "It is being said that the new policy will be implemented before next year.", "The new policy was cancelled last year.", "The policy only applies to businesses."], "answer": 1},
+  {"id": "p020", "level": "B2", "q": "Which word means 'controversy / dispute' in a formal/news context?", "choices": ["buannachd", "connspaid", "cothrom", "misneachd"], "answer": 1},
+  {"id": "p021", "level": "B2", "q": "'Aig a' cheann thall' means:", "choices": ["from the beginning", "ultimately / in the end", "regularly", "by chance"], "answer": 1}
+]

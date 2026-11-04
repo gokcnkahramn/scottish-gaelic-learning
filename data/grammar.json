@@ -1,0 +1,185 @@
+[
+  {
+    "id": "g001",
+    "title": "The Verb 'To Be' (Bi)",
+    "level": "A1",
+    "body": "Scottish Gaelic has two 'to be' verbs: 'is' and 'bi'. 'Bi' is used for states and ongoing actions. Present tense: tha mi (I am), chan eil mi (I am not), a bheil thu? (are you?). Past: bha mi (I was). Future: bidh mi (I will be).",
+    "examples": [
+      {"gd": "Tha mi sgìth.", "en": "I am tired."},
+      {"gd": "Chan eil thu ceart.", "en": "You are not right."},
+      {"gd": "A bheil i toilichte?", "en": "Is she happy?"}
+    ]
+  },
+  {
+    "id": "g002",
+    "title": "Verbal Nouns (the '-ing' form)",
+    "level": "A1",
+    "body": "Gaelic expresses continuous action with 'tha' + subject + 'a/ag' + verbal noun, similar to English '-ing'. E.g. 'a' bruidhinn' (speaking), 'ag ithe' (eating). The particle is 'ag' before a vowel and 'a'' before a consonant.",
+    "examples": [
+      {"gd": "Tha mi ag ithe.", "en": "I am eating."},
+      {"gd": "Tha i a' bruidhinn.", "en": "She is speaking."}
+    ]
+  },
+  {
+    "id": "g003",
+    "title": "Lenition (Initial Consonant Mutation)",
+    "level": "A1",
+    "body": "Many Gaelic words change their first letter (lenition, adding an 'h') in certain grammatical contexts, e.g. after 'mo' (my) or feminine nouns after 'an' (the). 'Mathair' becomes 'mo mhàthair' (my mother). This is one of the trickiest parts of Gaelic grammar for beginners — recognise it rather than memorise every rule at first.",
+    "examples": [
+      {"gd": "màthair -> mo mhàthair", "en": "mother -> my mother"},
+      {"gd": "beag -> mo bheag", "en": "small -> my small (one)"}
+    ]
+  },
+  {
+    "id": "g004",
+    "title": "Questions and Negatives with 'Bi'",
+    "level": "A1",
+    "body": "Unlike English, Gaelic doesn't use a separate 'do' for questions. The verb itself changes form: 'tha' (statement) -> 'a bheil?' (question) -> 'chan eil' (negative). This pattern recurs with other irregular verbs too, each with its own question/negative form.",
+    "examples": [
+      {"gd": "Tha thu sgìth.", "en": "You are tired."},
+      {"gd": "A bheil thu sgìth?", "en": "Are you tired?"},
+      {"gd": "Chan eil thu sgìth.", "en": "You are not tired."}
+    ]
+  },
+  {
+    "id": "g005",
+    "title": "Basic Word Order (VSO)",
+    "level": "A1",
+    "body": "Gaelic sentences normally start with the verb, then the subject, then the object (Verb-Subject-Object), unlike English's Subject-Verb-Object. 'Tha mi sgìth' is literally 'Am I tired' in word order, meaning 'I am tired'.",
+    "examples": [
+      {"gd": "Chunnaic mi an cat.", "en": "I saw the cat. (lit: Saw I the cat)"}
+    ]
+  },
+  {
+    "id": "g006",
+    "title": "The Past Tense of Regular Verbs",
+    "level": "A2",
+    "body": "Most regular verbs form the past tense by lenition of the root alone (no extra word needed), and add 'do' optionally before vowels. 'Bruidhinn' (to speak) -> 'bhruidhinn mi' (I spoke). The question form uses 'an do...?' and the negative uses 'cha do...'.",
+    "examples": [
+      {"gd": "Bhruidhinn mi ris an-dè.", "en": "I spoke to him yesterday."},
+      {"gd": "An do bhruidhinn thu ris?", "en": "Did you speak to him?"},
+      {"gd": "Cha do bhruidhinn mi ris.", "en": "I did not speak to him."}
+    ]
+  },
+  {
+    "id": "g007",
+    "title": "Prepositional Pronouns",
+    "level": "A2",
+    "body": "Gaelic fuses common prepositions with pronouns into single words, e.g. 'aig' (at) + mi -> 'agam' (at me / I have), 'air' (on) + i -> 'oirre' (on her). These are essential for expressing possession and many everyday phrases, and must be learned as whole forms rather than built on the fly.",
+    "examples": [
+      {"gd": "Tha cù agam.", "en": "I have a dog. (lit: there is a dog at-me)"},
+      {"gd": "Tha an t-acras orm.", "en": "I am hungry. (lit: the hunger is on-me)"}
+    ]
+  },
+  {
+    "id": "g008",
+    "title": "Comparatives and Superlatives",
+    "level": "A2",
+    "body": "To compare adjectives, Gaelic typically uses 'nas' + a modified ('comparative') form of the adjective, and 'as' in relative clauses for superlatives. 'Math' (good) becomes 'nas fheàrr' (better) and 'as fheàrr' (best) — many common adjectives are irregular, similar to English 'good/better/best'.",
+    "examples": [
+      {"gd": "Tha seo nas fheàrr na sin.", "en": "This is better than that."},
+      {"gd": "Is e seo an rud as fheàrr.", "en": "This is the best thing."}
+    ]
+  },
+  {
+    "id": "g009",
+    "title": "Talking About Liking Things",
+    "level": "A2",
+    "body": "'To like' is expressed indirectly: 'is toil leam' (lit. 'it is pleasing with me'). The negative is 'cha toil leam', and 'is fheàrr leam' means 'I prefer'. The verbal noun follows directly.",
+    "examples": [
+      {"gd": "Is toil leam a bhith a' leughadh.", "en": "I like reading."},
+      {"gd": "Cha toil leam cofaidh.", "en": "I don't like coffee."},
+      {"gd": "Is fheàrr leam tì na cofaidh.", "en": "I prefer tea to coffee."}
+    ]
+  },
+  {
+    "id": "g010",
+    "title": "Relative Clauses (a/nach)",
+    "level": "B1",
+    "body": "Gaelic uses the particle 'a' (lenites the verb) to form relative clauses like English 'who/that/which', and 'nach' for the negative form. The verb form also changes depending on whether the relative clause is direct or indirect, which takes practice to internalise.",
+    "examples": [
+      {"gd": "An duine a chunnaic mi", "en": "The man whom I saw"},
+      {"gd": "An rud nach eil ceart", "en": "The thing that is not right"}
+    ]
+  },
+  {
+    "id": "g011",
+    "title": "The Conditional Mood",
+    "level": "B1",
+    "body": "To express 'would' Gaelic uses the conditional, formed with lenition and often ending in '-adh/-eadh' for regular verbs: 'dh'òlainn' (I would drink). Irregular verbs like 'bi' have their own conditional ('bhithinn' — I would be).",
+    "examples": [
+      {"gd": "Dh'òlainn cupa tì, mas e do thoil e.", "en": "I would drink a cup of tea, please."},
+      {"gd": "Nam biodh an t-airgead agam, cheannaichinn taigh.", "en": "If I had the money, I would buy a house."}
+    ]
+  },
+  {
+    "id": "g012",
+    "title": "Conditional Sentences with 'Nam'",
+    "level": "B1",
+    "body": "Hypothetical 'if' clauses use 'nam' (if, for hypothetical/unreal conditions) with the conditional/dependent form of the verb, contrasted with 'ma' which is used for real/possible conditions with the present or future tense.",
+    "examples": [
+      {"gd": "Ma tha thu sgìth, gabh fois.", "en": "If you are tired, rest. (real condition)"},
+      {"gd": "Nam bithinn beairteach, shiubhlainn an saoghal.", "en": "If I were rich, I would travel the world. (hypothetical)"}
+    ]
+  },
+  {
+    "id": "g013",
+    "title": "The Passive-like 'Rach' Construction",
+    "level": "B1",
+    "body": "Gaelic often expresses passive meaning with 'rach' (to go) + the verbal noun with 'a dhèanamh' pattern, roughly 'get done'. This is more common than a true grammatical passive in everyday Gaelic.",
+    "examples": [
+      {"gd": "Chaidh an taigh a thogail an-uiridh.", "en": "The house was built last year. (lit: went the house to-building)"},
+      {"gd": "Thèid am biadh a dheasachadh a-nis.", "en": "The food will be prepared now."}
+    ]
+  },
+  {
+    "id": "g014",
+    "title": "Connecting Ideas: Subordinate Clauses",
+    "level": "B1",
+    "body": "Beyond simple sentences, B1 Gaelic relies on connectors like 'oir' (because), 'ged a' (although), 'mus' (before), and 'nuair a' (when) to build more complex, multi-clause sentences — essential for narrating events and giving reasons.",
+    "examples": [
+      {"gd": "Dh'fhan mi aig an taigh oir bha an t-uisge ann.", "en": "I stayed home because it was raining."},
+      {"gd": "Ged a bha mi sgìth, chaidh mi a-mach.", "en": "Although I was tired, I went out."}
+    ]
+  },
+  {
+    "id": "g015",
+    "title": "Reported Speech",
+    "level": "B2",
+    "body": "Reporting what someone said shifts tense and pronouns similarly to English, usually introduced by 'thuirt e/i gu(n)/gu robh...' (he/she said that...). 'Gu' triggers a dependent verb form, and negative reported clauses use 'nach'.",
+    "examples": [
+      {"gd": "Thuirt i gun robh i sgìth.", "en": "She said that she was tired."},
+      {"gd": "Thuirt e nach robh e airson tighinn.", "en": "He said that he didn't want to come."}
+    ]
+  },
+  {
+    "id": "g016",
+    "title": "Impersonal and Autonomous Verb Forms",
+    "level": "B2",
+    "body": "Gaelic has a distinct 'autonomous' verb form (no stated subject) used heavily in formal, news, and narrative registers, roughly equivalent to English passive or 'one does X'. It typically ends in '-ar' (present/future) or '-adh' (past), e.g. 'nithear' (it is done / one does).",
+    "examples": [
+      {"gd": "Thathar ag ràdh gu bheil...", "en": "It is being said that... (impersonal)"},
+      {"gd": "Chaidh aithris gun deach an aonta a shoidhnigeadh.", "en": "It was reported that the agreement was signed."}
+    ]
+  },
+  {
+    "id": "g017",
+    "title": "Register and Idiomatic Connectors",
+    "level": "B2",
+    "body": "At B2, fluent-sounding Gaelic depends less on new grammar rules and more on idiomatic discourse markers used in debate, news, and essay-style writing: 'a rèir choltais' (apparently), 'air an làimh eile' (on the other hand), 'aig a' cheann thall' (ultimately). Learning to deploy these naturally is what separates B1 from B2 fluency.",
+    "examples": [
+      {"gd": "Air an làimh eile, tha buannachdan ann cuideachd.", "en": "On the other hand, there are advantages too."},
+      {"gd": "Aig a' cheann thall, 's e co-dhùnadh a' choimhearsnachd a bhios cudromach.", "en": "Ultimately, the community's decision will be what matters."}
+    ]
+  },
+  {
+    "id": "g018",
+    "title": "Formal Written Style and Nominalisation",
+    "level": "B2",
+    "body": "Formal and written Gaelic (news, policy, essays) favours turning verbs into abstract nouns ('nominalisation'), much like English 'implementation' instead of 'to implement'. Recognising and using forms like 'buileachadh' (implementation, from 'builich') is key to reading and writing at B2.",
+    "examples": [
+      {"gd": "Tha am buileachadh a' tòiseachadh an ath-bhliadhna.", "en": "The implementation starts next year."},
+      {"gd": "Bha connspaid mun phoileasaidh ùr.", "en": "There was controversy about the new policy."}
+    ]
+  }
+]

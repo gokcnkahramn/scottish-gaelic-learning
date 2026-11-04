@@ -1,0 +1,134 @@
+[
+  {
+    "id": "st001",
+    "title": "Latha sa Bhaile",
+    "titleEn": "A Day in Town",
+    "level": "A1",
+    "paragraphs": [
+      {
+        "gd": "Is mise Mairi. Tha mi a' fuireach ann an Glaschu. Anns a' mhadainn, tha mi ag ithe briosgaidean agus ag òl tì.",
+        "en": "I am Mairi. I live in Glasgow. In the morning, I eat biscuits and drink tea."
+      },
+      {
+        "gd": "An-dèidh sin, tha mi a' falbh dhan sgoil. Tha mo charaid, Iain, a' fuireach faisg air an sgoil.",
+        "en": "After that, I go to school. My friend, Iain, lives near the school."
+      },
+      {
+        "gd": "Feasgar, tha sinn a' coimhead film còmhla. Tha e gu math toilichte.",
+        "en": "In the evening, we watch a film together. He is very happy."
+      }
+    ],
+    "glossary": [
+      {"gd": "a' fuireach", "en": "living / staying"},
+      {"gd": "briosgaidean", "en": "biscuits"},
+      {"gd": "an-dèidh sin", "en": "after that"},
+      {"gd": "faisg air", "en": "near"},
+      {"gd": "còmhla", "en": "together"}
+    ]
+  },
+  {
+    "id": "st002",
+    "title": "An Taigh Agam",
+    "titleEn": "My House",
+    "level": "A1",
+    "paragraphs": [
+      {
+        "gd": "Tha taigh beag agam. Tha e dearg agus geal. Anns an taigh, tha cù dubh agus cat buidhe.",
+        "en": "I have a small house. It is red and white. In the house, there is a black dog and a yellow cat."
+      },
+      {
+        "gd": "Tha mo theaghlach a' fuireach còmhla rium: mo mhàthair, m' athair, agus mo phiuthar.",
+        "en": "My family lives with me: my mother, my father, and my sister."
+      }
+    ],
+    "glossary": [
+      {"gd": "agam", "en": "at me / I have"},
+      {"gd": "teaghlach", "en": "family"},
+      {"gd": "rium", "en": "with me"}
+    ]
+  },
+  {
+    "id": "st003",
+    "title": "Turas gu Alba",
+    "titleEn": "A Trip to Scotland",
+    "level": "A2",
+    "paragraphs": [
+      {
+        "gd": "An-uiridh, chaidh mi air turas gun Eilean Sgitheanach le mo theaghlach. Ghabh sinn an trèana gu Inbhir Nis, agus an uair sin am bus.",
+        "en": "Last year, I went on a trip to the Isle of Skye with my family. We took the train to Inverness, and then the bus."
+      },
+      {
+        "gd": "Bha an t-sìde fuar ach grianach. Choisich sinn anns na beanntan agus thog sinn mòran dhealbhan.",
+        "en": "The weather was cold but sunny. We walked in the mountains and took many photos."
+      },
+      {
+        "gd": "Is toil leam a bhith a' siubhal, gu h-àraidh nuair a tha an t-sìde math. B' e turas air leth a bh' ann.",
+        "en": "I like traveling, especially when the weather is good. It was a wonderful trip."
+      }
+    ],
+    "glossary": [
+      {"gd": "an-uiridh", "en": "last year"},
+      {"gd": "turas", "en": "trip / journey"},
+      {"gd": "sìde", "en": "weather"},
+      {"gd": "beanntan", "en": "mountains"},
+      {"gd": "siubhal", "en": "traveling"},
+      {"gd": "air leth", "en": "exceptional / special"}
+    ]
+  },
+  {
+    "id": "st004",
+    "title": "A' Bruidhinn mu Obair",
+    "titleEn": "Talking About Work",
+    "level": "B1",
+    "paragraphs": [
+      {
+        "gd": "Tha mi ag obair ann an oifis mhòr ann an Dùn Èideann. Ged a tha an obair inntinneach, tha i uaireannan duilich leis cho trang 's a tha i.",
+        "en": "I work in a big office in Edinburgh. Although the work is interesting, it is sometimes difficult because of how busy it is."
+      },
+      {
+        "gd": "Nam biodh barrachd ùine agam, dh'ionnsaichinn barrachd Gàidhlig agus bhithinn a' leughadh tuilleadh leabhraichean.",
+        "en": "If I had more time, I would learn more Gaelic and I would read more books."
+      },
+      {
+        "gd": "Thuirt mo cho-obraiche gun robh i airson atharrachadh a dhèanamh air a cosnadh am bliadhna, oir bha i a' faireachdainn gun robh dùbhlain ùra a dhìth oirre.",
+        "en": "My colleague said that she wanted to make a change to her job this year, because she felt that she needed new challenges."
+      }
+    ],
+    "glossary": [
+      {"gd": "oifis", "en": "office"},
+      {"gd": "inntinneach", "en": "interesting"},
+      {"gd": "ùine", "en": "time (duration)"},
+      {"gd": "co-obraiche", "en": "colleague"},
+      {"gd": "cosnadh", "en": "job / employment"},
+      {"gd": "dùbhlain", "en": "challenges"}
+    ]
+  },
+  {
+    "id": "st005",
+    "title": "Co-chòrdadh air an Àrainneachd",
+    "titleEn": "Agreement on the Environment",
+    "level": "B2",
+    "paragraphs": [
+      {
+        "gd": "Thathar ag ràdh gu bheil an riaghaltas gu bhith a' foillseachadh poileasaidh ùr a thaobh na h-àrainneachd an ath-mhìos. A rèir choltais, bidh seo a' toirt buaidh mhòr air gnìomhachasan air feadh na dùthcha.",
+        "en": "It is being said that the government is going to publish a new environmental policy next month. Apparently, this will have a major effect on businesses across the country."
+      },
+      {
+        "gd": "Air an làimh eile, tha cuid a' cumail a-mach gu bheil am buileachadh ro mhall, agus gu bheil feum air gnìomh nas luaithe a thaobh atharrachadh na gnàth-shìde.",
+        "en": "On the other hand, some maintain that the implementation is too slow, and that faster action is needed regarding climate change."
+      },
+      {
+        "gd": "Aig a' cheann thall, 's dòcha gur e fianais eacanomach agus sòisealta còmhla a bheir buaidh air a' cho-dhùnadh mu dheireadh, seach argamaidean poilitigeach a-mhàin.",
+        "en": "Ultimately, it may be economic and social evidence together that influences the final decision, rather than political arguments alone."
+      }
+    ],
+    "glossary": [
+      {"gd": "poileasaidh", "en": "policy"},
+      {"gd": "a rèir choltais", "en": "apparently"},
+      {"gd": "buileachadh", "en": "implementation"},
+      {"gd": "gnàth-shìde", "en": "climate"},
+      {"gd": "fianais", "en": "evidence"},
+      {"gd": "aig a' cheann thall", "en": "ultimately"}
+    ]
+  }
+]

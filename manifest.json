@@ -1,0 +1,14 @@
+{
+  "name": "Gàidhlig Agam",
+  "short_name": "Gàidhlig",
+  "description": "Daily Scottish Gaelic practice: vocab, grammar, listening, speaking, reading and a placement test.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1613",
+  "theme_color": "#2b5d4f",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
