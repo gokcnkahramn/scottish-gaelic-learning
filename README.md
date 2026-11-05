@@ -13,12 +13,14 @@ Then open `http://localhost:8080` in a browser.
 ## Use it on your Samsung phone
 
 **Option A — same Wi-Fi (quickest, for testing):**
+
 1. Run the local server above on your computer.
 2. Find your computer's local IP (Windows: `ipconfig`, look for "IPv4 Address").
 3. On your phone's Chrome, open `http://<your-computer-ip>:8080`.
 4. Chrome menu → "Add to Home screen" to install it as an app.
 
 **Option B — GitHub Pages (permanent, works anywhere, offline after first load):**
+
 1. Push this repo to GitHub.
 2. Repo Settings → Pages → deploy from the `main` branch, root folder.
 3. Open the published URL on your phone, then "Add to Home screen".
@@ -27,6 +29,7 @@ Then open `http://localhost:8080` in a browser.
 ## Content
 
 All learning content lives in `data/*.json` — edit or extend these directly, no code changes needed:
+
 - `vocab.json` — flashcard words (id, Gaelic, English, category)
 - `sentences.json` — practice sentences for listening/speaking
 - `stories.json` — short reading passages with a clickable glossary

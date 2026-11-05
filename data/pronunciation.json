@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pr001",
+    "title": "Why Gaelic pronunciation deserves extra attention",
+    "body": "Gaelic spelling is actually very regular once you know the rules, but the rules are different enough from English that guessing from the letters alone will mislead you. A handful of core patterns (broad/slender consonants, vowel length, lenition, pre-aspiration) explain almost everything — learn those patterns rather than trying to memorise each word's sound individually.",
+    "tips": []
+  },
+  {
+    "id": "pr002",
+    "title": "Broad vs slender consonants (caol ri caol, leathann ri leathann)",
+    "body": "Every consonant in Gaelic comes in two versions: 'broad' (pronounced further back in the mouth, roughly like English but deeper/rounder) and 'slender' (pronounced further forward, with a slight 'y'-like quality). You can tell which version a consonant is just by looking at the vowel letters next to it: a, o, u make a consonant broad; e, i make it slender. This is why Gaelic spelling always keeps a broad vowel next to a broad vowel and a slender vowel next to a slender vowel around the same consonant — the vowel letters are there partly to mark the consonant's quality, not just their own sound.",
+    "tips": [
+      "Broad c (next to a/o/u, as in 'cas') sounds closer to English 'k' in 'call'.",
+      "Slender c (next to e/i, as in 'cir') sounds noticeably fronted, almost like 'k' + a quick 'y'.",
+      "When in doubt reading a new word, check the vowel immediately before/after the consonant to guess broad vs slender."
+    ]
+  },
+  {
+    "id": "pr003",
+    "title": "Vowel length changes meaning, not just emphasis",
+    "body": "Gaelic distinguishes short and long vowels the way English distinguishes 'ship' and 'sheep' — it's not a stylistic choice, it can be the only difference between two different words. The grave accent (à, ò, ù, etc.) marks a long vowel. Skipping vowel length is one of the most common beginner mistakes and the single easiest thing to fix once you're aware of it.",
+    "tips": [
+      "cas (short a) = foot/leg, càs (long à) = predicament/crisis — different words.",
+      "When you see a grave accent, hold the vowel noticeably longer than an unaccented one."
+    ]
+  },
+  {
+    "id": "pr004",
+    "title": "Lenition softens the sound, not just the spelling",
+    "body": "Lenition (adding 'h' after the first consonant — mo mhàthair, a bhean) is a real change in how the sound is made, usually making it softer/more open, not a silent spelling quirk. 'Bh' and 'mh' are both pronounced like an English 'v' (or a soft 'w' in some dialects/positions), 'dh' and 'gh' become a soft, almost swallowed glide, and 'fh' usually disappears entirely (becomes silent). Recognising lenited consonants as different sounds — not the base letter plus a silent h — is key to sounding natural.",
+    "tips": [
+      "bhàta sounds roughly like 'va-ta', not 'b-ha-ta'.",
+      "mo fhacal (my word) — the 'fh' is silent, so it sounds like 'mo acal'.",
+      "a dhuine (o man, vocative) — 'dh' is a soft glide, not a hard 'd' or 'g'."
+    ]
+  },
+  {
+    "id": "pr005",
+    "title": "Pre-aspiration: the 'puff' comes before c, p, t — not after",
+    "body": "In English, the little puff of air after c/p/t (aspiration) comes after the consonant ('pin' has a puff right after the p). In Gaelic, when c, p or t appears in the middle or end of a word, that puff of air shifts to come *before* the consonant instead — this is called pre-aspiration, and it's one of the most distinctive, recognisable features of a Gaelic accent. It's strongest before 'c' (sounds like a light 'ch'/'kh' sound right before the k), and lighter (closer to a simple 'h') before 't' and 'p'.",
+    "tips": [
+      "mac is pronounced closer to 'machk' than a flat 'mak'.",
+      "This feature is shared with only a handful of world languages (Icelandic, Sámi, some Inuit languages) — it's genuinely unusual and worth practising deliberately rather than assuming English habits will transfer."
+    ]
+  },
+  {
+    "id": "pr006",
+    "title": "Common silent/surprising letter combinations",
+    "body": "A short list of spelling patterns that look confusing from an English-reading habit but are completely regular in Gaelic once learned: 'fh' is silent almost everywhere; 'bh'/'mh' = a 'v' sound; 'dh'/'gh' = a soft glide (or silent at the end of a word); 'sh'/'th' = an English 'h' sound; double vowels with a hyphen-like 'a-i', 'e-a' etc. often signal a glide between two vowel qualities rather than two separate vowel sounds.",
+    "tips": [
+      "thu (you) sounds like 'hoo', not 'th-oo'.",
+      "a Sheumais (vocative of Seumas/James) — 'Sh' sounds like English 'h'.",
+      "laogh (calf) ends in a silent/near-silent 'gh' — closer to 'lœ:' than 'laog'."
+    ]
+  }
+]

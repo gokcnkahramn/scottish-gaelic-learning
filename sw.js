@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gaidhlig-agam-v1';
+const CACHE_NAME = 'gaidhlig-agam-v4';
 const ASSETS = [
   './',
   './index.html',
@@ -6,12 +6,14 @@ const ASSETS = [
   './css/style.css',
   './js/app.js',
   './js/srs.js',
+  './js/pronounce.js',
   './icons/icon.svg',
   './data/vocab.json',
   './data/sentences.json',
   './data/stories.json',
   './data/grammar.json',
-  './data/placement.json'
+  './data/placement.json',
+  './data/pronunciation.json'
 ];
 
 self.addEventListener('install', event => {

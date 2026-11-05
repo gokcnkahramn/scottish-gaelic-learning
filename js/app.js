@@ -3,7 +3,7 @@ const el = sel => document.querySelector(sel);
 const view = el('#view');
 
 async function loadData() {
-  const files = ['vocab', 'sentences', 'stories', 'grammar', 'placement'];
+  const files = ['vocab', 'sentences', 'stories', 'grammar', 'placement', 'pronunciation'];
   await Promise.all(files.map(async name => {
     const res = await fetch(`data/${name}.json`);
     DATA[name] = await res.json();
@@ -19,7 +19,7 @@ function setActiveTab(name) {
 function navigate(name) {
   setActiveTab(name);
   localStorage.setItem('gd_last_view', name);
-  const renderer = { home: renderHome, learn: renderLearn, grammar: renderGrammar, listen: renderListen, speak: renderSpeak, read: renderRead, test: renderTest }[name];
+  const renderer = { home: renderHome, learn: renderLearn, grammar: renderGrammar, pronunciation: renderPronunciation, listen: renderListen, speak: renderSpeak, read: renderRead, test: renderTest }[name];
   view.innerHTML = '';
   renderer();
   window.scrollTo(0, 0);
@@ -195,6 +195,20 @@ function renderGrammar() {
   view.appendChild(list);
 }
 
+// ---------- PRONUNCIATION ----------
+function renderPronunciation() {
+  view.innerHTML = `
+    <h2>How Gaelic sounds</h2>
+    <p class="muted">A handful of patterns explain most of Gaelic pronunciation. Learn these instead of memorising each word's sound individually. Based on Michael Bauer's <em>Blas na Gàidhlig</em>, rewritten here in our own words.</p>
+  ` + DATA.pronunciation.map(p => `
+    <div class="card">
+      <h3>${p.title}</h3>
+      <p>${p.body}</p>
+      ${p.tips && p.tips.length ? `<ul>${p.tips.map(t => `<li class="muted">${t}</li>`).join('')}</ul>` : ''}
+    </div>
+  `).join('');
+}
+
 // ---------- LISTEN ----------
 function renderListen() {
   const level = getFilterLevel();
@@ -233,9 +247,14 @@ function speakText(text) {
     alert('Text-to-speech is not supported on this device.');
     return;
   }
-  const u = new SpeechSynthesisUtterance(text);
   const voices = speechSynthesis.getVoices();
   const gdVoice = voices.find(v => v.lang && v.lang.toLowerCase().startsWith('gd'));
+  // No real Gaelic voice exists on virtually any device, so respell the text into an
+  // approximate English-readable phonetic form (see js/pronounce.js) before handing it
+  // to an English voice — reading raw Gaelic spelling with English letter rules is badly
+  // wrong (e.g. 'mh'/'bh' as 'm-h'/'b-h' instead of 'v', 'fh' read aloud instead of silent).
+  const textToSpeak = (gdVoice || typeof GaelicPhonetic === 'undefined') ? text : GaelicPhonetic.toApprox(text);
+  const u = new SpeechSynthesisUtterance(textToSpeak);
   u.lang = gdVoice ? gdVoice.lang : 'en-GB';
   if (gdVoice) u.voice = gdVoice;
   u.rate = 0.85;

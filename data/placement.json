@@ -19,5 +19,24 @@
   {"id": "p018", "level": "B2", "q": "'Air an làimh eile' is best translated as:", "choices": ["on the other hand", "at the end of the day", "according to", "as a result of this"], "answer": 0},
   {"id": "p019", "level": "B2", "q": "'Thathar ag ràdh gum bi am poileasaidh ùr ga bhuileachadh ron ath-bhliadhna.' means roughly:", "choices": ["Nobody knows about the new policy yet.", "It is being said that the new policy will be implemented before next year.", "The new policy was cancelled last year.", "The policy only applies to businesses."], "answer": 1},
   {"id": "p020", "level": "B2", "q": "Which word means 'controversy / dispute' in a formal/news context?", "choices": ["buannachd", "connspaid", "cothrom", "misneachd"], "answer": 1},
-  {"id": "p021", "level": "B2", "q": "'Aig a' cheann thall' means:", "choices": ["from the beginning", "ultimately / in the end", "regularly", "by chance"], "answer": 1}
+  {"id": "p021", "level": "B2", "q": "'Aig a' cheann thall' means:", "choices": ["from the beginning", "ultimately / in the end", "regularly", "by chance"], "answer": 1},
+
+  {"id": "p022", "level": "A0", "q": "What does 'madainn mhath' mean?", "choices": ["good night", "good morning", "goodbye", "see you soon"], "answer": 1},
+  {"id": "p023", "level": "A0", "q": "'Is mise Mairi.' means:", "choices": ["This is Mairi's house.", "I am Mairi.", "I know Mairi.", "Mairi is here."], "answer": 1},
+  {"id": "p024", "level": "A1", "q": "What does 'bròg' mean?", "choices": ["shirt", "hat", "shoe", "coat"], "answer": 2},
+  {"id": "p025", "level": "A1", "q": "'Tha mi a' fuireach ann an Glaschu.' means:", "choices": ["I am going to Glasgow.", "I live in Glasgow.", "I was born in Glasgow.", "I am visiting Glasgow."], "answer": 1},
+  {"id": "p026", "level": "A1", "q": "Which word means 'under'?", "choices": ["air", "fo", "eadar", "ro"], "answer": 1},
+  {"id": "p027", "level": "A1", "q": "What is the verbal noun for 'rach' (to go)?", "choices": ["ag ràdh", "a' faighinn", "a' dol", "a' toirt"], "answer": 2},
+  {"id": "p028", "level": "A2", "q": "'Chaidh mi dhan bhùth.' means:", "choices": ["I will go to the shop.", "I go to the shop every day.", "I went to the shop.", "I want to go to the shop."], "answer": 2},
+  {"id": "p029", "level": "A2", "q": "What does 'cia mheud a tha seo a' cosg?' ask?", "choices": ["Where is this from?", "How much does this cost?", "What is this called?", "When does this open?"], "answer": 1},
+  {"id": "p030", "level": "A2", "q": "'Nì mi sin a-màireach.' means:", "choices": ["I did that yesterday.", "I am doing that now.", "I will do that tomorrow.", "I never do that."], "answer": 2},
+  {"id": "p031", "level": "A2", "q": "What does 'gailleann' mean?", "choices": ["sunshine", "storm", "fog", "frost"], "answer": 1},
+  {"id": "p032", "level": "B1", "q": "'Na bi fadalach!' means:", "choices": ["Don't be late!", "You are always late.", "Why are you late?", "Be careful!"], "answer": 0},
+  {"id": "p033", "level": "B1", "q": "'Chan eil fhios agam càite a bheil e.' means:", "choices": ["I know where he is.", "I don't know where he is.", "He doesn't know where I am.", "Where is he going?"], "answer": 1},
+  {"id": "p034", "level": "B1", "q": "Which topic would SpeakGaelic's B1 course cover, per typical course structure?", "choices": ["Complex policy debate", "Neighbours and the Highlands/region", "Academic essay writing", "Legal terminology"], "answer": 1},
+  {"id": "p035", "level": "B1", "q": "What does 'nàbaidh' mean?", "choices": ["neighbour", "nephew", "nurse", "native"], "answer": 0},
+  {"id": "p036", "level": "B2", "q": "'Is e an fhianais a tha cudromach, chan e am beachd.' means:", "choices": ["The opinion matters more than the evidence.", "It's the evidence that matters, not the opinion.", "Neither the evidence nor the opinion matters.", "The evidence and the opinion are the same."], "answer": 1},
+  {"id": "p037", "level": "B2", "q": "What does 'iadsan' emphasise compared to plain 'iad'?", "choices": ["a question rather than a statement", "a contrastive emphasis on 'they/them'", "the past tense", "politeness/formality only"], "answer": 1},
+  {"id": "p038", "level": "B2", "q": "'Bha connspaid mun phoileasaidh ùr.' means:", "choices": ["The new policy was popular.", "There was controversy about the new policy.", "The policy was cancelled.", "Nobody discussed the new policy."], "answer": 1},
+  {"id": "p039", "level": "B2", "q": "What does 'buileachadh' mean?", "choices": ["agreement", "implementation", "complaint", "celebration"], "answer": 1}
 ]

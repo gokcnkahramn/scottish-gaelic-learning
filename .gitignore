@@ -1,0 +1,15 @@
+# Personal reference material (books, audio CDs) used to mine content for data/*.json.
+# These are for private/personal use only and must never be committed or published —
+# keep them local, never add an exception for a specific file here.
+docs/*.pdf
+docs/*.epub
+docs/*.zip
+docs/*.mp3
+docs/*.m4a
+docs/*.mp4
+docs/scot/
+docs/**/*.mp3
+
+# Allow our own written planning docs to still be tracked.
+!docs/curriculum-map.md
+!docs/*.md

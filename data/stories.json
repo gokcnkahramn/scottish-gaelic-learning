@@ -104,6 +104,241 @@
     ]
   },
   {
+    "id": "st006",
+    "title": "Ag Ullachadh airson na Sgoile",
+    "titleEn": "Getting Ready for School",
+    "level": "A1",
+    "paragraphs": [
+      {
+        "gd": "Anns a' mhadainn, tha mi a' cur orm m' aodach: lèine, briogais, agus bròg. Tha e fuar, mar sin cuiridh mi orm còta cuideachd.",
+        "en": "In the morning, I put on my clothes: a shirt, trousers, and shoes. It's cold, so I put on a coat too."
+      },
+      {
+        "gd": "Tha mo cheann goirt an-diugh, ach tha mi a' dol dhan sgoil co-dhiù. Tha mo charaid a' feitheamh orm aig an doras.",
+        "en": "My head is sore today, but I'm going to school anyway. My friend is waiting for me at the door."
+      }
+    ],
+    "glossary": [
+      {"gd": "a' cur orm", "en": "putting on (myself)"},
+      {"gd": "cuiridh mi orm", "en": "I will put on"},
+      {"gd": "goirt", "en": "sore"},
+      {"gd": "a' feitheamh", "en": "waiting"}
+    ]
+  },
+  {
+    "id": "st007",
+    "title": "Latha anns a' Mhargaid",
+    "titleEn": "A Day at the Market",
+    "level": "A2",
+    "paragraphs": [
+      {
+        "gd": "Bha mi anns a' mhargaid an-diugh a' ceannach bìdh. Bha an t-sìde fliuch agus gaothach, ach bha mi airson poca ùbhlan fhaighinn.",
+        "en": "I was at the market today buying food. The weather was wet and windy, but I wanted to get a bag of apples."
+      },
+      {
+        "gd": "Dh'fhaighnich mi don neach-reic cia mheud a bha na h-ùbhlan a' cosg. Bha iad saor, mar sin cheannaich mi barrachd na bha dùil agam.",
+        "en": "I asked the seller how much the apples cost. They were cheap, so I bought more than I expected."
+      },
+      {
+        "gd": "Air an rathad dhachaigh, thòisich an t-uisge, agus ruith mi dhan stèisean a' chabhag.",
+        "en": "On the way home, the rain started, and I ran to the station in a hurry."
+      }
+    ],
+    "glossary": [
+      {"gd": "margaid", "en": "market"},
+      {"gd": "neach-reic", "en": "seller"},
+      {"gd": "cabhag", "en": "hurry"},
+      {"gd": "stèisean", "en": "station"}
+    ]
+  },
+  {
+    "id": "st008",
+    "title": "Mo Nàbaidh air a' Ghàidhealtachd",
+    "titleEn": "My Neighbour in the Highlands",
+    "level": "B1",
+    "paragraphs": [
+      {
+        "gd": "Tha mo nàbaidh, Ealasaid, a' fuireach ann am baile beag air a' Ghàidhealtachd fad a beatha. Tha i fìor eòlach air cultar agus traidiseanan an àite, agus bidh i a' seinn ann an seann nòs aig an fhèis ionadail gach bliadhna.",
+        "en": "My neighbour, Ealasaid, has lived in a small town in the Highlands her whole life. She's very knowledgeable about the area's culture and traditions, and she sings in the old style at the local festival every year."
+      },
+      {
+        "gd": "Ged a tha i aosta a-nis, cha toil leatha fòn-làimhe no meadhanan sòisealta idir — is fheàrr leatha a bhith a' bruidhinn ri daoine aghaidh ri aghaidh anns a' bhùth bheag ionadail.",
+        "en": "Although she is elderly now, she doesn't like mobile phones or social media at all — she prefers talking to people face to face in the small local shop."
+      },
+      {
+        "gd": "Bidh mi fhìn ag ionnsachadh mòran bhuaipe mu dheidhinn beul-aithris an àite, rudan nach fhaighear ann an leabhraichean idir.",
+        "en": "I myself learn a lot from her about the area's oral tradition, things you won't find in any books at all."
+      }
+    ],
+    "glossary": [
+      {"gd": "nàbaidh", "en": "neighbour"},
+      {"gd": "cultar", "en": "culture"},
+      {"gd": "seann nòs", "en": "traditional singing style"},
+      {"gd": "fèis", "en": "festival"},
+      {"gd": "meadhanan sòisealta", "en": "social media"},
+      {"gd": "beul-aithris", "en": "oral tradition"}
+    ]
+  },
+  {
+    "id": "st009",
+    "title": "An Eadar-lìon agus a' Choimhearsnachd",
+    "titleEn": "The Internet and the Community",
+    "level": "B2",
+    "paragraphs": [
+      {
+        "gd": "Thathar ag ràdh gu bheil an eadar-lìon air buaidh mhòr a thoirt air coimhearsnachdan dùthchail, gu h-àraidh a thaobh a bhith a' cumail cànan agus cultar beò am measg nan òigridh.",
+        "en": "It is being said that the internet has had a big effect on rural communities, especially regarding keeping language and culture alive among young people."
+      },
+      {
+        "gd": "A rèir choltais, tha barrachd dhaoine òga a' cleachdadh meadhanan sòisealta gus Gàidhlig ionnsachadh seach a bhith an urra ri clasaichean a-mhàin, rud a tha a' togail connspaid am measg feadhainn a tha a' cumail a-mach gu bheil seo a' lagachadh dòighean traidiseanta ionnsachaidh.",
+        "en": "Apparently, more young people are using social media to learn Gaelic rather than relying on classes alone, which raises controversy among those who maintain that this weakens traditional learning methods."
+      },
+      {
+        "gd": "Air an làimh eile, 's dòcha gur e seo dìreach aon adhbhar a bharrachd a chum a' chànain beò aig a' cheann thall, ge bith dè an dòigh a thèid a cleachdadh.",
+        "en": "On the other hand, this may simply be one more reason that keeps the language alive in the end, whatever method is used."
+      }
+    ],
+    "glossary": [
+      {"gd": "coimhearsnachd", "en": "community"},
+      {"gd": "a rèir choltais", "en": "apparently"},
+      {"gd": "connspaid", "en": "controversy"},
+      {"gd": "air an làimh eile", "en": "on the other hand"},
+      {"gd": "aig a' cheann thall", "en": "ultimately"}
+    ]
+  },
+  {
+    "id": "st010",
+    "title": "Latha Tinn",
+    "titleEn": "A Sick Day",
+    "level": "A1",
+    "paragraphs": [
+      {
+        "gd": "An-diugh, tha mi tinn. Tha mo cheann goirt agus tha mi sgìth. Chan eil mi a' dol dhan sgoil.",
+        "en": "Today, I am ill. My head is sore and I am tired. I am not going to school."
+      },
+      {
+        "gd": "Thug mo mhàthair cungaidh-leigheis dhomh, agus bha mi nam laighe fad an latha.",
+        "en": "My mother gave me medicine, and I lay down all day."
+      },
+      {
+        "gd": "A-màireach, bidh mi nas fheàrr, tha mi an dòchas!",
+        "en": "Tomorrow, I will be better, I hope!"
+      }
+    ],
+    "glossary": [
+      {"gd": "tinn", "en": "ill / sick"},
+      {"gd": "cungaidh-leigheis", "en": "medicine"},
+      {"gd": "an dòchas", "en": "hopeful"}
+    ]
+  },
+  {
+    "id": "st011",
+    "title": "Trip mun cuairt an Eilein",
+    "titleEn": "A Trip Around the Island",
+    "level": "A2",
+    "paragraphs": [
+      {
+        "gd": "Dh'fhalbh sinn sa mhadainn tràth air bus, le ar bagaichean is tiogaidean nar làmhan. Bha an speur gorm agus grianach.",
+        "en": "We left early in the morning by bus, with our bags and tickets in our hands. The sky was blue and sunny."
+      },
+      {
+        "gd": "Air an rathad, chunnaic sinn bàtaichean aig a' phort agus itealan a' falbh dhan adhar.",
+        "en": "On the road, we saw boats at the port and a plane taking off into the sky."
+      },
+      {
+        "gd": "Nuair a ràinig sinn an stèisean, bha an t-sìde air atharrachadh gu tur: ceò is tàirneanach! Ruith sinn dhan taigh-òsta.",
+        "en": "When we reached the station, the weather had completely changed: fog and thunder! We ran to the hotel."
+      }
+    ],
+    "glossary": [
+      {"gd": "bàtaichean", "en": "boats"},
+      {"gd": "port", "en": "port / harbour"},
+      {"gd": "ceò", "en": "fog"},
+      {"gd": "tàirneanach", "en": "thunder"}
+    ]
+  },
+  {
+    "id": "st012",
+    "title": "A' Gluasad Taigh",
+    "titleEn": "Moving House",
+    "level": "B1",
+    "paragraphs": [
+      {
+        "gd": "An ath-mhìos, bidh sinn a' gluasad taigh gu àite-còmhnaidh ùr faisg air a' bhaile. Tha mi fo iomagain beagan, ach tha mi cuideachd moiteil gun do rinn sinn an co-dhùnadh seo.",
+        "en": "Next month, we are moving house to a new dwelling near the town. I'm a little anxious, but I'm also proud that we made this decision."
+      },
+      {
+        "gd": "Bidh seòmar-cadail agam fhìn, agus gàrradh beag far an urrainn dhomh fois a ghabhail feasgar.",
+        "en": "I'll have my own bedroom, and a small garden where I can rest in the evening."
+      },
+      {
+        "gd": "Chunnaic sinn aithris mun bhaile air na naidheachdan an-dè — thuirt an neach-naidheachd gu bheil a' choimhearsnachd a' fàs gu math luath.",
+        "en": "We saw a report about the town on the news yesterday — the journalist said that the community is growing quite quickly."
+      }
+    ],
+    "glossary": [
+      {"gd": "a' gluasad taigh", "en": "moving house"},
+      {"gd": "àite-còmhnaidh", "en": "dwelling"},
+      {"gd": "fo iomagain", "en": "anxious"},
+      {"gd": "moiteil", "en": "proud"},
+      {"gd": "neach-naidheachd", "en": "journalist"}
+    ]
+  },
+  {
+    "id": "st013",
+    "title": "Na Meadhanan agus an Fhìrinn",
+    "titleEn": "The Media and the Truth",
+    "level": "B2",
+    "paragraphs": [
+      {
+        "gd": "Chaidh agallamh fhoillseachadh an-dè anns am biodh ministear a' bruidhinn mu chùrsa-slàinte na dùthcha. A rèir choltais, tha am pàipear-naidheachd air aithris a sgrìobhadh a tha, gu ìre mhòr, eadar-dhealaichte bhon agallamh fhèin.",
+        "en": "An interview was published yesterday in which a minister spoke about the country's healthcare system. Apparently, the newspaper has written a report that is, to a large extent, different from the interview itself."
+      },
+      {
+        "gd": "Tha cuid a' cumail a-mach gu bheil a' chraoladh fhèin cothromach, ach gu bheil na sanasan-naidheachd a' cur cuideam air pàirtean sònraichte seach am fìor sgeulachd.",
+        "en": "Some maintain that the broadcast itself is balanced, but that the news headlines emphasise certain parts rather than the real story."
+      },
+      {
+        "gd": "Aig a' cheann thall, is e an fhianais fhèin as fheàrr airson breithneachadh a dhèanamh, seach a bhith an urra ri aon tùs a-mhàin.",
+        "en": "Ultimately, the evidence itself is the best thing for making a judgement, rather than relying on a single source alone."
+      }
+    ],
+    "glossary": [
+      {"gd": "agallamh", "en": "interview"},
+      {"gd": "craoladh", "en": "broadcast"},
+      {"gd": "pàipear-naidheachd", "en": "newspaper"},
+      {"gd": "fianais", "en": "evidence"},
+      {"gd": "breithneachadh", "en": "judgement / assessment"}
+    ]
+  },
+  {
+    "id": "st014",
+    "title": "A' Coinneachadh ri Teaghlach Ùr",
+    "titleEn": "Meeting a New Family",
+    "level": "A1",
+    "paragraphs": [
+      {
+        "gd": "Halò, is mise Anna. Seo mo bhràthair, Dòmhnall, agus mo phiuthar, Catrìona. Tha sinn uile a' fuireach còmhla ri ar pàrantan.",
+        "en": "Hello, I'm Anna. This is my brother, Donald, and my sister, Catherine. We all live together with our parents."
+      },
+      {
+        "gd": "Mas e do thoil e, an urrainn dhut Beurla a bhruidhinn? Tha beagan Beurla agam, ach is fheàrr leam Gàidhlig.",
+        "en": "Please, can you speak English? I have a little English, but I prefer Gaelic."
+      },
+      {
+        "gd": "Mo chreach, tha thu a' bruidhinn Gàidhlig glè mhath! Cò às a tha thu?",
+        "en": "My goodness, you speak Gaelic very well! Where are you from?"
+      }
+    ],
+    "glossary": [
+      {"gd": "pàrantan", "en": "parents"},
+      {"gd": "mas e do thoil e", "en": "please"},
+      {"gd": "beagan", "en": "a little"},
+      {"gd": "mo chreach", "en": "my goodness"},
+      {"gd": "cò às a tha thu?", "en": "where are you from?"}
+    ]
+  },
+  {
     "id": "st005",
     "title": "Co-chòrdadh air an Àrainneachd",
     "titleEn": "Agreement on the Environment",

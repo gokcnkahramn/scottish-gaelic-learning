@@ -181,5 +181,98 @@
       {"gd": "Tha am buileachadh a' tòiseachadh an ath-bhliadhna.", "en": "The implementation starts next year."},
       {"gd": "Bha connspaid mun phoileasaidh ùr.", "en": "There was controversy about the new policy."}
     ]
+  },
+  {
+    "id": "g019",
+    "title": "The Ten Irregular Verbs",
+    "level": "A1",
+    "body": "Almost every Gaelic course front-loads the same ten irregular verbs, because they don't follow the regular lenition pattern for the past tense and have unique verbal nouns: bi (be), abair (say) -> ag ràdh, beir (bear/catch) -> a' breith, cluinn (hear) -> a' cluinntinn, dèan (do/make) -> a' dèanamh, faic (see) -> a' faicinn, faigh (get) -> a' faighinn, rach (go) -> a' dol, ith (eat) -> ag ithe, thig (come) -> a' tighinn, thoir (give) -> a' toirt. Learn each pair (infinitive + verbal noun) together rather than trying to derive one from the other.",
+    "examples": [
+      {"gd": "Chaidh mi dhan bhùth.", "en": "I went to the shop. (rach, irregular past)"},
+      {"gd": "Thug i dhomh leabhar.", "en": "She gave me a book. (thoir, irregular past)"}
+    ]
+  },
+  {
+    "id": "g020",
+    "title": "Past and Future of the Irregular Verbs",
+    "level": "A2",
+    "body": "Each of the ten irregular verbs has its own past and future stem instead of following the regular lenition/no-change pattern. Worth drilling as fixed forms: rach -> chaidh mi (I went) / thèid mi (I will go); faigh -> fhuair mi (I got) / gheibh mi (I will get); dèan -> rinn mi (I did) / nì mi (I will do); abair -> thuirt mi (I said) / canaidh mi (I will say); thoir -> thug mi (I gave) / bheir mi (I will give).",
+    "examples": [
+      {"gd": "Fhuair mi litir an-dè.", "en": "I got a letter yesterday."},
+      {"gd": "Nì mi sin a-màireach.", "en": "I will do that tomorrow."},
+      {"gd": "Thuirt i gun canadh i rium.", "en": "She said she would tell me. (canaidh -> canadh in reported/conditional form)"}
+    ]
+  },
+  {
+    "id": "g021",
+    "title": "The Imperative Mood",
+    "level": "B1",
+    "body": "Commands and requests use the imperative, usually the bare verb root for 'you' singular/informal, with 'ibh' added for plural/formal: 'bruidhinn' (speak!) vs 'bruidhnibh' (speak!, pl./formal). Negative commands use 'na': 'na bruidhinn' (don't speak!).",
+    "examples": [
+      {"gd": "Fosgail an doras, mas e do thoil e.", "en": "Open the door, please."},
+      {"gd": "Na bi fadalach!", "en": "Don't be late!"}
+    ]
+  },
+  {
+    "id": "g022",
+    "title": "Indirect (Embedded) Questions",
+    "level": "B1",
+    "body": "When a question is embedded inside another sentence ('I don't know where he is' rather than 'Where is he?'), Gaelic keeps the dependent form of the verb and the question word, introduced by a linking particle similar to 'gu/an' patterns used for reported speech.",
+    "examples": [
+      {"gd": "Chan eil fhios agam càite a bheil e.", "en": "I don't know where he is."},
+      {"gd": "Dh'fhaighnich i dè bha mi a' dèanamh.", "en": "She asked what I was doing."}
+    ]
+  },
+  {
+    "id": "g023",
+    "title": "The Emphatic Copula: 'Is e ... a tha'",
+    "level": "B2",
+    "body": "To emphasise or contrast who/what something is, Gaelic fronts the emphasised item with the copula 'is' plus 'e/i' and a relative clause, roughly 'it is X that...'. This cleft-sentence pattern is extremely common in B2-level argumentation and formal speech for highlighting a specific point.",
+    "examples": [
+      {"gd": "Is e an fhianais a tha cudromach, chan e am beachd.", "en": "It's the evidence that matters, not the opinion."},
+      {"gd": "Is e sin as coireach ris an duilgheadas.", "en": "That is what is causing the problem."}
+    ]
+  },
+  {
+    "id": "g024",
+    "title": "Emphatic Pronouns",
+    "level": "B2",
+    "body": "Gaelic has a separate set of emphatic pronoun forms used to stress contrast ('I did, not you'): mise (I/me, emphatic), thusa (you, emphatic), esan (he/him, emphatic), ise (she/her, emphatic), sinne (we/us, emphatic), sibhse (you pl., emphatic), iadsan (they/them, emphatic). These appear constantly in natural debate/conversation at B2 and above.",
+    "examples": [
+      {"gd": "Rinn mise sin, chan e thusa.", "en": "I did that, not you."},
+      {"gd": "Bha iadsan ann cuideachd.", "en": "They were there too."}
+    ]
+  },
+  {
+    "id": "g025",
+    "title": "Comparative Subordinate Clauses",
+    "level": "B2",
+    "body": "Beyond the simple 'nas fheàrr na' (better than) comparative from A2, B2 Gaelic builds fuller comparative clauses with a verb on both sides, often using 'na bha dùil' (than expected) or 'mar a bha' (as it was) patterns, and 'a cheart cho... ri' (just as... as) for equal comparisons. These let you compare actions and whole situations, not just two nouns.",
+    "examples": [
+      {"gd": "Bha am buaidh na bu mhotha na bha dùil againn.", "en": "The impact was greater than we expected."},
+      {"gd": "Tha an suidheachadh a cheart cho duilich ri mar a bha e an-uiridh.", "en": "The situation is just as difficult as it was last year."},
+      {"gd": "Mar as motha a dh'ionnsaicheas tu, 's ann as fhasa a bhios e.", "en": "The more you learn, the easier it becomes. (correlative comparative)"}
+    ]
+  },
+  {
+    "id": "g026",
+    "title": "Possessive Pronouns (mo, do, a, ar, ur, an/am)",
+    "level": "A1",
+    "body": "Gaelic possessives ('my', 'your', 'his'...) go before the noun and several of them trigger lenition on the word that follows: mo (my) and do (your, informal) lenite; a (his) lenites; a (her) does not lenite but adds an 'h' before a vowel instead; ar (our), ur (your, formal/plural) and an/am (their) don't lenite. Learn each possessive together with whether it lenites, rather than as a single uniform rule.",
+    "examples": [
+      {"gd": "mo bhràthair (my brother, lenited)", "en": "my brother"},
+      {"gd": "a bràthair (her brother, no lenition) vs a bhràthair (his brother, lenited)", "en": "her brother / his brother — same spelling pattern 'a', opposite lenition"},
+      {"gd": "ar teaghlach (our family, no lenition)", "en": "our family"}
+    ]
+  },
+  {
+    "id": "g027",
+    "title": "'Fhìn' — the Reflexive/Emphatic 'Self'",
+    "level": "A2",
+    "body": "Adding 'fhìn' after a pronoun means 'self' (myself, yourself...) and is commonly used to turn a question back on someone, similar to English 'and you?' after answering 'how are you?'. Don't confuse this with the separate emphatic pronoun set (mise, thusa, esan...) from g024 — 'fhìn' adds emphasis/reflexivity to the normal pronoun, it doesn't replace it.",
+    "examples": [
+      {"gd": "Tha mi gu math, tapadh leat. Ciamar a tha thu fhìn?", "en": "I'm fine, thanks. How about you(rself)?"},
+      {"gd": "Rinn mi fhìn sin.", "en": "I did that myself."}
+    ]
   }
 ]
