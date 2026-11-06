@@ -339,6 +339,87 @@
     ]
   },
   {
+    "id": "st015",
+    "title": "Latha air an Tuathanas",
+    "titleEn": "A Day on the Farm",
+    "level": "A2",
+    "paragraphs": [
+      {
+        "gd": "Tha mo sheanair na thuathanach, agus tha tuathanas beag aige faisg air a' bhaile. Tha each, bò, caoraich, agus muc aige, agus mòran chearc timcheall an taighe.",
+        "en": "My grandfather is a farmer, and he has a small farm near the town. He has a horse, a cow, sheep, and a pig, and many hens around the house."
+      },
+      {
+        "gd": "Anns a' mhadainn, bidh sinn a' coiseachd dhan achadh gus am bò a lorg. Tha e snog a bhith a' cluinntinn nan eun anns a' choille faisg air.",
+        "en": "In the morning, we walk to the field to find the cow. It's nice hearing the birds in the forest nearby."
+      },
+      {
+        "gd": "Feasgar, bidh seanmhair a' dèanamh càise agus ìm leis a' bhainne. Is toil leam fuireach an seo as t-samhradh — tha e fada nas fheàrr na a bhith anns a' bhaile mhòr.",
+        "en": "In the evening, grandmother makes cheese and butter with the milk. I like staying here in summer — it's much better than being in the big city."
+      }
+    ],
+    "glossary": [
+      {"gd": "tuathanas", "en": "farm"},
+      {"gd": "tuathanach", "en": "farmer"},
+      {"gd": "achadh", "en": "field"},
+      {"gd": "coille", "en": "forest"},
+      {"gd": "càise", "en": "cheese"}
+    ]
+  },
+  {
+    "id": "st016",
+    "title": "Obair Ùr",
+    "titleEn": "A New Job",
+    "level": "B1",
+    "paragraphs": [
+      {
+        "gd": "Fhuair mo charaid, Seumas, obair ùr mar thuathanach aig oifis ann an Glaschu. Tha e moiteil, ach tha e cuideachd fo iomagain mu bhith a' fàgail a sheann obair.",
+        "en": "My friend, Seumas, got a new job as a manager at an office in Glasgow. He is proud, but he is also anxious about leaving his old job."
+      },
+      {
+        "gd": "Thuirt e gun robh an luchd-obrach ùr glè chàirdeil, agus gu bheil e a' faireachdainn barrachd misneachd a h-uile latha.",
+        "en": "He said that the new employees were very friendly, and that he feels more confidence every day."
+      },
+      {
+        "gd": "Chan eil fhios aige dè cho fada 's a dh'fhanas e anns an obair seo, ach tha e an dòchas gum bi e sona agus gum faigh e cothrom ionnsachadh mòran.",
+        "en": "He doesn't know how long he'll stay in this job, but he hopes he'll be happy and that he'll get a chance to learn a lot."
+      }
+    ],
+    "glossary": [
+      {"gd": "luchd-obrach", "en": "employees / workforce"},
+      {"gd": "fo iomagain", "en": "anxious"},
+      {"gd": "misneachd", "en": "confidence"},
+      {"gd": "cothrom", "en": "opportunity / chance"}
+    ]
+  },
+  {
+    "id": "st017",
+    "title": "Coinneamh na Comhairle",
+    "titleEn": "The Council Meeting",
+    "level": "B2",
+    "paragraphs": [
+      {
+        "gd": "Bha deasbad mòr aig a' chomhairle a-raoir mun bhuidseat airson an ath-bhliadhna. Bha cuid de na comhairlichean ag argamaid gum feumar barrachd a chosg air rianachd na sgoilean, ach bha càch a' cumail a-mach gu bheil cion-cosnaidh na dhuilgheadas nas cudromaiche an-dràsta.",
+        "en": "There was a big debate at the council last night about next year's budget. Some councillors argued that more needs to be spent on school administration, but others maintained that unemployment is a more important problem right now."
+      },
+      {
+        "gd": "Thuirt aon neach-stiùiridh gum bu chòir dha prìomhachas a bhith aig leasachadh eaconomach na sgìre, seach ro-innleachd a tha stèidhichte air buidseatan nas lugha a-mhàin.",
+        "en": "One director said that priority should be given to the economic development of the area, rather than a strategy based solely on smaller budgets."
+      },
+      {
+        "gd": "Aig a' cheann thall, cha deach co-dhùnadh a dhèanamh, agus thèid an deasbad air adhart aig a' chiad choinneimh eile.",
+        "en": "In the end, no decision was made, and the debate will continue at the next meeting."
+      }
+    ],
+    "glossary": [
+      {"gd": "comhairle", "en": "council"},
+      {"gd": "comhairliche", "en": "councillor"},
+      {"gd": "buidseat", "en": "budget"},
+      {"gd": "cion-cosnaidh", "en": "unemployment"},
+      {"gd": "leasachadh eaconomach", "en": "economic development"},
+      {"gd": "ro-innleachd", "en": "strategy"}
+    ]
+  },
+  {
     "id": "st005",
     "title": "Co-chòrdadh air an Àrainneachd",
     "titleEn": "Agreement on the Environment",

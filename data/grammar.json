@@ -274,5 +274,148 @@
       {"gd": "Tha mi gu math, tapadh leat. Ciamar a tha thu fhìn?", "en": "I'm fine, thanks. How about you(rself)?"},
       {"gd": "Rinn mi fhìn sin.", "en": "I did that myself."}
     ]
+  },
+  {
+    "id": "g028",
+    "title": "The Definite Article: an, am, an t-, a', na, na h-",
+    "level": "A1",
+    "body": "Gaelic has no word for 'a/an' (nouns just stand alone), but 'the' changes shape depending on the noun's gender and first letter. Most nouns use 'an'. Masculine nouns starting with a 'lip' sound (b/f/m/p) use 'am' instead. Masculine nouns starting with a vowel use 'an t-'. Feminine nouns starting with b/c/g/m/p use 'a'' plus lenition; feminine nouns starting with 's' followed by l/n/r/a vowel also take 'an t-' (not 'a''), e.g. 'an t-seanmhair' (the grandmother). The plural 'the' is 'na' (or 'na h-' before a vowel). It looks like a lot of forms, but they all follow from gender + first letter, so learn the pattern rather than each word's article by heart.",
+    "examples": [
+      {"gd": "am bòrd", "en": "the table (masculine, starts with b)"},
+      {"gd": "an t-uisge", "en": "the water/rain (masculine, starts with a vowel)"},
+      {"gd": "a' chailleach", "en": "the old woman (feminine, starts with c, lenited)"},
+      {"gd": "an t-sròn", "en": "the nose (feminine, starts with s+vowel, takes an t- not a')"},
+      {"gd": "na taighean / na h-uighean", "en": "the houses / the eggs (plural, consonant vs vowel)"}
+    ]
+  },
+  {
+    "id": "g029",
+    "title": "More Lenition Triggers (glè, ro, aon, dà, gun, cha)",
+    "level": "A2",
+    "body": "Beyond possessives (g026), several other very common words trigger lenition on the word right after them: 'glè' (very), 'ro' (too), 'aon' (one), 'dà' (two), 'gun' (without) and the negative 'cha' (not). A few consonant clusters are immune to lenition no matter what precedes them: 'sg', 'sp', 'sm' and 'st' never lenite, and words starting with d/s/t often resist lenition after 'aon', 'gun' and 'cha' specifically (e.g. 'cha tig', not 'cha dhig').",
+    "examples": [
+      {"gd": "glè bheag", "en": "very small (beag -> bheag)"},
+      {"gd": "dà thaigh", "en": "two houses (taigh -> thaigh)"},
+      {"gd": "cha bhi mi ann, ach cha tig thu.", "en": "I won't be there, but you won't come. (bi lenites, tig resists after cha)"}
+    ]
+  },
+  {
+    "id": "g030",
+    "title": "Adjectives That Go Before the Noun",
+    "level": "A2",
+    "body": "Almost all Gaelic adjectives follow the noun they describe (taigh mòr, a big house), but a small, fixed set goes in front instead, the way English always does: 'deagh' (good), 'droch' (bad), 'seann' (old) and 'fìor' (genuine/true). These front-position adjectives also typically lenite the noun that follows.",
+    "examples": [
+      {"gd": "deagh latha", "en": "a good day"},
+      {"gd": "droch shìde", "en": "bad weather"},
+      {"gd": "seann chàr", "en": "an old car"},
+      {"gd": "fìor dhuine", "en": "a genuine/real man"}
+    ]
+  },
+  {
+    "id": "g031",
+    "title": "Irregular Comparatives and the Past-Tense 'Bu'",
+    "level": "B1",
+    "body": "Many common adjectives have an irregular comparative/superlative stem instead of the regular 'slenderise + e' pattern: math (good) -> nas fheàrr/as fheàrr; mòr (big) -> nas motha/as motha; beag (small) -> nas lugha/as lugha; dona (bad) -> nas miosa/as miosa. To compare things in the past tense, 'nas'/'as' are replaced by 'bu'/'b'' (lenites a following consonant): 'bu bhrèagha' (was more beautiful), 'b'e Iain a b'òige' (Iain was the youngest).",
+    "examples": [
+      {"gd": "Tha seo nas fheàrr na sin.", "en": "This is better than that. (present)"},
+      {"gd": "Bha i na bu bhrèagha na Anna.", "en": "She was more beautiful than Anna. (past)"}
+    ]
+  },
+  {
+    "id": "g032",
+    "title": "Root vs Verbal Noun: How a Gaelic Verb Is Built",
+    "level": "A1",
+    "body": "Every Gaelic verb has two core citation forms you'll meet constantly: the 'root' (the bare command form, and the base the past/future/conditional are built from) and the 'verbal noun' (used after 'tha...a'/ag' for ongoing action, and after 'a'/a dh'' for the infinitive 'to do X'). Dictionaries list both. 'Seas' (stand) is the root; 'seasamh' is its verbal noun, giving 'tha mi a' seasamh' (I am standing) and 'a sheasamh' (to stand).",
+    "examples": [
+      {"gd": "cuir (root) -> cur (verbal noun)", "en": "put -> putting (an irregular-looking but common pair)"},
+      {"gd": "Tha mi a' dol a dh'òl.", "en": "I am going to drink. (a dh' before a vowel-initial verbal noun)"}
+    ]
+  },
+  {
+    "id": "g033",
+    "title": "Regular Past Tense: the Full Pattern",
+    "level": "A2",
+    "body": "Building on g006, the regular past tense actually splits three ways depending on the root's first letter. Lenite the root if it starts with b/c/d/g/m/p/t, or with f+consonant/s+vowel: buail -> bhuail (hit/hit). Leave it unchanged if it starts with l/n/r or sg/sm/sp/st: stad -> stad (stop/stopped) — identical to the root. Add 'dh'' in front if it starts with a vowel or f+vowel: òl -> dh'òl (drink/drank), feuch -> dh'fheuch (try/tried, the f stays silent).",
+    "examples": [
+      {"gd": "Laigh e air an làr.", "en": "He lay down on the floor. (laigh is unchanged — starts with l)"},
+      {"gd": "Dh'èirich mi tràth.", "en": "I rose early. (vowel-initial root gets dh')"}
+    ]
+  },
+  {
+    "id": "g034",
+    "title": "Prepositional Possessives (gam, nam, gad, nad...)",
+    "level": "B1",
+    "body": "When a possessive ('my', 'your'...) combines with the prepositions 'aig' (at) or 'ann' (in), the two fuse into a single short word: aig+mo -> gam, ann+mo -> nam, aig+do -> gad, ann+do -> nad, and so on for each person. These are common in set phrases about ongoing states and feelings ('tha X gam...' patterns) and are worth recognising as a fused pair rather than puzzling over which preposition and possessive they came from.",
+    "examples": [
+      {"gd": "Tha i gam chuideachadh.", "en": "She is helping me. (aig + mo -> gam)"},
+      {"gd": "Tha an leabhar agam nam phòcaid.", "en": "My book is in my pocket. (ann + mo -> nam)"}
+    ]
+  },
+  {
+    "id": "g035",
+    "title": "Noun Cases: Nominative, Vocative, Dative, Genitive",
+    "level": "B1",
+    "body": "Gaelic nouns change their spelling slightly depending on their grammatical role, a system of four 'cases'. Nominative is the plain form (subject of a sentence). Vocative is used when addressing someone directly, marked by 'a' plus lenition (and slenderising for masculine names): 'a Mhàiri!', 'a Dhòmhnaill!'. Dative follows simple prepositions like 'ann'/'air'/'do' and often slenderises a feminine noun's final vowel. Genitive marks possession/'of' relationships and follows compound prepositions, often changing the noun's ending (e.g. 'obair-sgoile', schoolwork). You don't need to memorise full declension tables to get by, but recognising *why* a word's ending shifted helps a lot when reading.",
+    "examples": [
+      {"gd": "a Sheumais!", "en": "James! (vocative, lenited + slenderised)"},
+      {"gd": "anns a' bhaile", "en": "in the town (dative, after a simple preposition)"},
+      {"gd": "cas a' choin", "en": "the dog's leg (genitive, 'of the dog')"}
+    ]
+  },
+  {
+    "id": "g036",
+    "title": "Demonstratives: seo, sin, siud",
+    "level": "A1",
+    "body": "Gaelic has three degrees of 'this/that' based on distance from the speaker, not just two like English: 'seo' (this, near), 'sin' (that, middle distance — the most commonly used of the three), and 'siud'/'ud' (that yonder, far away or out of sight). Each also has pronoun and adverb forms: 'an seo' (here), 'an sin' (there), 'an siud' (yonder).",
+    "examples": [
+      {"gd": "Seo am balach beag.", "en": "Here is the little boy. (seo, near)"},
+      {"gd": "Chan eil sin ceart.", "en": "That's not right. (sin, middle — the default 'that')"},
+      {"gd": "Cò tha an siud?", "en": "Who is that over there? (siud, far/out of sight)"}
+    ]
+  },
+  {
+    "id": "g037",
+    "title": "Prepositional Pronouns with 'Do' and 'Le'",
+    "level": "A2",
+    "body": "Two more common prepositions fuse with pronouns the same way 'aig' and 'air' do (g007). 'Do' (to) gives: dhomh (to me), dhut (to you), dha (to him), dhi (to her), dhuinn (to us), dhuibh (to you pl.), dhaibh (to them) — heard constantly in greetings like 'oidhche mhath dhut'. 'Le' (with) gives: leam, leat, leis, leatha, leinn, leibh, leotha, and builds the common phrases 'is toil leam' (I like) and 'is fheàrr leam' (I prefer) you already know from g009.",
+    "examples": [
+      {"gd": "Feasgar math dhuibh!", "en": "Good afternoon to you! (formal/plural)"},
+      {"gd": "Beannachd leat.", "en": "Goodbye. (lit. 'a blessing with you')"},
+      {"gd": "Cò leis a tha seo?", "en": "Who does this belong to? (lit. 'with whom is this')"}
+    ]
+  },
+  {
+    "id": "g038",
+    "title": "Numbers with Nouns: Singular, Dual, and Lenition",
+    "level": "A2",
+    "body": "Counting a noun in Gaelic doesn't just stick a plural on after 3+ the way English does. 'Aon' (one) and 'dà' (two) are both followed by the *singular* form of the noun, not the plural — this is sometimes called the 'dual'. Plural only kicks in from 'trì' (three) onward. 'Aon' and 'dà' also lenite the noun that follows, except 'aon' doesn't lenite nouns starting with d or t.",
+    "examples": [
+      {"gd": "aon chat, dà chupa, trì balaich", "en": "one cat, two cups, three boys (singular, singular, then plural)"},
+      {"gd": "aon taigh (not 'aon thaigh')", "en": "one house — 'aon' skips lenition before t/d"}
+    ]
+  },
+  {
+    "id": "g039",
+    "title": "Expressing Profession or Temporary State with 'Na' + Possessive",
+    "level": "B1",
+    "body": "A very common way to say what someone's job is, or to describe a temporary state, uses 'ann' fused with a possessive (nam/nad/na/na/nar/nur/nan — the same fusion family as g034) placed between 'tha' and the noun: literally 'I am in-my teacher'. Masculine 'na' lenites the following noun, feminine 'na' does not — the same his/her asymmetry as other possessives. The same pattern covers everyday idioms like being alone, asleep, or in a hurry, not just professions.",
+    "examples": [
+      {"gd": "Tha e na thidsear.", "en": "He is a teacher. (masculine na, lenited)"},
+      {"gd": "Tha i na tidsear.", "en": "She is a teacher. (feminine na, not lenited)"},
+      {"gd": "Tha mi nam aonar.", "en": "I am alone."},
+      {"gd": "Tha iad nan cadal.", "en": "They are asleep."}
+    ]
+  },
+  {
+    "id": "g040",
+    "title": "Static vs Motion Direction Words (shuas/suas, shios/sios...)",
+    "level": "A2",
+    "body": "Several Gaelic direction words come in pairs: one form for a fixed location, another for movement toward it — a distinction English doesn't mark. 'Shuas' (up, a place) vs 'suas' (upwards, movement); 'shios' (down, a place) vs 'sios' (downwards, movement); 'a-muigh' (outside, a place) vs 'a-mach' (out, movement); 'a-staigh' (inside, a place) vs 'a-steach' (in, movement). Picking the wrong one of the pair is a very common learner mix-up, so it's worth drilling as pairs rather than learning each word alone.",
+    "examples": [
+      {"gd": "Tha e shuas an staidhre.", "en": "He is upstairs. (shuas, static location)"},
+      {"gd": "Tha e a' dol suas an staidhre.", "en": "He is going upstairs. (suas, movement)"},
+      {"gd": "Tha i a-muigh.", "en": "She is outside. (static)"},
+      {"gd": "Tha i a' dol a-mach.", "en": "She is going out. (movement)"}
+    ]
   }
 ]

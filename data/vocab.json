@@ -1,376 +1,7759 @@
 [
-  {"id": "v001", "gd": "halò", "en": "hello", "cat": "greetings", "level": "A1", "note": "informal greeting"},
-  {"id": "v002", "gd": "madainn mhath", "en": "good morning", "cat": "greetings", "level": "A1"},
-  {"id": "v003", "gd": "feasgar math", "en": "good afternoon/evening", "cat": "greetings", "level": "A1"},
-  {"id": "v004", "gd": "oidhche mhath", "en": "good night", "cat": "greetings", "level": "A1"},
-  {"id": "v005", "gd": "mar sin leat", "en": "goodbye (to one person, informal)", "cat": "greetings", "level": "A1"},
-  {"id": "v006", "gd": "tapadh leat", "en": "thank you (informal)", "cat": "greetings", "level": "A1"},
-  {"id": "v007", "gd": "tapadh leibh", "en": "thank you (formal/plural)", "cat": "greetings", "level": "A1"},
-  {"id": "v008", "gd": "ciamar a tha thu?", "en": "how are you? (informal)", "cat": "greetings", "level": "A1"},
-  {"id": "v009", "gd": "tha gu math", "en": "fine / good", "cat": "greetings", "level": "A1"},
-  {"id": "v010", "gd": "dè an t-ainm a th' ort?", "en": "what is your name?", "cat": "greetings", "level": "A1"},
-  {"id": "v011", "gd": "is mise", "en": "I am (lit. it is me)", "cat": "greetings", "level": "A1"},
-  {"id": "v012", "gd": "mo chàirdean", "en": "my friends/relatives", "cat": "family", "level": "A1"},
-  {"id": "v013", "gd": "màthair", "en": "mother", "cat": "family", "level": "A1"},
-  {"id": "v014", "gd": "athair", "en": "father", "cat": "family", "level": "A1"},
-  {"id": "v015", "gd": "piuthar", "en": "sister", "cat": "family", "level": "A1"},
-  {"id": "v016", "gd": "bràthair", "en": "brother", "cat": "family", "level": "A1"},
-  {"id": "v017", "gd": "mac", "en": "son", "cat": "family", "level": "A1"},
-  {"id": "v018", "gd": "nighean", "en": "daughter / girl", "cat": "family", "level": "A1"},
-  {"id": "v019", "gd": "seanair", "en": "grandfather", "cat": "family", "level": "A1"},
-  {"id": "v020", "gd": "seanmhair", "en": "grandmother", "cat": "family", "level": "A1"},
-  {"id": "v021", "gd": "a h-aon", "en": "one", "cat": "numbers", "level": "A1"},
-  {"id": "v022", "gd": "a dhà", "en": "two", "cat": "numbers", "level": "A1"},
-  {"id": "v023", "gd": "a trì", "en": "three", "cat": "numbers", "level": "A1"},
-  {"id": "v024", "gd": "a ceithir", "en": "four", "cat": "numbers", "level": "A1"},
-  {"id": "v025", "gd": "a còig", "en": "five", "cat": "numbers", "level": "A1"},
-  {"id": "v026", "gd": "a sia", "en": "six", "cat": "numbers", "level": "A1"},
-  {"id": "v027", "gd": "a seachd", "en": "seven", "cat": "numbers", "level": "A1"},
-  {"id": "v028", "gd": "a h-ochd", "en": "eight", "cat": "numbers", "level": "A1"},
-  {"id": "v029", "gd": "a naoi", "en": "nine", "cat": "numbers", "level": "A1"},
-  {"id": "v030", "gd": "a deich", "en": "ten", "cat": "numbers", "level": "A1"},
-  {"id": "v031", "gd": "tha", "en": "yes / is (verb 'to be', positive)", "cat": "verbs", "level": "A1"},
-  {"id": "v032", "gd": "chan eil", "en": "no / is not", "cat": "verbs", "level": "A1"},
-  {"id": "v033", "gd": "a bheil?", "en": "is...? (question form of 'to be')", "cat": "verbs", "level": "A1"},
-  {"id": "v034", "gd": "bha", "en": "was / were (past tense of 'to be')", "cat": "verbs", "level": "A1"},
-  {"id": "v035", "gd": "bidh", "en": "will be (future tense of 'to be')", "cat": "verbs", "level": "A1"},
-  {"id": "v036", "gd": "tuigsinn", "en": "to understand", "cat": "verbs", "level": "A1"},
-  {"id": "v037", "gd": "bruidhinn", "en": "to speak", "cat": "verbs", "level": "A1"},
-  {"id": "v038", "gd": "ithe", "en": "to eat", "cat": "verbs", "level": "A1"},
-  {"id": "v039", "gd": "òl", "en": "to drink", "cat": "verbs", "level": "A1"},
-  {"id": "v040", "gd": "coimhead", "en": "to look / watch", "cat": "verbs", "level": "A1"},
-  {"id": "v041", "gd": "uisge", "en": "water / rain", "cat": "everyday", "level": "A1"},
-  {"id": "v042", "gd": "biadh", "en": "food", "cat": "everyday", "level": "A1"},
-  {"id": "v043", "gd": "taigh", "en": "house", "cat": "everyday", "level": "A1"},
-  {"id": "v044", "gd": "sgoil", "en": "school", "cat": "everyday", "level": "A1"},
-  {"id": "v045", "gd": "obair", "en": "work", "cat": "everyday", "level": "A1"},
-  {"id": "v046", "gd": "latha", "en": "day", "cat": "everyday", "level": "A1"},
-  {"id": "v047", "gd": "oidhche", "en": "night", "cat": "everyday", "level": "A1"},
-  {"id": "v048", "gd": "cù", "en": "dog", "cat": "everyday", "level": "A1"},
-  {"id": "v049", "gd": "cat", "en": "cat", "cat": "everyday", "level": "A1"},
-  {"id": "v050", "gd": "dìleab", "en": "legacy / heritage", "cat": "everyday", "level": "A1"},
-  {"id": "v051", "gd": "dearg", "en": "red", "cat": "colours", "level": "A1"},
-  {"id": "v052", "gd": "gorm", "en": "blue", "cat": "colours", "level": "A1"},
-  {"id": "v053", "gd": "uaine", "en": "green", "cat": "colours", "level": "A1"},
-  {"id": "v054", "gd": "geal", "en": "white", "cat": "colours", "level": "A1"},
-  {"id": "v055", "gd": "dubh", "en": "black", "cat": "colours", "level": "A1"},
-  {"id": "v056", "gd": "buidhe", "en": "yellow", "cat": "colours", "level": "A1"},
-  {"id": "v057", "gd": "donn", "en": "brown", "cat": "colours", "level": "A1"},
-  {"id": "v058", "gd": "mòr", "en": "big", "cat": "adjectives", "level": "A1"},
-  {"id": "v059", "gd": "beag", "en": "small", "cat": "adjectives", "level": "A1"},
-  {"id": "v060", "gd": "math", "en": "good", "cat": "adjectives", "level": "A1"},
-  {"id": "v061", "gd": "dona", "en": "bad", "cat": "adjectives", "level": "A1"},
-  {"id": "v062", "gd": "blàth", "en": "warm", "cat": "adjectives", "level": "A1"},
-  {"id": "v063", "gd": "fuar", "en": "cold", "cat": "adjectives", "level": "A1"},
-  {"id": "v064", "gd": "sgìth", "en": "tired", "cat": "adjectives", "level": "A1"},
-  {"id": "v065", "gd": "toilichte", "en": "happy", "cat": "adjectives", "level": "A1"},
-  {"id": "v066", "gd": "brònach", "en": "sad", "cat": "adjectives", "level": "A1"},
-  {"id": "v067", "gd": "an-diugh", "en": "today", "cat": "time", "level": "A1"},
-  {"id": "v068", "gd": "an-dè", "en": "yesterday", "cat": "time", "level": "A1"},
-  {"id": "v069", "gd": "a-màireach", "en": "tomorrow", "cat": "time", "level": "A1"},
-  {"id": "v070", "gd": "a-nis", "en": "now", "cat": "time", "level": "A1"},
-  {"id": "v071", "gd": "Diluain", "en": "Monday", "cat": "time", "level": "A1"},
-  {"id": "v072", "gd": "Dimàirt", "en": "Tuesday", "cat": "time", "level": "A1"},
-  {"id": "v073", "gd": "Diciadain", "en": "Wednesday", "cat": "time", "level": "A1"},
-  {"id": "v074", "gd": "Diardaoin", "en": "Thursday", "cat": "time", "level": "A1"},
-  {"id": "v075", "gd": "Dihaoine", "en": "Friday", "cat": "time", "level": "A1"},
-  {"id": "v076", "gd": "Disathairne", "en": "Saturday", "cat": "time", "level": "A1"},
-  {"id": "v077", "gd": "Didòmhnaich", "en": "Sunday", "cat": "time", "level": "A1"},
-  {"id": "v078", "gd": "càite?", "en": "where?", "cat": "questions", "level": "A1"},
-  {"id": "v079", "gd": "cò?", "en": "who?", "cat": "questions", "level": "A1"},
-  {"id": "v080", "gd": "dè?", "en": "what?", "cat": "questions", "level": "A1"},
-  {"id": "v081", "gd": "cuin?", "en": "when?", "cat": "questions", "level": "A1"},
-  {"id": "v082", "gd": "carson?", "en": "why?", "cat": "questions", "level": "A1"},
-  {"id": "v083", "gd": "ciamar?", "en": "how?", "cat": "questions", "level": "A1"},
-  {"id": "v084", "gd": "glè mhath", "en": "very good", "cat": "everyday", "level": "A1"},
-  {"id": "v085", "gd": "duilich", "en": "sorry / difficult", "cat": "everyday", "level": "A1"},
-  {"id": "v086", "gd": "feuch", "en": "try", "cat": "verbs", "level": "A1"},
-  {"id": "v087", "gd": "faicinn", "en": "to see", "cat": "verbs", "level": "A1"},
-  {"id": "v088", "gd": "cluinntinn", "en": "to hear", "cat": "verbs", "level": "A1"},
-  {"id": "v089", "gd": "falbh", "en": "to go / leave", "cat": "verbs", "level": "A1"},
-  {"id": "v090", "gd": "tighinn", "en": "to come", "cat": "verbs", "level": "A1"},
-  {"id": "v091", "gd": "fuireach", "en": "to stay / live (reside)", "cat": "verbs", "level": "A1"},
-  {"id": "v092", "gd": "sgoilear", "en": "pupil / student", "cat": "everyday", "level": "A1"},
-  {"id": "v093", "gd": "tidsear", "en": "teacher", "cat": "everyday", "level": "A1"},
-  {"id": "v094", "gd": "leabhar", "en": "book", "cat": "everyday", "level": "A1"},
-  {"id": "v095", "gd": "sgrìobhadh", "en": "writing", "cat": "verbs", "level": "A1"},
-  {"id": "v096", "gd": "leughadh", "en": "reading", "cat": "verbs", "level": "A1"},
-  {"id": "v097", "gd": "Alba", "en": "Scotland", "cat": "places", "level": "A1"},
-  {"id": "v098", "gd": "Glaschu", "en": "Glasgow", "cat": "places", "level": "A1"},
-  {"id": "v099", "gd": "Dùn Èideann", "en": "Edinburgh", "cat": "places", "level": "A1"},
-  {"id": "v100", "gd": "An Eilean Sgitheanach", "en": "The Isle of Skye", "cat": "places", "level": "A1"},
-
-  {"id": "v101", "gd": "bùth", "en": "shop", "cat": "shopping", "level": "A2"},
-  {"id": "v102", "gd": "airgead", "en": "money", "cat": "shopping", "level": "A2"},
-  {"id": "v103", "gd": "cia mheud a tha seo a' cosg?", "en": "how much does this cost?", "cat": "shopping", "level": "A2"},
-  {"id": "v104", "gd": "saor", "en": "cheap", "cat": "shopping", "level": "A2"},
-  {"id": "v105", "gd": "daor", "en": "expensive", "cat": "shopping", "level": "A2"},
-  {"id": "v106", "gd": "ag iarraidh", "en": "wanting", "cat": "shopping", "level": "A2"},
-  {"id": "v107", "gd": "deis", "en": "ready", "cat": "everyday", "level": "A2"},
-  {"id": "v108", "gd": "trafaig", "en": "traffic", "cat": "travel", "level": "A2"},
-  {"id": "v109", "gd": "bus", "en": "bus", "cat": "travel", "level": "A2"},
-  {"id": "v110", "gd": "trèana", "en": "train", "cat": "travel", "level": "A2"},
-  {"id": "v111", "gd": "port-adhair", "en": "airport", "cat": "travel", "level": "A2"},
-  {"id": "v112", "gd": "tiogaid", "en": "ticket", "cat": "travel", "level": "A2"},
-  {"id": "v113", "gd": "air an deis làimh", "en": "on the right", "cat": "directions", "level": "A2"},
-  {"id": "v114", "gd": "air an làimh chlì", "en": "on the left", "cat": "directions", "level": "A2"},
-  {"id": "v115", "gd": "dìreach air adhart", "en": "straight ahead", "cat": "directions", "level": "A2"},
-  {"id": "v116", "gd": "faisg", "en": "near", "cat": "directions", "level": "A2"},
-  {"id": "v117", "gd": "fada", "en": "far", "cat": "directions", "level": "A2"},
-  {"id": "v118", "gd": "sìde", "en": "weather", "cat": "weather", "level": "A2"},
-  {"id": "v119", "gd": "grianach", "en": "sunny", "cat": "weather", "level": "A2"},
-  {"id": "v120", "gd": "sgòthach", "en": "cloudy", "cat": "weather", "level": "A2"},
-  {"id": "v121", "gd": "gaothach", "en": "windy", "cat": "weather", "level": "A2"},
-  {"id": "v122", "gd": "cur sneachda", "en": "snowing", "cat": "weather", "level": "A2"},
-  {"id": "v123", "gd": "cur-seachad", "en": "hobby / pastime", "cat": "hobbies", "level": "A2"},
-  {"id": "v124", "gd": "ceòl", "en": "music", "cat": "hobbies", "level": "A2"},
-  {"id": "v125", "gd": "spòrs", "en": "sport", "cat": "hobbies", "level": "A2"},
-  {"id": "v126", "gd": "snàmh", "en": "swimming", "cat": "hobbies", "level": "A2"},
-  {"id": "v127", "gd": "coiseachd", "en": "walking / hiking", "cat": "hobbies", "level": "A2"},
-  {"id": "v128", "gd": "seinn", "en": "singing", "cat": "hobbies", "level": "A2"},
-  {"id": "v129", "gd": "dannsa", "en": "dancing", "cat": "hobbies", "level": "A2"},
-  {"id": "v130", "gd": "is toil leam", "en": "I like", "cat": "opinions", "level": "A2"},
-  {"id": "v131", "gd": "cha toil leam", "en": "I don't like", "cat": "opinions", "level": "A2"},
-  {"id": "v132", "gd": "is fheàrr leam", "en": "I prefer", "cat": "opinions", "level": "A2"},
-  {"id": "v133", "gd": "a-rithist", "en": "again", "cat": "everyday", "level": "A2"},
-  {"id": "v134", "gd": "an-còmhnaidh", "en": "always", "cat": "everyday", "level": "A2"},
-  {"id": "v135", "gd": "uaireannan", "en": "sometimes", "cat": "everyday", "level": "A2"},
-  {"id": "v136", "gd": "a-riamh", "en": "ever/never (with negative)", "cat": "everyday", "level": "A2"},
-  {"id": "v137", "gd": "gach latha", "en": "every day", "cat": "everyday", "level": "A2"},
-  {"id": "v138", "gd": "deoch", "en": "drink (noun)", "cat": "everyday", "level": "A2"},
-  {"id": "v139", "gd": "bòrd", "en": "table", "cat": "everyday", "level": "A2"},
-  {"id": "v140", "gd": "cadal", "en": "sleep", "cat": "verbs", "level": "A2"},
-
-  {"id": "v141", "gd": "a-rèir", "en": "according to", "cat": "connectors", "level": "B1"},
-  {"id": "v142", "gd": "ge-tà", "en": "however", "cat": "connectors", "level": "B1"},
-  {"id": "v143", "gd": "mar sin", "en": "therefore / so", "cat": "connectors", "level": "B1"},
-  {"id": "v144", "gd": "a bharrachd air", "en": "in addition to", "cat": "connectors", "level": "B1"},
-  {"id": "v145", "gd": "ged a", "en": "although", "cat": "connectors", "level": "B1"},
-  {"id": "v146", "gd": "ma-thà", "en": "then / in that case", "cat": "connectors", "level": "B1"},
-  {"id": "v147", "gd": "beachd", "en": "opinion", "cat": "opinions", "level": "B1"},
-  {"id": "v148", "gd": "a rèir mo bheachd-sa", "en": "in my opinion", "cat": "opinions", "level": "B1"},
-  {"id": "v149", "gd": "aontachadh", "en": "to agree", "cat": "verbs", "level": "B1"},
-  {"id": "v150", "gd": "eas-aontachadh", "en": "to disagree", "cat": "verbs", "level": "B1"},
-  {"id": "v151", "gd": "àrainneachd", "en": "environment", "cat": "society", "level": "B1"},
-  {"id": "v152", "gd": "poileataics", "en": "politics", "cat": "society", "level": "B1"},
-  {"id": "v153", "gd": "eaconamaidh", "en": "economy", "cat": "society", "level": "B1"},
-  {"id": "v154", "gd": "slàinte-inntinn", "en": "mental health", "cat": "society", "level": "B1"},
-  {"id": "v155", "gd": "teicneòlas", "en": "technology", "cat": "society", "level": "B1"},
-  {"id": "v156", "gd": "ionnsachadh", "en": "learning", "cat": "education", "level": "B1"},
-  {"id": "v157", "gd": "oilthigh", "en": "university", "cat": "education", "level": "B1"},
-  {"id": "v158", "gd": "ceum", "en": "degree / step", "cat": "education", "level": "B1"},
-  {"id": "v159", "gd": "cosnadh", "en": "employment / earning", "cat": "work", "level": "B1"},
-  {"id": "v160", "gd": "còmhdhail", "en": "meeting / conference", "cat": "work", "level": "B1"},
-  {"id": "v161", "gd": "buidseat", "en": "budget", "cat": "work", "level": "B1"},
-  {"id": "v162", "gd": "a dh'aindeoin", "en": "despite", "cat": "connectors", "level": "B1"},
-  {"id": "v163", "gd": "fiosrachadh", "en": "information", "cat": "society", "level": "B1"},
-  {"id": "v164", "gd": "diofar", "en": "different / difference", "cat": "everyday", "level": "B1"},
-  {"id": "v165", "gd": "coltach ri", "en": "similar to", "cat": "everyday", "level": "B1"},
-  {"id": "v166", "gd": "co-dhùnadh", "en": "conclusion / decision", "cat": "everyday", "level": "B1"},
-  {"id": "v167", "gd": "adhbhar", "en": "reason", "cat": "everyday", "level": "B1"},
-  {"id": "v168", "gd": "buaidh", "en": "effect / influence", "cat": "everyday", "level": "B1"},
-  {"id": "v169", "gd": "cunnart", "en": "danger / risk", "cat": "everyday", "level": "B1"},
-  {"id": "v170", "gd": "atharrachadh", "en": "change (noun/verb)", "cat": "everyday", "level": "B1"},
-  {"id": "v171", "gd": "brosnachadh", "en": "encouragement / motivation", "cat": "everyday", "level": "B1"},
-  {"id": "v172", "gd": "dùbhlan", "en": "challenge", "cat": "everyday", "level": "B1"},
-  {"id": "v173", "gd": "cothrom", "en": "opportunity / chance", "cat": "everyday", "level": "B1"},
-  {"id": "v174", "gd": "misneachd", "en": "confidence / courage", "cat": "everyday", "level": "B1"},
-  {"id": "v175", "gd": "rùn", "en": "intention / secret", "cat": "everyday", "level": "B1"},
-  {"id": "v176", "gd": "dàimh", "en": "relationship", "cat": "society", "level": "B1"},
-  {"id": "v177", "gd": "coimhearsnachd", "en": "community", "cat": "society", "level": "B1"},
-  {"id": "v178", "gd": "dùthchas", "en": "heritage / native culture", "cat": "society", "level": "B1"},
-  {"id": "v179", "gd": "eachdraidh", "en": "history", "cat": "society", "level": "B1"},
-  {"id": "v180", "gd": "saoghal", "en": "world", "cat": "society", "level": "B1"},
-
-  {"id": "v181", "gd": "a rèir choltais", "en": "apparently / seemingly", "cat": "idioms", "level": "B2"},
-  {"id": "v182", "gd": "aig a' cheann thall", "en": "in the end / ultimately", "cat": "idioms", "level": "B2"},
-  {"id": "v183", "gd": "air an làimh eile", "en": "on the other hand", "cat": "idioms", "level": "B2"},
-  {"id": "v184", "gd": "mar eisimpleir", "en": "for example", "cat": "idioms", "level": "B2"},
-  {"id": "v185", "gd": "gu h-àraidh", "en": "especially / particularly", "cat": "idioms", "level": "B2"},
-  {"id": "v186", "gd": "a thaobh", "en": "regarding / with respect to", "cat": "idioms", "level": "B2"},
-  {"id": "v187", "gd": "gu ìre mhòr", "en": "to a large extent", "cat": "idioms", "level": "B2"},
-  {"id": "v188", "gd": "a rèir cho fad 's a chì mi", "en": "as far as I can see", "cat": "idioms", "level": "B2"},
-  {"id": "v189", "gd": "buileachadh", "en": "implementation", "cat": "formal", "level": "B2"},
-  {"id": "v190", "gd": "poileasaidh", "en": "policy", "cat": "formal", "level": "B2"},
-  {"id": "v191", "gd": "reachdas", "en": "legislation", "cat": "formal", "level": "B2"},
-  {"id": "v192", "gd": "builean", "en": "results / outcomes", "cat": "formal", "level": "B2"},
-  {"id": "v193", "gd": "ìmpidh", "en": "to persuade / urge", "cat": "verbs", "level": "B2"},
-  {"id": "v194", "gd": "a' togail fianais", "en": "raising awareness", "cat": "formal", "level": "B2"},
-  {"id": "v195", "gd": "mì-chinnteach", "en": "uncertain", "cat": "formal", "level": "B2"},
-  {"id": "v196", "gd": "so-ruigsinneach", "en": "accessible", "cat": "formal", "level": "B2"},
-  {"id": "v197", "gd": "seasmhach", "en": "sustainable / stable", "cat": "formal", "level": "B2"},
-  {"id": "v198", "gd": "farpais", "en": "competition", "cat": "formal", "level": "B2"},
-  {"id": "v199", "gd": "co-dhùin", "en": "to conclude / decide", "cat": "verbs", "level": "B2"},
-  {"id": "v200", "gd": "cnàmh-sgeul", "en": "narrative / anecdote", "cat": "formal", "level": "B2"},
-  {"id": "v201", "gd": "fianais", "en": "evidence / testimony", "cat": "formal", "level": "B2"},
-  {"id": "v202", "gd": "barail", "en": "view / opinion (formal)", "cat": "formal", "level": "B2"},
-  {"id": "v203", "gd": "connspaid", "en": "controversy / dispute", "cat": "formal", "level": "B2"},
-  {"id": "v204", "gd": "a' dèanamh cinnteach à", "en": "making sure of / ensuring", "cat": "formal", "level": "B2"},
-  {"id": "v205", "gd": "ìmpidh a chur air cuideigin", "en": "to persuade someone", "cat": "idioms", "level": "B2"},
-  {"id": "v206", "gd": "buannachd", "en": "advantage / benefit", "cat": "formal", "level": "B2"},
-  {"id": "v207", "gd": "ana-cothrom", "en": "disadvantage", "cat": "formal", "level": "B2"},
-  {"id": "v208", "gd": "a rèir mar a chithear", "en": "as can be seen", "cat": "idioms", "level": "B2"},
-  {"id": "v209", "gd": "fo bhuaidh", "en": "under the influence of", "cat": "idioms", "level": "B2"},
-  {"id": "v210", "gd": "a' cur an cèill", "en": "expressing (an idea)", "cat": "idioms", "level": "B2"},
-
-  {"id": "v211", "gd": "aodach", "en": "clothes", "cat": "clothing", "level": "A1"},
-  {"id": "v212", "gd": "lèine", "en": "shirt", "cat": "clothing", "level": "A1"},
-  {"id": "v213", "gd": "briogais", "en": "trousers", "cat": "clothing", "level": "A1"},
-  {"id": "v214", "gd": "sgiorta", "en": "skirt", "cat": "clothing", "level": "A1"},
-  {"id": "v215", "gd": "bròg", "en": "shoe", "cat": "clothing", "level": "A1"},
-  {"id": "v216", "gd": "ad", "en": "hat", "cat": "clothing", "level": "A1"},
-  {"id": "v217", "gd": "còta", "en": "coat", "cat": "clothing", "level": "A1"},
-  {"id": "v218", "gd": "geansaidh", "en": "jumper / sweater", "cat": "clothing", "level": "A1"},
-  {"id": "v219", "gd": "stocainn", "en": "sock", "cat": "clothing", "level": "A1"},
-  {"id": "v220", "gd": "seacaid", "en": "jacket", "cat": "clothing", "level": "A1"},
-  {"id": "v221", "gd": "ceann", "en": "head", "cat": "body", "level": "A1"},
-  {"id": "v222", "gd": "làmh", "en": "hand", "cat": "body", "level": "A1"},
-  {"id": "v223", "gd": "cas", "en": "leg / foot", "cat": "body", "level": "A1"},
-  {"id": "v224", "gd": "sùil", "en": "eye", "cat": "body", "level": "A1"},
-  {"id": "v225", "gd": "cluas", "en": "ear", "cat": "body", "level": "A1"},
-  {"id": "v226", "gd": "beul", "en": "mouth", "cat": "body", "level": "A1"},
-  {"id": "v227", "gd": "sròn", "en": "nose", "cat": "body", "level": "A1"},
-  {"id": "v228", "gd": "falt", "en": "hair", "cat": "body", "level": "A1"},
-  {"id": "v229", "gd": "cridhe", "en": "heart", "cat": "body", "level": "A1"},
-  {"id": "v230", "gd": "bolg", "en": "stomach / belly", "cat": "body", "level": "A1"},
-  {"id": "v231", "gd": "ann an", "en": "in", "cat": "prepositions", "level": "A1"},
-  {"id": "v232", "gd": "air", "en": "on", "cat": "prepositions", "level": "A1"},
-  {"id": "v233", "gd": "fo", "en": "under", "cat": "prepositions", "level": "A1"},
-  {"id": "v234", "gd": "eadar", "en": "between", "cat": "prepositions", "level": "A1"},
-  {"id": "v235", "gd": "ro", "en": "before", "cat": "prepositions", "level": "A1"},
-  {"id": "v236", "gd": "an dèidh", "en": "after", "cat": "prepositions", "level": "A1"},
-  {"id": "v237", "gd": "le", "en": "with", "cat": "prepositions", "level": "A1"},
-  {"id": "v238", "gd": "gun", "en": "without", "cat": "prepositions", "level": "A1"},
-  {"id": "v239", "gd": "faigh / a' faighinn", "en": "to get / getting (irregular verb)", "cat": "verbs", "level": "A1"},
-  {"id": "v240", "gd": "thoir / a' toirt", "en": "to give / giving (irregular verb)", "cat": "verbs", "level": "A1"},
-  {"id": "v241", "gd": "dèan / a' dèanamh", "en": "to do, make / doing, making (irregular verb)", "cat": "verbs", "level": "A1"},
-  {"id": "v242", "gd": "abair / ag ràdh", "en": "to say / saying (irregular verb)", "cat": "verbs", "level": "A1"},
-  {"id": "v243", "gd": "rach / a' dol", "en": "to go / going (irregular verb)", "cat": "verbs", "level": "A1"},
-  {"id": "v244", "gd": "beir / a' breith", "en": "to catch, bear / catching, bearing (irregular verb)", "cat": "verbs", "level": "A1"},
-
-  {"id": "v245", "gd": "reic", "en": "sale / to sell", "cat": "shopping", "level": "A2"},
-  {"id": "v246", "gd": "ceannach", "en": "buying", "cat": "shopping", "level": "A2"},
-  {"id": "v247", "gd": "cairt-chreideis", "en": "credit card", "cat": "shopping", "level": "A2"},
-  {"id": "v248", "gd": "meud", "en": "size", "cat": "shopping", "level": "A2"},
-  {"id": "v249", "gd": "ìsleachadh", "en": "discount / reduction", "cat": "shopping", "level": "A2"},
-  {"id": "v250", "gd": "bùth aodaich", "en": "clothes shop", "cat": "shopping", "level": "A2"},
-  {"id": "v251", "gd": "margaid", "en": "market", "cat": "shopping", "level": "A2"},
-  {"id": "v252", "gd": "cunntair", "en": "counter / till", "cat": "shopping", "level": "A2"},
-  {"id": "v253", "gd": "poca", "en": "bag", "cat": "shopping", "level": "A2"},
-  {"id": "v254", "gd": "iarrtas", "en": "request / order", "cat": "shopping", "level": "A2"},
-  {"id": "v255", "gd": "bàta", "en": "boat", "cat": "travel", "level": "A2"},
-  {"id": "v256", "gd": "carbad", "en": "car / vehicle", "cat": "travel", "level": "A2"},
-  {"id": "v257", "gd": "rathad", "en": "road", "cat": "travel", "level": "A2"},
-  {"id": "v258", "gd": "baga", "en": "bag / luggage", "cat": "travel", "level": "A2"},
-  {"id": "v259", "gd": "port", "en": "port / harbour", "cat": "travel", "level": "A2"},
-  {"id": "v260", "gd": "itealan", "en": "plane", "cat": "travel", "level": "A2"},
-  {"id": "v261", "gd": "stèisean", "en": "station", "cat": "travel", "level": "A2"},
-  {"id": "v262", "gd": "fàgail", "en": "leaving / departure", "cat": "travel", "level": "A2"},
-  {"id": "v263", "gd": "a' ruighinn", "en": "arriving", "cat": "travel", "level": "A2"},
-  {"id": "v264", "gd": "slighe", "en": "route / way", "cat": "travel", "level": "A2"},
-  {"id": "v265", "gd": "teas", "en": "heat", "cat": "weather", "level": "A2"},
-  {"id": "v266", "gd": "fuachd", "en": "cold (noun)", "cat": "weather", "level": "A2"},
-  {"id": "v267", "gd": "ceò", "en": "fog / mist", "cat": "weather", "level": "A2"},
-  {"id": "v268", "gd": "reothadh", "en": "frost / freezing", "cat": "weather", "level": "A2"},
-  {"id": "v269", "gd": "dealanach", "en": "lightning", "cat": "weather", "level": "A2"},
-  {"id": "v270", "gd": "tàirneanach", "en": "thunder", "cat": "weather", "level": "A2"},
-  {"id": "v271", "gd": "speur", "en": "sky", "cat": "weather", "level": "A2"},
-  {"id": "v272", "gd": "tuil", "en": "flood", "cat": "weather", "level": "A2"},
-  {"id": "v273", "gd": "gailleann", "en": "storm", "cat": "weather", "level": "A2"},
-  {"id": "v274", "gd": "tioram", "en": "dry", "cat": "weather", "level": "A2"},
-  {"id": "v275", "gd": "peantadh", "en": "painting", "cat": "hobbies", "level": "A2"},
-  {"id": "v276", "gd": "togail dhealbhan", "en": "photography", "cat": "hobbies", "level": "A2"},
-  {"id": "v277", "gd": "lùth-chleasachd", "en": "athletics", "cat": "hobbies", "level": "A2"},
-  {"id": "v278", "gd": "iasgach", "en": "fishing", "cat": "hobbies", "level": "A2"},
-  {"id": "v279", "gd": "gàirnealaireachd", "en": "gardening", "cat": "hobbies", "level": "A2"},
-  {"id": "v280", "gd": "cluich", "en": "to play", "cat": "hobbies", "level": "A2"},
-  {"id": "v281", "gd": "cruinneachadh", "en": "collecting", "cat": "hobbies", "level": "A2"},
-
-  {"id": "v282", "gd": "nàbaidh", "en": "neighbour", "cat": "community", "level": "B1"},
-  {"id": "v283", "gd": "sgìre", "en": "area / district", "cat": "community", "level": "B1"},
-  {"id": "v284", "gd": "a' Ghàidhealtachd", "en": "the Highlands", "cat": "community", "level": "B1"},
-  {"id": "v285", "gd": "beul-aithris", "en": "oral tradition / storytelling", "cat": "community", "level": "B1"},
-  {"id": "v286", "gd": "baile beag", "en": "small town / village", "cat": "community", "level": "B1"},
-  {"id": "v287", "gd": "bùth bheag ionadail", "en": "small local shop", "cat": "community", "level": "B1"},
-  {"id": "v288", "gd": "eaglais", "en": "church", "cat": "community", "level": "B1"},
-  {"id": "v289", "gd": "cultar", "en": "culture", "cat": "community", "level": "B1"},
-  {"id": "v290", "gd": "traidisean", "en": "tradition", "cat": "community", "level": "B1"},
-  {"id": "v291", "gd": "fèis", "en": "festival", "cat": "community", "level": "B1"},
-  {"id": "v292", "gd": "seann nòs", "en": "traditional (singing) style", "cat": "community", "level": "B1"},
-  {"id": "v293", "gd": "fasan", "en": "fashion", "cat": "fashion", "level": "B1"},
-  {"id": "v294", "gd": "stoidhle", "en": "style", "cat": "fashion", "level": "B1"},
-  {"id": "v295", "gd": "fasanta", "en": "fashionable / trendy", "cat": "fashion", "level": "B1"},
-  {"id": "v296", "gd": "seann-fhasanta", "en": "old-fashioned", "cat": "fashion", "level": "B1"},
-  {"id": "v297", "gd": "fòn-làimhe", "en": "mobile phone", "cat": "technology", "level": "B1"},
-  {"id": "v298", "gd": "coimpiutair", "en": "computer", "cat": "technology", "level": "B1"},
-  {"id": "v299", "gd": "an eadar-lìon", "en": "the internet", "cat": "technology", "level": "B1"},
-  {"id": "v300", "gd": "aplacaid", "en": "app", "cat": "technology", "level": "B1"},
-  {"id": "v301", "gd": "meadhanan sòisealta", "en": "social media", "cat": "technology", "level": "B1"},
-  {"id": "v302", "gd": "post-dealain", "en": "email", "cat": "technology", "level": "B1"},
-
-  {"id": "v303", "gd": "slàinte", "en": "health", "cat": "health", "level": "B1"},
-  {"id": "v304", "gd": "tinn", "en": "ill / sick", "cat": "health", "level": "B1"},
-  {"id": "v305", "gd": "dotair", "en": "doctor", "cat": "health", "level": "B1"},
-  {"id": "v306", "gd": "ospadal", "en": "hospital", "cat": "health", "level": "B1"},
-  {"id": "v307", "gd": "cungaidh-leigheis", "en": "medicine", "cat": "health", "level": "B1"},
-  {"id": "v308", "gd": "pian", "en": "pain", "cat": "health", "level": "B1"},
-  {"id": "v309", "gd": "fàs fallain", "en": "to get healthy / recover", "cat": "health", "level": "B1"},
-  {"id": "v310", "gd": "a' faireachdainn (tinn/math)", "en": "feeling (ill/well)", "cat": "health", "level": "B1"},
-  {"id": "v311", "gd": "cùram-slàinte", "en": "healthcare", "cat": "health", "level": "B1"},
-  {"id": "v312", "gd": "fois", "en": "rest", "cat": "health", "level": "B1"},
-  {"id": "v313", "gd": "àite-còmhnaidh", "en": "dwelling / place of residence", "cat": "housing", "level": "B1"},
-  {"id": "v314", "gd": "lom-phàigheadh", "en": "mortgage", "cat": "housing", "level": "B1"},
-  {"id": "v315", "gd": "màl", "en": "rent", "cat": "housing", "level": "B1"},
-  {"id": "v316", "gd": "seòmar-cadail", "en": "bedroom", "cat": "housing", "level": "B1"},
-  {"id": "v317", "gd": "cidsin", "en": "kitchen", "cat": "housing", "level": "B1"},
-  {"id": "v318", "gd": "seòmar-suidhe", "en": "living room", "cat": "housing", "level": "B1"},
-  {"id": "v319", "gd": "gàrradh", "en": "garden", "cat": "housing", "level": "B1"},
-  {"id": "v320", "gd": "a' gluasad taigh", "en": "moving house", "cat": "housing", "level": "B1"},
-  {"id": "v321", "gd": "seilbh", "en": "property / ownership", "cat": "housing", "level": "B1"},
-  {"id": "v322", "gd": "aoigheachd", "en": "hospitality / accommodation", "cat": "housing", "level": "B1"},
-  {"id": "v323", "gd": "naidheachdan", "en": "news", "cat": "media", "level": "B1"},
-  {"id": "v324", "gd": "pàipear-naidheachd", "en": "newspaper", "cat": "media", "level": "B1"},
-  {"id": "v325", "gd": "prògram", "en": "programme", "cat": "media", "level": "B1"},
-  {"id": "v326", "gd": "aithris", "en": "report / announcement", "cat": "media", "level": "B1"},
-  {"id": "v327", "gd": "craoladh", "en": "broadcast", "cat": "media", "level": "B1"},
-  {"id": "v328", "gd": "neach-naidheachd", "en": "journalist", "cat": "media", "level": "B1"},
-  {"id": "v329", "gd": "agallamh", "en": "interview", "cat": "media", "level": "B1"},
-  {"id": "v330", "gd": "sanas", "en": "advertisement / notice", "cat": "media", "level": "B1"},
-  {"id": "v331", "gd": "iongantach", "en": "surprised / amazing", "cat": "emotions", "level": "B1"},
-  {"id": "v332", "gd": "nàraichte", "en": "embarrassed", "cat": "emotions", "level": "B1"},
-  {"id": "v333", "gd": "diombach", "en": "disappointed / displeased", "cat": "emotions", "level": "B1"},
-  {"id": "v334", "gd": "fo iomagain", "en": "anxious / worried", "cat": "emotions", "level": "B1"},
-  {"id": "v335", "gd": "èasgaidh", "en": "eager / willing", "cat": "emotions", "level": "B1"},
-  {"id": "v336", "gd": "an-fhoiseil", "en": "restless / uneasy", "cat": "emotions", "level": "B1"},
-  {"id": "v337", "gd": "cofhurtail", "en": "comfortable / content", "cat": "emotions", "level": "B1"},
-  {"id": "v338", "gd": "troimh-chèile", "en": "confused / mixed up", "cat": "emotions", "level": "B1"},
-  {"id": "v339", "gd": "moiteil", "en": "proud", "cat": "emotions", "level": "B1"},
-  {"id": "v340", "gd": "an dòchas", "en": "hopeful", "cat": "emotions", "level": "B1"},
-
-  {"id": "v341", "gd": "mas e do thoil e", "en": "please (informal, 'thu')", "cat": "greetings", "level": "A1"},
-  {"id": "v342", "gd": "mas e ur toil e", "en": "please (formal/plural, 'sibh')", "cat": "greetings", "level": "A1"},
-  {"id": "v343", "gd": "Beurla", "en": "English (the language)", "cat": "languages", "level": "A1"},
-  {"id": "v344", "gd": "Fraingis", "en": "French (the language)", "cat": "languages", "level": "A1"},
-  {"id": "v345", "gd": "Gearmailtis", "en": "German (the language)", "cat": "languages", "level": "A1"},
-  {"id": "v346", "gd": "Spàinntis", "en": "Spanish (the language)", "cat": "languages", "level": "A1"},
-  {"id": "v347", "gd": "beagan", "en": "a little / a bit", "cat": "everyday", "level": "A1"},
-  {"id": "v348", "gd": "cò às a tha thu?", "en": "where are you from? (informal)", "cat": "greetings", "level": "A1"},
-  {"id": "v349", "gd": "mo chreach!", "en": "my goodness! (exclamation of surprise)", "cat": "everyday", "level": "A1"},
-  {"id": "v350", "gd": "nach eil?", "en": "isn't it? (tag question)", "cat": "questions", "level": "A2"},
-  {"id": "v351", "gd": "Sasainn", "en": "England", "cat": "places", "level": "A1"},
-  {"id": "v352", "gd": "Èirinn", "en": "Ireland", "cat": "places", "level": "A1"},
-  {"id": "v353", "gd": "Ameireaga", "en": "America", "cat": "places", "level": "A1"},
-  {"id": "v354", "gd": "Canada", "en": "Canada", "cat": "places", "level": "A1"},
-  {"id": "v355", "gd": "tìoraidh", "en": "cheerio / bye", "cat": "greetings", "level": "A1"},
-
-  {"id": "v356", "gd": "balach", "en": "boy", "cat": "family", "level": "A1"},
-  {"id": "v357", "gd": "caileag", "en": "girl", "cat": "family", "level": "A1"},
-  {"id": "v358", "gd": "pàrantan", "en": "parents", "cat": "family", "level": "A1"},
-  {"id": "v359", "gd": "bean", "en": "wife", "cat": "family", "level": "A1"},
-  {"id": "v360", "gd": "duine", "en": "husband / man", "cat": "family", "level": "A1"},
-  {"id": "v361", "gd": "clann", "en": "children (collective)", "cat": "family", "level": "A1"},
-  {"id": "v362", "gd": "ogha", "en": "grandchild", "cat": "family", "level": "A1"},
-  {"id": "v363", "gd": "co-ogha", "en": "cousin", "cat": "family", "level": "A1"},
-  {"id": "v364", "gd": "snog", "en": "nice", "cat": "adjectives", "level": "A1"},
-  {"id": "v365", "gd": "mi fhìn / thu fhìn / e fhìn", "en": "myself / yourself / himself (reflexive-emphatic)", "cat": "grammar-words", "level": "A2"}
+  {
+    "id": "v001",
+    "gd": "halò",
+    "en": "hello",
+    "cat": "greetings",
+    "level": "A1",
+    "note": "informal greeting"
+  },
+  {
+    "id": "v002",
+    "gd": "madainn mhath",
+    "en": "good morning",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v003",
+    "gd": "feasgar math",
+    "en": "good afternoon/evening",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v004",
+    "gd": "oidhche mhath",
+    "en": "good night",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v005",
+    "gd": "mar sin leat",
+    "en": "goodbye (to one person, informal)",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v006",
+    "gd": "tapadh leat",
+    "en": "thank you (informal)",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v007",
+    "gd": "tapadh leibh",
+    "en": "thank you (formal/plural)",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v008",
+    "gd": "ciamar a tha thu?",
+    "en": "how are you? (informal)",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v009",
+    "gd": "tha gu math",
+    "en": "fine / good",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v010",
+    "gd": "dè an t-ainm a th' ort?",
+    "en": "what is your name?",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v011",
+    "gd": "is mise",
+    "en": "I am (lit. it is me)",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v012",
+    "gd": "mo chàirdean",
+    "en": "my friends/relatives",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v013",
+    "gd": "màthair",
+    "en": "mother",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v014",
+    "gd": "athair",
+    "en": "father",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v015",
+    "gd": "piuthar",
+    "en": "sister",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v016",
+    "gd": "bràthair",
+    "en": "brother",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v017",
+    "gd": "mac",
+    "en": "son",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v018",
+    "gd": "nighean",
+    "en": "daughter / girl",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v019",
+    "gd": "seanair",
+    "en": "grandfather",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v020",
+    "gd": "seanmhair",
+    "en": "grandmother",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v021",
+    "gd": "a h-aon",
+    "en": "one",
+    "cat": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": "v022",
+    "gd": "a dhà",
+    "en": "two",
+    "cat": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": "v023",
+    "gd": "a trì",
+    "en": "three",
+    "cat": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": "v024",
+    "gd": "a ceithir",
+    "en": "four",
+    "cat": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": "v025",
+    "gd": "a còig",
+    "en": "five",
+    "cat": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": "v026",
+    "gd": "a sia",
+    "en": "six",
+    "cat": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": "v027",
+    "gd": "a seachd",
+    "en": "seven",
+    "cat": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": "v028",
+    "gd": "a h-ochd",
+    "en": "eight",
+    "cat": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": "v029",
+    "gd": "a naoi",
+    "en": "nine",
+    "cat": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": "v030",
+    "gd": "a deich",
+    "en": "ten",
+    "cat": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": "v031",
+    "gd": "tha",
+    "en": "yes / is (verb 'to be', positive)",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v032",
+    "gd": "chan eil",
+    "en": "no / is not",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v033",
+    "gd": "a bheil?",
+    "en": "is...? (question form of 'to be')",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v034",
+    "gd": "bha",
+    "en": "was / were (past tense of 'to be')",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v035",
+    "gd": "bidh",
+    "en": "will be (future tense of 'to be')",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v036",
+    "gd": "tuigsinn",
+    "en": "to understand",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v037",
+    "gd": "bruidhinn",
+    "en": "to speak",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v038",
+    "gd": "ithe",
+    "en": "to eat",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v039",
+    "gd": "òl",
+    "en": "to drink",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v040",
+    "gd": "coimhead",
+    "en": "to look / watch",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v041",
+    "gd": "uisge",
+    "en": "water / rain",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v042",
+    "gd": "biadh",
+    "en": "food",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v043",
+    "gd": "taigh",
+    "en": "house",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v044",
+    "gd": "sgoil",
+    "en": "school",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v045",
+    "gd": "obair",
+    "en": "work",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v046",
+    "gd": "latha",
+    "en": "day",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v047",
+    "gd": "oidhche",
+    "en": "night",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v048",
+    "gd": "cù",
+    "en": "dog",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v049",
+    "gd": "cat",
+    "en": "cat",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v050",
+    "gd": "dìleab",
+    "en": "legacy / heritage",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v051",
+    "gd": "dearg",
+    "en": "red",
+    "cat": "colours",
+    "level": "A1"
+  },
+  {
+    "id": "v052",
+    "gd": "gorm",
+    "en": "blue",
+    "cat": "colours",
+    "level": "A1"
+  },
+  {
+    "id": "v053",
+    "gd": "uaine",
+    "en": "green",
+    "cat": "colours",
+    "level": "A1"
+  },
+  {
+    "id": "v054",
+    "gd": "geal",
+    "en": "white",
+    "cat": "colours",
+    "level": "A1"
+  },
+  {
+    "id": "v055",
+    "gd": "dubh",
+    "en": "black",
+    "cat": "colours",
+    "level": "A1"
+  },
+  {
+    "id": "v056",
+    "gd": "buidhe",
+    "en": "yellow",
+    "cat": "colours",
+    "level": "A1"
+  },
+  {
+    "id": "v057",
+    "gd": "donn",
+    "en": "brown",
+    "cat": "colours",
+    "level": "A1"
+  },
+  {
+    "id": "v058",
+    "gd": "mòr",
+    "en": "big",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v059",
+    "gd": "beag",
+    "en": "small",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v060",
+    "gd": "math",
+    "en": "good",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v061",
+    "gd": "dona",
+    "en": "bad",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v062",
+    "gd": "blàth",
+    "en": "warm",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v063",
+    "gd": "fuar",
+    "en": "cold",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v064",
+    "gd": "sgìth",
+    "en": "tired",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v065",
+    "gd": "toilichte",
+    "en": "happy",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v066",
+    "gd": "brònach",
+    "en": "sad",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v067",
+    "gd": "an-diugh",
+    "en": "today",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v068",
+    "gd": "an-dè",
+    "en": "yesterday",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v069",
+    "gd": "a-màireach",
+    "en": "tomorrow",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v070",
+    "gd": "a-nis",
+    "en": "now",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v071",
+    "gd": "Diluain",
+    "en": "Monday",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v072",
+    "gd": "Dimàirt",
+    "en": "Tuesday",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v073",
+    "gd": "Diciadain",
+    "en": "Wednesday",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v074",
+    "gd": "Diardaoin",
+    "en": "Thursday",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v075",
+    "gd": "Dihaoine",
+    "en": "Friday",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v076",
+    "gd": "Disathairne",
+    "en": "Saturday",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v077",
+    "gd": "Didòmhnaich",
+    "en": "Sunday",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v078",
+    "gd": "càite?",
+    "en": "where?",
+    "cat": "questions",
+    "level": "A1"
+  },
+  {
+    "id": "v079",
+    "gd": "cò?",
+    "en": "who?",
+    "cat": "questions",
+    "level": "A1"
+  },
+  {
+    "id": "v080",
+    "gd": "dè?",
+    "en": "what?",
+    "cat": "questions",
+    "level": "A1"
+  },
+  {
+    "id": "v081",
+    "gd": "cuin?",
+    "en": "when?",
+    "cat": "questions",
+    "level": "A1"
+  },
+  {
+    "id": "v082",
+    "gd": "carson?",
+    "en": "why?",
+    "cat": "questions",
+    "level": "A1"
+  },
+  {
+    "id": "v083",
+    "gd": "ciamar?",
+    "en": "how?",
+    "cat": "questions",
+    "level": "A1"
+  },
+  {
+    "id": "v084",
+    "gd": "glè mhath",
+    "en": "very good",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v085",
+    "gd": "duilich",
+    "en": "sorry / difficult",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v086",
+    "gd": "feuch",
+    "en": "try",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v087",
+    "gd": "faicinn",
+    "en": "to see",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v088",
+    "gd": "cluinntinn",
+    "en": "to hear",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v089",
+    "gd": "falbh",
+    "en": "to go / leave",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v090",
+    "gd": "tighinn",
+    "en": "to come",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v091",
+    "gd": "fuireach",
+    "en": "to stay / live (reside)",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v092",
+    "gd": "sgoilear",
+    "en": "pupil / student",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v093",
+    "gd": "tidsear",
+    "en": "teacher",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v094",
+    "gd": "leabhar",
+    "en": "book",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v095",
+    "gd": "sgrìobhadh",
+    "en": "writing",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v096",
+    "gd": "leughadh",
+    "en": "reading",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v097",
+    "gd": "Alba",
+    "en": "Scotland",
+    "cat": "places",
+    "level": "A1"
+  },
+  {
+    "id": "v098",
+    "gd": "Glaschu",
+    "en": "Glasgow",
+    "cat": "places",
+    "level": "A1"
+  },
+  {
+    "id": "v099",
+    "gd": "Dùn Èideann",
+    "en": "Edinburgh",
+    "cat": "places",
+    "level": "A1"
+  },
+  {
+    "id": "v100",
+    "gd": "An Eilean Sgitheanach",
+    "en": "The Isle of Skye",
+    "cat": "places",
+    "level": "A1"
+  },
+  {
+    "id": "v101",
+    "gd": "bùth",
+    "en": "shop",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v102",
+    "gd": "airgead",
+    "en": "money",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v103",
+    "gd": "cia mheud a tha seo a' cosg?",
+    "en": "how much does this cost?",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v104",
+    "gd": "saor",
+    "en": "cheap",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v105",
+    "gd": "daor",
+    "en": "expensive",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v106",
+    "gd": "ag iarraidh",
+    "en": "wanting",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v107",
+    "gd": "deis",
+    "en": "ready",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v108",
+    "gd": "trafaig",
+    "en": "traffic",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v109",
+    "gd": "bus",
+    "en": "bus",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v110",
+    "gd": "trèana",
+    "en": "train",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v111",
+    "gd": "port-adhair",
+    "en": "airport",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v112",
+    "gd": "tiogaid",
+    "en": "ticket",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v113",
+    "gd": "air an deis làimh",
+    "en": "on the right",
+    "cat": "directions",
+    "level": "A2"
+  },
+  {
+    "id": "v114",
+    "gd": "air an làimh chlì",
+    "en": "on the left",
+    "cat": "directions",
+    "level": "A2"
+  },
+  {
+    "id": "v115",
+    "gd": "dìreach air adhart",
+    "en": "straight ahead",
+    "cat": "directions",
+    "level": "A2"
+  },
+  {
+    "id": "v116",
+    "gd": "faisg",
+    "en": "near",
+    "cat": "directions",
+    "level": "A2"
+  },
+  {
+    "id": "v117",
+    "gd": "fada",
+    "en": "far",
+    "cat": "directions",
+    "level": "A2"
+  },
+  {
+    "id": "v118",
+    "gd": "sìde",
+    "en": "weather",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v119",
+    "gd": "grianach",
+    "en": "sunny",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v120",
+    "gd": "sgòthach",
+    "en": "cloudy",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v121",
+    "gd": "gaothach",
+    "en": "windy",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v122",
+    "gd": "cur sneachda",
+    "en": "snowing",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v123",
+    "gd": "cur-seachad",
+    "en": "hobby / pastime",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v124",
+    "gd": "ceòl",
+    "en": "music",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v125",
+    "gd": "spòrs",
+    "en": "sport",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v126",
+    "gd": "snàmh",
+    "en": "swimming",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v127",
+    "gd": "coiseachd",
+    "en": "walking / hiking",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v128",
+    "gd": "seinn",
+    "en": "singing",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v129",
+    "gd": "dannsa",
+    "en": "dancing",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v130",
+    "gd": "is toil leam",
+    "en": "I like",
+    "cat": "opinions",
+    "level": "A2"
+  },
+  {
+    "id": "v131",
+    "gd": "cha toil leam",
+    "en": "I don't like",
+    "cat": "opinions",
+    "level": "A2"
+  },
+  {
+    "id": "v132",
+    "gd": "is fheàrr leam",
+    "en": "I prefer",
+    "cat": "opinions",
+    "level": "A2"
+  },
+  {
+    "id": "v133",
+    "gd": "a-rithist",
+    "en": "again",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v134",
+    "gd": "an-còmhnaidh",
+    "en": "always",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v135",
+    "gd": "uaireannan",
+    "en": "sometimes",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v136",
+    "gd": "a-riamh",
+    "en": "ever/never (with negative)",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v137",
+    "gd": "gach latha",
+    "en": "every day",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v138",
+    "gd": "deoch",
+    "en": "drink (noun)",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v139",
+    "gd": "bòrd",
+    "en": "table",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v140",
+    "gd": "cadal",
+    "en": "sleep",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v141",
+    "gd": "a-rèir",
+    "en": "according to",
+    "cat": "connectors",
+    "level": "B1"
+  },
+  {
+    "id": "v142",
+    "gd": "ge-tà",
+    "en": "however",
+    "cat": "connectors",
+    "level": "B1"
+  },
+  {
+    "id": "v143",
+    "gd": "mar sin",
+    "en": "therefore / so",
+    "cat": "connectors",
+    "level": "B1"
+  },
+  {
+    "id": "v144",
+    "gd": "a bharrachd air",
+    "en": "in addition to",
+    "cat": "connectors",
+    "level": "B1"
+  },
+  {
+    "id": "v145",
+    "gd": "ged a",
+    "en": "although",
+    "cat": "connectors",
+    "level": "B1"
+  },
+  {
+    "id": "v146",
+    "gd": "ma-thà",
+    "en": "then / in that case",
+    "cat": "connectors",
+    "level": "B1"
+  },
+  {
+    "id": "v147",
+    "gd": "beachd",
+    "en": "opinion",
+    "cat": "opinions",
+    "level": "B1"
+  },
+  {
+    "id": "v148",
+    "gd": "a rèir mo bheachd-sa",
+    "en": "in my opinion",
+    "cat": "opinions",
+    "level": "B1"
+  },
+  {
+    "id": "v149",
+    "gd": "aontachadh",
+    "en": "to agree",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v150",
+    "gd": "eas-aontachadh",
+    "en": "to disagree",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v151",
+    "gd": "àrainneachd",
+    "en": "environment",
+    "cat": "society",
+    "level": "B1"
+  },
+  {
+    "id": "v152",
+    "gd": "poileataics",
+    "en": "politics",
+    "cat": "society",
+    "level": "B1"
+  },
+  {
+    "id": "v153",
+    "gd": "eaconamaidh",
+    "en": "economy",
+    "cat": "society",
+    "level": "B1"
+  },
+  {
+    "id": "v154",
+    "gd": "slàinte-inntinn",
+    "en": "mental health",
+    "cat": "society",
+    "level": "B1"
+  },
+  {
+    "id": "v155",
+    "gd": "teicneòlas",
+    "en": "technology",
+    "cat": "society",
+    "level": "B1"
+  },
+  {
+    "id": "v156",
+    "gd": "ionnsachadh",
+    "en": "learning",
+    "cat": "education",
+    "level": "B1"
+  },
+  {
+    "id": "v157",
+    "gd": "oilthigh",
+    "en": "university",
+    "cat": "education",
+    "level": "B1"
+  },
+  {
+    "id": "v158",
+    "gd": "ceum",
+    "en": "degree / step",
+    "cat": "education",
+    "level": "B1"
+  },
+  {
+    "id": "v159",
+    "gd": "cosnadh",
+    "en": "employment / earning",
+    "cat": "work",
+    "level": "B1"
+  },
+  {
+    "id": "v160",
+    "gd": "còmhdhail",
+    "en": "meeting / conference",
+    "cat": "work",
+    "level": "B1"
+  },
+  {
+    "id": "v161",
+    "gd": "buidseat",
+    "en": "budget",
+    "cat": "work",
+    "level": "B1"
+  },
+  {
+    "id": "v162",
+    "gd": "a dh'aindeoin",
+    "en": "despite",
+    "cat": "connectors",
+    "level": "B1"
+  },
+  {
+    "id": "v163",
+    "gd": "fiosrachadh",
+    "en": "information",
+    "cat": "society",
+    "level": "B1"
+  },
+  {
+    "id": "v164",
+    "gd": "diofar",
+    "en": "different / difference",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v165",
+    "gd": "coltach ri",
+    "en": "similar to",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v166",
+    "gd": "co-dhùnadh",
+    "en": "conclusion / decision",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v167",
+    "gd": "adhbhar",
+    "en": "reason",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v168",
+    "gd": "buaidh",
+    "en": "effect / influence",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v169",
+    "gd": "cunnart",
+    "en": "danger / risk",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v170",
+    "gd": "atharrachadh",
+    "en": "change (noun/verb)",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v171",
+    "gd": "brosnachadh",
+    "en": "encouragement / motivation",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v172",
+    "gd": "dùbhlan",
+    "en": "challenge",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v173",
+    "gd": "cothrom",
+    "en": "opportunity / chance",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v174",
+    "gd": "misneachd",
+    "en": "confidence / courage",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v175",
+    "gd": "rùn",
+    "en": "intention / secret",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v176",
+    "gd": "dàimh",
+    "en": "relationship",
+    "cat": "society",
+    "level": "B1"
+  },
+  {
+    "id": "v177",
+    "gd": "coimhearsnachd",
+    "en": "community",
+    "cat": "society",
+    "level": "B1"
+  },
+  {
+    "id": "v178",
+    "gd": "dùthchas",
+    "en": "heritage / native culture",
+    "cat": "society",
+    "level": "B1"
+  },
+  {
+    "id": "v179",
+    "gd": "eachdraidh",
+    "en": "history",
+    "cat": "society",
+    "level": "B1"
+  },
+  {
+    "id": "v180",
+    "gd": "saoghal",
+    "en": "world",
+    "cat": "society",
+    "level": "B1"
+  },
+  {
+    "id": "v181",
+    "gd": "a rèir choltais",
+    "en": "apparently / seemingly",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v182",
+    "gd": "aig a' cheann thall",
+    "en": "in the end / ultimately",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v183",
+    "gd": "air an làimh eile",
+    "en": "on the other hand",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v184",
+    "gd": "mar eisimpleir",
+    "en": "for example",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v185",
+    "gd": "gu h-àraidh",
+    "en": "especially / particularly",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v186",
+    "gd": "a thaobh",
+    "en": "regarding / with respect to",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v187",
+    "gd": "gu ìre mhòr",
+    "en": "to a large extent",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v188",
+    "gd": "a rèir cho fad 's a chì mi",
+    "en": "as far as I can see",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v189",
+    "gd": "buileachadh",
+    "en": "implementation",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v190",
+    "gd": "poileasaidh",
+    "en": "policy",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v191",
+    "gd": "reachdas",
+    "en": "legislation",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v192",
+    "gd": "builean",
+    "en": "results / outcomes",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v193",
+    "gd": "ìmpidh",
+    "en": "to persuade / urge",
+    "cat": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": "v194",
+    "gd": "a' togail fianais",
+    "en": "raising awareness",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v195",
+    "gd": "mì-chinnteach",
+    "en": "uncertain",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v196",
+    "gd": "so-ruigsinneach",
+    "en": "accessible",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v197",
+    "gd": "seasmhach",
+    "en": "sustainable / stable",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v198",
+    "gd": "farpais",
+    "en": "competition",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v199",
+    "gd": "co-dhùin",
+    "en": "to conclude / decide",
+    "cat": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": "v200",
+    "gd": "cnàmh-sgeul",
+    "en": "narrative / anecdote",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v201",
+    "gd": "fianais",
+    "en": "evidence / testimony",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v202",
+    "gd": "barail",
+    "en": "view / opinion (formal)",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v203",
+    "gd": "connspaid",
+    "en": "controversy / dispute",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v204",
+    "gd": "a' dèanamh cinnteach à",
+    "en": "making sure of / ensuring",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v205",
+    "gd": "ìmpidh a chur air cuideigin",
+    "en": "to persuade someone",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v206",
+    "gd": "buannachd",
+    "en": "advantage / benefit",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v207",
+    "gd": "ana-cothrom",
+    "en": "disadvantage",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v208",
+    "gd": "a rèir mar a chithear",
+    "en": "as can be seen",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v209",
+    "gd": "fo bhuaidh",
+    "en": "under the influence of",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v210",
+    "gd": "a' cur an cèill",
+    "en": "expressing (an idea)",
+    "cat": "idioms",
+    "level": "B2"
+  },
+  {
+    "id": "v211",
+    "gd": "aodach",
+    "en": "clothes",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v212",
+    "gd": "lèine",
+    "en": "shirt",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v213",
+    "gd": "briogais",
+    "en": "trousers",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v214",
+    "gd": "sgiorta",
+    "en": "skirt",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v215",
+    "gd": "bròg",
+    "en": "shoe",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v216",
+    "gd": "ad",
+    "en": "hat",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v217",
+    "gd": "còta",
+    "en": "coat",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v218",
+    "gd": "geansaidh",
+    "en": "jumper / sweater",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v219",
+    "gd": "stocainn",
+    "en": "sock",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v220",
+    "gd": "seacaid",
+    "en": "jacket",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v221",
+    "gd": "ceann",
+    "en": "head",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v222",
+    "gd": "làmh",
+    "en": "hand",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v223",
+    "gd": "cas",
+    "en": "leg / foot",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v224",
+    "gd": "sùil",
+    "en": "eye",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v225",
+    "gd": "cluas",
+    "en": "ear",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v226",
+    "gd": "beul",
+    "en": "mouth",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v227",
+    "gd": "sròn",
+    "en": "nose",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v228",
+    "gd": "falt",
+    "en": "hair",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v229",
+    "gd": "cridhe",
+    "en": "heart",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v230",
+    "gd": "bolg",
+    "en": "stomach / belly",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v231",
+    "gd": "ann an",
+    "en": "in",
+    "cat": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": "v232",
+    "gd": "air",
+    "en": "on",
+    "cat": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": "v233",
+    "gd": "fo",
+    "en": "under",
+    "cat": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": "v234",
+    "gd": "eadar",
+    "en": "between",
+    "cat": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": "v235",
+    "gd": "ro",
+    "en": "before",
+    "cat": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": "v236",
+    "gd": "an dèidh",
+    "en": "after",
+    "cat": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": "v237",
+    "gd": "le",
+    "en": "with",
+    "cat": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": "v238",
+    "gd": "gun",
+    "en": "without",
+    "cat": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": "v239",
+    "gd": "faigh / a' faighinn",
+    "en": "to get / getting (irregular verb)",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v240",
+    "gd": "thoir / a' toirt",
+    "en": "to give / giving (irregular verb)",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v241",
+    "gd": "dèan / a' dèanamh",
+    "en": "to do, make / doing, making (irregular verb)",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v242",
+    "gd": "abair / ag ràdh",
+    "en": "to say / saying (irregular verb)",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v243",
+    "gd": "rach / a' dol",
+    "en": "to go / going (irregular verb)",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v244",
+    "gd": "beir / a' breith",
+    "en": "to catch, bear / catching, bearing (irregular verb)",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v245",
+    "gd": "reic",
+    "en": "sale / to sell",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v246",
+    "gd": "ceannach",
+    "en": "buying",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v247",
+    "gd": "cairt-chreideis",
+    "en": "credit card",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v248",
+    "gd": "meud",
+    "en": "size",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v249",
+    "gd": "ìsleachadh",
+    "en": "discount / reduction",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v250",
+    "gd": "bùth aodaich",
+    "en": "clothes shop",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v251",
+    "gd": "margaid",
+    "en": "market",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v252",
+    "gd": "cunntair",
+    "en": "counter / till",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v253",
+    "gd": "poca",
+    "en": "bag",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v254",
+    "gd": "iarrtas",
+    "en": "request / order",
+    "cat": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": "v255",
+    "gd": "bàta",
+    "en": "boat",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v256",
+    "gd": "carbad",
+    "en": "car / vehicle",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v257",
+    "gd": "rathad",
+    "en": "road",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v258",
+    "gd": "baga",
+    "en": "bag / luggage",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v259",
+    "gd": "port",
+    "en": "port / harbour",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v260",
+    "gd": "itealan",
+    "en": "plane",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v261",
+    "gd": "stèisean",
+    "en": "station",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v262",
+    "gd": "fàgail",
+    "en": "leaving / departure",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v263",
+    "gd": "a' ruighinn",
+    "en": "arriving",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v264",
+    "gd": "slighe",
+    "en": "route / way",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v265",
+    "gd": "teas",
+    "en": "heat",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v266",
+    "gd": "fuachd",
+    "en": "cold (noun)",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v267",
+    "gd": "ceò",
+    "en": "fog / mist",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v268",
+    "gd": "reothadh",
+    "en": "frost / freezing",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v269",
+    "gd": "dealanach",
+    "en": "lightning",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v270",
+    "gd": "tàirneanach",
+    "en": "thunder",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v271",
+    "gd": "speur",
+    "en": "sky",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v272",
+    "gd": "tuil",
+    "en": "flood",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v273",
+    "gd": "gailleann",
+    "en": "storm",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v274",
+    "gd": "tioram",
+    "en": "dry",
+    "cat": "weather",
+    "level": "A2"
+  },
+  {
+    "id": "v275",
+    "gd": "peantadh",
+    "en": "painting",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v276",
+    "gd": "togail dhealbhan",
+    "en": "photography",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v277",
+    "gd": "lùth-chleasachd",
+    "en": "athletics",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v278",
+    "gd": "iasgach",
+    "en": "fishing",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v279",
+    "gd": "gàirnealaireachd",
+    "en": "gardening",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v280",
+    "gd": "cluich",
+    "en": "to play",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v281",
+    "gd": "cruinneachadh",
+    "en": "collecting",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v282",
+    "gd": "nàbaidh",
+    "en": "neighbour",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v283",
+    "gd": "sgìre",
+    "en": "area / district",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v284",
+    "gd": "a' Ghàidhealtachd",
+    "en": "the Highlands",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v285",
+    "gd": "beul-aithris",
+    "en": "oral tradition / storytelling",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v286",
+    "gd": "baile beag",
+    "en": "small town / village",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v287",
+    "gd": "bùth bheag ionadail",
+    "en": "small local shop",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v288",
+    "gd": "eaglais",
+    "en": "church",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v289",
+    "gd": "cultar",
+    "en": "culture",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v290",
+    "gd": "traidisean",
+    "en": "tradition",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v291",
+    "gd": "fèis",
+    "en": "festival",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v292",
+    "gd": "seann nòs",
+    "en": "traditional (singing) style",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v293",
+    "gd": "fasan",
+    "en": "fashion",
+    "cat": "fashion",
+    "level": "B1"
+  },
+  {
+    "id": "v294",
+    "gd": "stoidhle",
+    "en": "style",
+    "cat": "fashion",
+    "level": "B1"
+  },
+  {
+    "id": "v295",
+    "gd": "fasanta",
+    "en": "fashionable / trendy",
+    "cat": "fashion",
+    "level": "B1"
+  },
+  {
+    "id": "v296",
+    "gd": "seann-fhasanta",
+    "en": "old-fashioned",
+    "cat": "fashion",
+    "level": "B1"
+  },
+  {
+    "id": "v297",
+    "gd": "fòn-làimhe",
+    "en": "mobile phone",
+    "cat": "technology",
+    "level": "B1"
+  },
+  {
+    "id": "v298",
+    "gd": "coimpiutair",
+    "en": "computer",
+    "cat": "technology",
+    "level": "B1"
+  },
+  {
+    "id": "v299",
+    "gd": "an eadar-lìon",
+    "en": "the internet",
+    "cat": "technology",
+    "level": "B1"
+  },
+  {
+    "id": "v300",
+    "gd": "aplacaid",
+    "en": "app",
+    "cat": "technology",
+    "level": "B1"
+  },
+  {
+    "id": "v301",
+    "gd": "meadhanan sòisealta",
+    "en": "social media",
+    "cat": "technology",
+    "level": "B1"
+  },
+  {
+    "id": "v302",
+    "gd": "post-dealain",
+    "en": "email",
+    "cat": "technology",
+    "level": "B1"
+  },
+  {
+    "id": "v303",
+    "gd": "slàinte",
+    "en": "health",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v304",
+    "gd": "tinn",
+    "en": "ill / sick",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v305",
+    "gd": "dotair",
+    "en": "doctor",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v306",
+    "gd": "ospadal",
+    "en": "hospital",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v307",
+    "gd": "cungaidh-leigheis",
+    "en": "medicine",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v308",
+    "gd": "pian",
+    "en": "pain",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v309",
+    "gd": "fàs fallain",
+    "en": "to get healthy / recover",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v310",
+    "gd": "a' faireachdainn (tinn/math)",
+    "en": "feeling (ill/well)",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v311",
+    "gd": "cùram-slàinte",
+    "en": "healthcare",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v312",
+    "gd": "fois",
+    "en": "rest",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v313",
+    "gd": "àite-còmhnaidh",
+    "en": "dwelling / place of residence",
+    "cat": "housing",
+    "level": "B1"
+  },
+  {
+    "id": "v314",
+    "gd": "lom-phàigheadh",
+    "en": "mortgage",
+    "cat": "housing",
+    "level": "B1"
+  },
+  {
+    "id": "v315",
+    "gd": "màl",
+    "en": "rent",
+    "cat": "housing",
+    "level": "B1"
+  },
+  {
+    "id": "v316",
+    "gd": "seòmar-cadail",
+    "en": "bedroom",
+    "cat": "housing",
+    "level": "B1"
+  },
+  {
+    "id": "v317",
+    "gd": "cidsin",
+    "en": "kitchen",
+    "cat": "housing",
+    "level": "B1"
+  },
+  {
+    "id": "v318",
+    "gd": "seòmar-suidhe",
+    "en": "living room",
+    "cat": "housing",
+    "level": "B1"
+  },
+  {
+    "id": "v319",
+    "gd": "gàrradh",
+    "en": "garden",
+    "cat": "housing",
+    "level": "B1"
+  },
+  {
+    "id": "v320",
+    "gd": "a' gluasad taigh",
+    "en": "moving house",
+    "cat": "housing",
+    "level": "B1"
+  },
+  {
+    "id": "v321",
+    "gd": "seilbh",
+    "en": "property / ownership",
+    "cat": "housing",
+    "level": "B1"
+  },
+  {
+    "id": "v322",
+    "gd": "aoigheachd",
+    "en": "hospitality / accommodation",
+    "cat": "housing",
+    "level": "B1"
+  },
+  {
+    "id": "v323",
+    "gd": "naidheachdan",
+    "en": "news",
+    "cat": "media",
+    "level": "B1"
+  },
+  {
+    "id": "v324",
+    "gd": "pàipear-naidheachd",
+    "en": "newspaper",
+    "cat": "media",
+    "level": "B1"
+  },
+  {
+    "id": "v325",
+    "gd": "prògram",
+    "en": "programme",
+    "cat": "media",
+    "level": "B1"
+  },
+  {
+    "id": "v326",
+    "gd": "aithris",
+    "en": "report / announcement",
+    "cat": "media",
+    "level": "B1"
+  },
+  {
+    "id": "v327",
+    "gd": "craoladh",
+    "en": "broadcast",
+    "cat": "media",
+    "level": "B1"
+  },
+  {
+    "id": "v328",
+    "gd": "neach-naidheachd",
+    "en": "journalist",
+    "cat": "media",
+    "level": "B1"
+  },
+  {
+    "id": "v329",
+    "gd": "agallamh",
+    "en": "interview",
+    "cat": "media",
+    "level": "B1"
+  },
+  {
+    "id": "v330",
+    "gd": "sanas",
+    "en": "advertisement / notice",
+    "cat": "media",
+    "level": "B1"
+  },
+  {
+    "id": "v331",
+    "gd": "iongantach",
+    "en": "surprised / amazing",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v332",
+    "gd": "nàraichte",
+    "en": "embarrassed",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v333",
+    "gd": "diombach",
+    "en": "disappointed / displeased",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v334",
+    "gd": "fo iomagain",
+    "en": "anxious / worried",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v335",
+    "gd": "èasgaidh",
+    "en": "eager / willing",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v336",
+    "gd": "an-fhoiseil",
+    "en": "restless / uneasy",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v337",
+    "gd": "cofhurtail",
+    "en": "comfortable / content",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v338",
+    "gd": "troimh-chèile",
+    "en": "confused / mixed up",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v339",
+    "gd": "moiteil",
+    "en": "proud",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v340",
+    "gd": "an dòchas",
+    "en": "hopeful",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v341",
+    "gd": "mas e do thoil e",
+    "en": "please (informal, 'thu')",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v342",
+    "gd": "mas e ur toil e",
+    "en": "please (formal/plural, 'sibh')",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v343",
+    "gd": "Beurla",
+    "en": "English (the language)",
+    "cat": "languages",
+    "level": "A1"
+  },
+  {
+    "id": "v344",
+    "gd": "Fraingis",
+    "en": "French (the language)",
+    "cat": "languages",
+    "level": "A1"
+  },
+  {
+    "id": "v345",
+    "gd": "Gearmailtis",
+    "en": "German (the language)",
+    "cat": "languages",
+    "level": "A1"
+  },
+  {
+    "id": "v346",
+    "gd": "Spàinntis",
+    "en": "Spanish (the language)",
+    "cat": "languages",
+    "level": "A1"
+  },
+  {
+    "id": "v347",
+    "gd": "beagan",
+    "en": "a little / a bit",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v348",
+    "gd": "cò às a tha thu?",
+    "en": "where are you from? (informal)",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v349",
+    "gd": "mo chreach!",
+    "en": "my goodness! (exclamation of surprise)",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v350",
+    "gd": "nach eil?",
+    "en": "isn't it? (tag question)",
+    "cat": "questions",
+    "level": "A2"
+  },
+  {
+    "id": "v351",
+    "gd": "Sasainn",
+    "en": "England",
+    "cat": "places",
+    "level": "A1"
+  },
+  {
+    "id": "v352",
+    "gd": "Èirinn",
+    "en": "Ireland",
+    "cat": "places",
+    "level": "A1"
+  },
+  {
+    "id": "v353",
+    "gd": "Ameireaga",
+    "en": "America",
+    "cat": "places",
+    "level": "A1"
+  },
+  {
+    "id": "v354",
+    "gd": "Canada",
+    "en": "Canada",
+    "cat": "places",
+    "level": "A1"
+  },
+  {
+    "id": "v355",
+    "gd": "tìoraidh",
+    "en": "cheerio / bye",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v356",
+    "gd": "balach",
+    "en": "boy",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v357",
+    "gd": "caileag",
+    "en": "girl",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v358",
+    "gd": "pàrantan",
+    "en": "parents",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v359",
+    "gd": "bean",
+    "en": "wife",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v360",
+    "gd": "duine",
+    "en": "husband / man",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v361",
+    "gd": "clann",
+    "en": "children (collective)",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v362",
+    "gd": "ogha",
+    "en": "grandchild",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v363",
+    "gd": "co-ogha",
+    "en": "cousin",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v364",
+    "gd": "snog",
+    "en": "nice",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v365",
+    "gd": "mi fhìn / thu fhìn / e fhìn",
+    "en": "myself / yourself / himself (reflexive-emphatic)",
+    "cat": "grammar-words",
+    "level": "A2"
+  },
+  {
+    "id": "v366",
+    "gd": "each",
+    "en": "horse",
+    "cat": "animals",
+    "level": "A1"
+  },
+  {
+    "id": "v367",
+    "gd": "caora",
+    "en": "sheep",
+    "cat": "animals",
+    "level": "A1"
+  },
+  {
+    "id": "v368",
+    "gd": "muc",
+    "en": "pig",
+    "cat": "animals",
+    "level": "A1"
+  },
+  {
+    "id": "v369",
+    "gd": "cearc",
+    "en": "hen",
+    "cat": "animals",
+    "level": "A1"
+  },
+  {
+    "id": "v370",
+    "gd": "tunnag",
+    "en": "duck",
+    "cat": "animals",
+    "level": "A1"
+  },
+  {
+    "id": "v371",
+    "gd": "luch",
+    "en": "mouse",
+    "cat": "animals",
+    "level": "A1"
+  },
+  {
+    "id": "v372",
+    "gd": "sionnach",
+    "en": "fox",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v373",
+    "gd": "fiadh",
+    "en": "deer",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v374",
+    "gd": "seillean",
+    "en": "bee",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v375",
+    "gd": "cuileag",
+    "en": "fly (insect)",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v376",
+    "gd": "piseag",
+    "en": "kitten",
+    "cat": "animals",
+    "level": "A1"
+  },
+  {
+    "id": "v377",
+    "gd": "cuilean",
+    "en": "puppy",
+    "cat": "animals",
+    "level": "A1"
+  },
+  {
+    "id": "v378",
+    "gd": "tarbh",
+    "en": "bull",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v379",
+    "gd": "crodh",
+    "en": "cattle (collective)",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v380",
+    "gd": "isean",
+    "en": "chick / baby bird",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v381",
+    "gd": "beinn",
+    "en": "mountain",
+    "cat": "nature",
+    "level": "A1"
+  },
+  {
+    "id": "v382",
+    "gd": "loch",
+    "en": "loch / lake",
+    "cat": "nature",
+    "level": "A1"
+  },
+  {
+    "id": "v383",
+    "gd": "abhainn",
+    "en": "river",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v384",
+    "gd": "tràigh",
+    "en": "beach",
+    "cat": "nature",
+    "level": "A1"
+  },
+  {
+    "id": "v385",
+    "gd": "muir",
+    "en": "sea",
+    "cat": "nature",
+    "level": "A1"
+  },
+  {
+    "id": "v386",
+    "gd": "cuan",
+    "en": "ocean",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v387",
+    "gd": "coille",
+    "en": "wood / forest",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v388",
+    "gd": "cnoc",
+    "en": "hill",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v389",
+    "gd": "creag",
+    "en": "rock",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v390",
+    "gd": "gealach",
+    "en": "moon",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v391",
+    "gd": "rionnag",
+    "en": "star",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v392",
+    "gd": "fraoch",
+    "en": "heather",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v393",
+    "gd": "cladach",
+    "en": "shore",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v394",
+    "gd": "cathair",
+    "en": "chair",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v395",
+    "gd": "preas",
+    "en": "cupboard / press",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v396",
+    "gd": "uinneag",
+    "en": "window",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v397",
+    "gd": "cupa",
+    "en": "cup",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v398",
+    "gd": "truinnsear",
+    "en": "plate",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v399",
+    "gd": "botal",
+    "en": "bottle",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v400",
+    "gd": "bogsa",
+    "en": "box",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v401",
+    "gd": "sgàthan",
+    "en": "mirror",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v402",
+    "gd": "gleoc",
+    "en": "clock",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v403",
+    "gd": "solas",
+    "en": "light",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v404",
+    "gd": "teine",
+    "en": "fire",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v405",
+    "gd": "rùm",
+    "en": "room",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v406",
+    "gd": "cluasag",
+    "en": "pillow",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v407",
+    "gd": "dreasa",
+    "en": "dress",
+    "cat": "clothing",
+    "level": "A2"
+  },
+  {
+    "id": "v408",
+    "gd": "fèileadh",
+    "en": "kilt",
+    "cat": "clothing",
+    "level": "A2"
+  },
+  {
+    "id": "v409",
+    "gd": "miotag",
+    "en": "glove",
+    "cat": "clothing",
+    "level": "A2"
+  },
+  {
+    "id": "v410",
+    "gd": "beannag",
+    "en": "headscarf",
+    "cat": "clothing",
+    "level": "B1"
+  },
+  {
+    "id": "v411",
+    "gd": "deise",
+    "en": "suit (of clothes)",
+    "cat": "clothing",
+    "level": "A2"
+  },
+  {
+    "id": "v412",
+    "gd": "aran",
+    "en": "bread",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v413",
+    "gd": "buntàta",
+    "en": "potato(es)",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v414",
+    "gd": "ìm",
+    "en": "butter",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v415",
+    "gd": "càise",
+    "en": "cheese",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v416",
+    "gd": "bainne",
+    "en": "milk",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v417",
+    "gd": "ugh",
+    "en": "egg",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v418",
+    "gd": "feòil",
+    "en": "meat",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v419",
+    "gd": "silidh",
+    "en": "jam",
+    "cat": "food",
+    "level": "A2"
+  },
+  {
+    "id": "v420",
+    "gd": "siùcar",
+    "en": "sugar",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v421",
+    "gd": "salann",
+    "en": "salt",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v422",
+    "gd": "leann",
+    "en": "beer",
+    "cat": "food",
+    "level": "A2"
+  },
+  {
+    "id": "v423",
+    "gd": "fìon",
+    "en": "wine",
+    "cat": "food",
+    "level": "A2"
+  },
+  {
+    "id": "v424",
+    "gd": "uisge-beatha",
+    "en": "whisky",
+    "cat": "food",
+    "level": "A2"
+  },
+  {
+    "id": "v425",
+    "gd": "tuathanach",
+    "en": "farmer",
+    "cat": "professions",
+    "level": "A2"
+  },
+  {
+    "id": "v426",
+    "gd": "iasgair",
+    "en": "fisherman",
+    "cat": "professions",
+    "level": "A2"
+  },
+  {
+    "id": "v427",
+    "gd": "sagart",
+    "en": "priest",
+    "cat": "professions",
+    "level": "B1"
+  },
+  {
+    "id": "v428",
+    "gd": "ministear",
+    "en": "minister (clergy)",
+    "cat": "professions",
+    "level": "B1"
+  },
+  {
+    "id": "v429",
+    "gd": "proifeasair",
+    "en": "professor",
+    "cat": "professions",
+    "level": "B1"
+  },
+  {
+    "id": "v430",
+    "gd": "oileanach",
+    "en": "student (university)",
+    "cat": "professions",
+    "level": "A2"
+  },
+  {
+    "id": "v431",
+    "gd": "sgrìobhaiche",
+    "en": "writer",
+    "cat": "professions",
+    "level": "A2"
+  },
+  {
+    "id": "v432",
+    "gd": "peantair",
+    "en": "painter",
+    "cat": "professions",
+    "level": "A2"
+  },
+  {
+    "id": "v433",
+    "gd": "manaidsear",
+    "en": "manager",
+    "cat": "professions",
+    "level": "B1"
+  },
+  {
+    "id": "v434",
+    "gd": "gualainn",
+    "en": "shoulder",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v435",
+    "gd": "glùin",
+    "en": "knee",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v436",
+    "gd": "feusag",
+    "en": "beard",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v437",
+    "gd": "bliadhna",
+    "en": "year",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v438",
+    "gd": "mìos",
+    "en": "month",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v439",
+    "gd": "seachdain",
+    "en": "week",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v440",
+    "gd": "mionaid",
+    "en": "minute",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v441",
+    "gd": "diog",
+    "en": "second (time)",
+    "cat": "time",
+    "level": "A2"
+  },
+  {
+    "id": "v442",
+    "gd": "feasgar",
+    "en": "afternoon / evening",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v443",
+    "gd": "aon-deug",
+    "en": "eleven",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v444",
+    "gd": "fichead",
+    "en": "twenty",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v445",
+    "gd": "trithead",
+    "en": "thirty",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v446",
+    "gd": "ceathrad",
+    "en": "forty",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v447",
+    "gd": "leth-cheud",
+    "en": "fifty",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v448",
+    "gd": "seasgad",
+    "en": "sixty",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v449",
+    "gd": "seachdad",
+    "en": "seventy",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v450",
+    "gd": "ochdad",
+    "en": "eighty",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v451",
+    "gd": "naochad",
+    "en": "ninety",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v452",
+    "gd": "ceud",
+    "en": "hundred",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v453",
+    "gd": "furasta",
+    "en": "easy",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v454",
+    "gd": "luath",
+    "en": "fast",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v455",
+    "gd": "slaodach",
+    "en": "slow",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v456",
+    "gd": "làidir",
+    "en": "strong",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v457",
+    "gd": "lag",
+    "en": "weak",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v458",
+    "gd": "trang",
+    "en": "busy",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v459",
+    "gd": "fliuch",
+    "en": "wet",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v460",
+    "gd": "àrd",
+    "en": "tall / high",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v461",
+    "gd": "ìosal",
+    "en": "low",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v462",
+    "gd": "domhainn",
+    "en": "deep",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v463",
+    "gd": "farsainn",
+    "en": "wide",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v464",
+    "gd": "caol",
+    "en": "thin / narrow",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v465",
+    "gd": "reamhar",
+    "en": "fat",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v466",
+    "gd": "ùr",
+    "en": "new",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v467",
+    "gd": "sgoinneil",
+    "en": "great / fantastic",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v468",
+    "gd": "grànnda",
+    "en": "ugly",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v469",
+    "gd": "mu",
+    "en": "about",
+    "cat": "prepositions",
+    "level": "A2"
+  },
+  {
+    "id": "v470",
+    "gd": "bho",
+    "en": "from",
+    "cat": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": "v471",
+    "gd": "gu",
+    "en": "to / towards",
+    "cat": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": "v472",
+    "gd": "de",
+    "en": "of",
+    "cat": "prepositions",
+    "level": "A2"
+  },
+  {
+    "id": "v473",
+    "gd": "fàilte",
+    "en": "welcome",
+    "cat": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": "v474",
+    "gd": "Inbhir Nis",
+    "en": "Inverness",
+    "cat": "places",
+    "level": "A2"
+  },
+  {
+    "id": "v475",
+    "gd": "Port Rìgh",
+    "en": "Portree",
+    "cat": "places",
+    "level": "A2"
+  },
+  {
+    "id": "v476",
+    "gd": "Steòrnabhagh",
+    "en": "Stornoway",
+    "cat": "places",
+    "level": "A2"
+  },
+  {
+    "id": "v477",
+    "gd": "Leòdhas",
+    "en": "Lewis (the island)",
+    "cat": "places",
+    "level": "A2"
+  },
+  {
+    "id": "v478",
+    "gd": "a' Chuimrigh",
+    "en": "Wales",
+    "cat": "places",
+    "level": "A2"
+  },
+  {
+    "id": "v479",
+    "gd": "an Fhraing",
+    "en": "France",
+    "cat": "places",
+    "level": "A2"
+  },
+  {
+    "id": "v480",
+    "gd": "an Eadailt",
+    "en": "Italy",
+    "cat": "places",
+    "level": "A2"
+  },
+  {
+    "id": "v481",
+    "gd": "a' Ghearmailt",
+    "en": "Germany (country)",
+    "cat": "places",
+    "level": "A2"
+  },
+  {
+    "id": "v482",
+    "gd": "Gaeilge",
+    "en": "Irish (the language)",
+    "cat": "languages",
+    "level": "A2"
+  },
+  {
+    "id": "v483",
+    "gd": "Eadailtis",
+    "en": "Italian (the language)",
+    "cat": "languages",
+    "level": "A2"
+  },
+  {
+    "id": "v484",
+    "gd": "bris",
+    "en": "to break",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v485",
+    "gd": "buail",
+    "en": "to hit",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v486",
+    "gd": "seas",
+    "en": "to stand",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v487",
+    "gd": "suidh",
+    "en": "to sit",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v488",
+    "gd": "tog",
+    "en": "to lift / take (a photo)",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v489",
+    "gd": "cuir",
+    "en": "to put",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v490",
+    "gd": "fosgail",
+    "en": "to open",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v491",
+    "gd": "dùin",
+    "en": "to close",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v492",
+    "gd": "nigh",
+    "en": "to wash",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v493",
+    "gd": "glan",
+    "en": "to clean",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v494",
+    "gd": "iasg",
+    "en": "fish",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v495",
+    "gd": "famh",
+    "en": "mole (animal)",
+    "cat": "animals",
+    "level": "B1"
+  },
+  {
+    "id": "v496",
+    "gd": "broc",
+    "en": "badger",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v497",
+    "gd": "eala",
+    "en": "swan",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v498",
+    "gd": "loth",
+    "en": "foal",
+    "cat": "animals",
+    "level": "B1"
+  },
+  {
+    "id": "v499",
+    "gd": "lach",
+    "en": "wild duck / mallard",
+    "cat": "animals",
+    "level": "B1"
+  },
+  {
+    "id": "v500",
+    "gd": "asal",
+    "en": "donkey",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v501",
+    "gd": "faol",
+    "en": "wolf",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v502",
+    "gd": "neas",
+    "en": "weasel",
+    "cat": "animals",
+    "level": "B1"
+  },
+  {
+    "id": "v503",
+    "gd": "earb",
+    "en": "roe deer",
+    "cat": "animals",
+    "level": "B1"
+  },
+  {
+    "id": "v504",
+    "gd": "daol",
+    "en": "beetle",
+    "cat": "animals",
+    "level": "B1"
+  },
+  {
+    "id": "v505",
+    "gd": "ìne",
+    "en": "nail (finger/toe)",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v506",
+    "gd": "mala",
+    "en": "eyebrow",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v507",
+    "gd": "rosg",
+    "en": "eyelash",
+    "cat": "body",
+    "level": "B1"
+  },
+  {
+    "id": "v508",
+    "gd": "bile",
+    "en": "lip",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v509",
+    "gd": "sàil",
+    "en": "heel",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v510",
+    "gd": "fuil",
+    "en": "blood",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v511",
+    "gd": "anam",
+    "en": "soul / spirit",
+    "cat": "body",
+    "level": "B1"
+  },
+  {
+    "id": "v512",
+    "gd": "cùl",
+    "en": "back (of something)",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v513",
+    "gd": "peur",
+    "en": "pear",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v514",
+    "gd": "lite",
+    "en": "porridge",
+    "cat": "food",
+    "level": "A2"
+  },
+  {
+    "id": "v515",
+    "gd": "meug",
+    "en": "whey",
+    "cat": "food",
+    "level": "B1"
+  },
+  {
+    "id": "v516",
+    "gd": "càl",
+    "en": "kale / cabbage",
+    "cat": "food",
+    "level": "A2"
+  },
+  {
+    "id": "v517",
+    "gd": "blas",
+    "en": "taste / flavour",
+    "cat": "food",
+    "level": "A2"
+  },
+  {
+    "id": "v518",
+    "gd": "cnò",
+    "en": "nut",
+    "cat": "food",
+    "level": "A2"
+  },
+  {
+    "id": "v519",
+    "gd": "allt",
+    "en": "steep-sided stream",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v520",
+    "gd": "àite",
+    "en": "place",
+    "cat": "nature",
+    "level": "A1"
+  },
+  {
+    "id": "v521",
+    "gd": "neul",
+    "en": "cloud",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v522",
+    "gd": "raon",
+    "en": "field / plain",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v523",
+    "gd": "tonn",
+    "en": "wave",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v524",
+    "gd": "àile",
+    "en": "air",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v525",
+    "gd": "sìol",
+    "en": "seed",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v526",
+    "gd": "gath",
+    "en": "ray / beam (of light)",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v527",
+    "gd": "bàrr",
+    "en": "top / peak",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v528",
+    "gd": "cèis",
+    "en": "case / container",
+    "cat": "household",
+    "level": "B1"
+  },
+  {
+    "id": "v529",
+    "gd": "poit",
+    "en": "pot",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v530",
+    "gd": "muga",
+    "en": "mug",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v531",
+    "gd": "clag",
+    "en": "bell",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v532",
+    "gd": "pana",
+    "en": "pan",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v533",
+    "gd": "mapa",
+    "en": "map",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v534",
+    "gd": "bog",
+    "en": "soft",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v535",
+    "gd": "rag",
+    "en": "stiff / rigid",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v536",
+    "gd": "cam",
+    "en": "crooked / askew",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v537",
+    "gd": "mìn",
+    "en": "gentle / fine",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v538",
+    "gd": "nàr",
+    "en": "shameful",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v539",
+    "gd": "dùr",
+    "en": "obstinate / stubborn",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v540",
+    "gd": "ath",
+    "en": "next",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v541",
+    "gd": "clì",
+    "en": "left (side)",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v542",
+    "gd": "fiù",
+    "en": "worth",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v543",
+    "gd": "sàr",
+    "en": "excellent",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v544",
+    "gd": "dall",
+    "en": "blind",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v545",
+    "gd": "trom",
+    "en": "heavy",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v546",
+    "gd": "tana",
+    "en": "thin (not thick)",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v547",
+    "gd": "dian",
+    "en": "passionate / eager",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v548",
+    "gd": "cèin",
+    "en": "distant / remote",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v549",
+    "gd": "gann",
+    "en": "sparse / scarce",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v550",
+    "gd": "mear",
+    "en": "merry / joyful",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v551",
+    "gd": "sona",
+    "en": "happy (content)",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v552",
+    "gd": "grod",
+    "en": "rotten",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v553",
+    "gd": "buan",
+    "en": "durable / lasting",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v554",
+    "gd": "geur",
+    "en": "sharp",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v555",
+    "gd": "binn",
+    "en": "melodious / sweet (sound)",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v556",
+    "gd": "fiar",
+    "en": "bent / crooked",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v557",
+    "gd": "moch",
+    "en": "early",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v558",
+    "gd": "ciar",
+    "en": "dark / swarthy",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v559",
+    "gd": "borb",
+    "en": "barbaric / fierce",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v560",
+    "gd": "garg",
+    "en": "fierce / harsh",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v561",
+    "gd": "glic",
+    "en": "wise",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v562",
+    "gd": "cian",
+    "en": "distant",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v563",
+    "gd": "dàna",
+    "en": "bold / brave",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v564",
+    "gd": "tric",
+    "en": "frequent",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v565",
+    "gd": "mion",
+    "en": "minute / small (detail)",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v566",
+    "gd": "slàn",
+    "en": "healthy / whole",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v567",
+    "gd": "maol",
+    "en": "bald",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v568",
+    "gd": "crom",
+    "en": "bent / curved",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v569",
+    "gd": "fìor",
+    "en": "true / real",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v570",
+    "gd": "coma",
+    "en": "indifferent",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v571",
+    "gd": "can",
+    "en": "to say (common alternative to abair)",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v572",
+    "gd": "cum",
+    "en": "to hold / keep",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v573",
+    "gd": "fan",
+    "en": "to wait / stay put",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v574",
+    "gd": "sir",
+    "en": "to seek / search",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v575",
+    "gd": "gin",
+    "en": "to produce / father",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v576",
+    "gd": "mol",
+    "en": "to praise / recommend",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v577",
+    "gd": "sìn",
+    "en": "to stretch",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v578",
+    "gd": "mill",
+    "en": "to destroy / spoil",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v579",
+    "gd": "lean",
+    "en": "to follow",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v580",
+    "gd": "till",
+    "en": "to return / come back",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v581",
+    "gd": "feud",
+    "en": "must / to have to",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v582",
+    "gd": "stad",
+    "en": "to stop",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v583",
+    "gd": "goil",
+    "en": "to boil",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v584",
+    "gd": "fuin",
+    "en": "to bake",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v585",
+    "gd": "leig",
+    "en": "to allow / let",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v586",
+    "gd": "crùb",
+    "en": "to crouch / duck",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v587",
+    "gd": "figh",
+    "en": "to weave",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v588",
+    "gd": "bàth",
+    "en": "to drown",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v589",
+    "gd": "iadh",
+    "en": "to surround / encircle",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v590",
+    "gd": "lorg",
+    "en": "to search / look for",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v591",
+    "gd": "tilg",
+    "en": "to throw",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v592",
+    "gd": "ruig",
+    "en": "to reach",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v593",
+    "gd": "glac",
+    "en": "to catch / apprehend",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v594",
+    "gd": "smoc",
+    "en": "to smoke (tobacco)",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v595",
+    "gd": "gnog",
+    "en": "to knock",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v596",
+    "gd": "caog",
+    "en": "to wink / blink",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v597",
+    "gd": "gar",
+    "en": "to warm (oneself)",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v598",
+    "gd": "put",
+    "en": "to push / shove",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v599",
+    "gd": "ciad",
+    "en": "first (ordinal)",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v600",
+    "gd": "dara",
+    "en": "second (ordinal)",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v601",
+    "gd": "iùl",
+    "en": "guidance",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v602",
+    "gd": "dàn",
+    "en": "fate / destiny",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v603",
+    "gd": "rian",
+    "en": "method / system",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v604",
+    "gd": "leòr",
+    "en": "sufficiency (cf. gu leòr, enough)",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v605",
+    "gd": "buil",
+    "en": "consequence / result",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v606",
+    "gd": "còrr",
+    "en": "surplus / remainder",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v607",
+    "gd": "cuid",
+    "en": "part / portion / share",
+    "cat": "abstract",
+    "level": "A2"
+  },
+  {
+    "id": "v608",
+    "gd": "aois",
+    "en": "age",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v609",
+    "gd": "ùine",
+    "en": "time / duration",
+    "cat": "time",
+    "level": "A2"
+  },
+  {
+    "id": "v610",
+    "gd": "dùil",
+    "en": "hope / expectation",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v611",
+    "gd": "amas",
+    "en": "aim / objective",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v612",
+    "gd": "gnè",
+    "en": "type / sort",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v613",
+    "gd": "seòrsa",
+    "en": "kind / sort",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v614",
+    "gd": "cùis",
+    "en": "affair / matter / subject",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v615",
+    "gd": "ainm",
+    "en": "name",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v616",
+    "gd": "aire",
+    "en": "attention / mind",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v617",
+    "gd": "guth",
+    "en": "voice",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v618",
+    "gd": "dath",
+    "en": "colour (generic noun)",
+    "cat": "colours",
+    "level": "A1"
+  },
+  {
+    "id": "v619",
+    "gd": "fios",
+    "en": "knowledge",
+    "cat": "abstract",
+    "level": "A2"
+  },
+  {
+    "id": "v620",
+    "gd": "àm",
+    "en": "time (point in time)",
+    "cat": "time",
+    "level": "A1"
+  },
+  {
+    "id": "v621",
+    "gd": "tìr",
+    "en": "land / country",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v622",
+    "gd": "beatha",
+    "en": "life",
+    "cat": "abstract",
+    "level": "A2"
+  },
+  {
+    "id": "v623",
+    "gd": "gaol",
+    "en": "love",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v624",
+    "gd": "dìle",
+    "en": "downpour / heavy rain",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v625",
+    "gd": "fàir",
+    "en": "dawn / daybreak",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v626",
+    "gd": "dealt",
+    "en": "dew",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v627",
+    "gd": "sruth",
+    "en": "stream / burn",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v628",
+    "gd": "beàrn",
+    "en": "notch / gap",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v629",
+    "gd": "rubha",
+    "en": "headland / promontory",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v630",
+    "gd": "sgeir",
+    "en": "skerry (rocky islet)",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v631",
+    "gd": "linne",
+    "en": "firth",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v632",
+    "gd": "reòta",
+    "en": "frost",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v633",
+    "gd": "fèath",
+    "en": "calm (weather)",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v634",
+    "gd": "beach",
+    "en": "bee",
+    "cat": "animals",
+    "level": "A1"
+  },
+  {
+    "id": "v635",
+    "gd": "druid",
+    "en": "starling",
+    "cat": "animals",
+    "level": "B1"
+  },
+  {
+    "id": "v636",
+    "gd": "galla",
+    "en": "female dog / bitch",
+    "cat": "animals",
+    "level": "B1"
+  },
+  {
+    "id": "v637",
+    "gd": "rùta",
+    "en": "ram",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v638",
+    "gd": "laogh",
+    "en": "calf / fawn",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v639",
+    "gd": "gèadh",
+    "en": "goose",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v640",
+    "gd": "ròcas",
+    "en": "crow / rook",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v641",
+    "gd": "radan",
+    "en": "rat",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v642",
+    "gd": "deilf",
+    "en": "dolphin",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v643",
+    "gd": "abhag",
+    "en": "terrier",
+    "cat": "animals",
+    "level": "B1"
+  },
+  {
+    "id": "v644",
+    "gd": "pèist",
+    "en": "reptile",
+    "cat": "animals",
+    "level": "B1"
+  },
+  {
+    "id": "v645",
+    "gd": "lùdag",
+    "en": "little finger",
+    "cat": "body",
+    "level": "B1"
+  },
+  {
+    "id": "v646",
+    "gd": "òrdag",
+    "en": "thumb",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v647",
+    "gd": "anail",
+    "en": "breath",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v648",
+    "gd": "pluic",
+    "en": "cheek",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v649",
+    "gd": "cneas",
+    "en": "skin",
+    "cat": "body",
+    "level": "B1"
+  },
+  {
+    "id": "v650",
+    "gd": "gnùis",
+    "en": "face (expression)",
+    "cat": "body",
+    "level": "B1"
+  },
+  {
+    "id": "v651",
+    "gd": "acras",
+    "en": "hunger",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v652",
+    "gd": "casad",
+    "en": "cough",
+    "cat": "health",
+    "level": "A2"
+  },
+  {
+    "id": "v653",
+    "gd": "galar",
+    "en": "disease / illness",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v654",
+    "gd": "cinnt",
+    "en": "certainty",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v655",
+    "gd": "doras",
+    "en": "door",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v656",
+    "gd": "peann",
+    "en": "pen",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v657",
+    "gd": "litir",
+    "en": "letter (correspondence)",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v658",
+    "gd": "cailc",
+    "en": "chalk",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v659",
+    "gd": "forca",
+    "en": "fork",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v660",
+    "gd": "cuach",
+    "en": "bowl",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v661",
+    "gd": "cuman",
+    "en": "pail / bucket",
+    "cat": "household",
+    "level": "B1"
+  },
+  {
+    "id": "v662",
+    "gd": "copan",
+    "en": "cup",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v663",
+    "gd": "ciste",
+    "en": "chest / box",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v664",
+    "gd": "spàin",
+    "en": "spoon",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v665",
+    "gd": "sgian",
+    "en": "knife",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v666",
+    "gd": "coire",
+    "en": "kettle",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v667",
+    "gd": "putan",
+    "en": "button",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v668",
+    "gd": "camag",
+    "en": "bracket / parenthesis",
+    "cat": "household",
+    "level": "B1"
+  },
+  {
+    "id": "v669",
+    "gd": "aiste",
+    "en": "essay / composition",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v670",
+    "gd": "àradh",
+    "en": "ladder",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v671",
+    "gd": "cleòc",
+    "en": "cloak / cape",
+    "cat": "clothing",
+    "level": "B1"
+  },
+  {
+    "id": "v672",
+    "gd": "tuagh",
+    "en": "axe",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v673",
+    "gd": "spaid",
+    "en": "spade",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v674",
+    "gd": "bruis",
+    "en": "brush",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v675",
+    "gd": "rèile",
+    "en": "rail",
+    "cat": "household",
+    "level": "B1"
+  },
+  {
+    "id": "v676",
+    "gd": "deasg",
+    "en": "desk",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v677",
+    "gd": "biona",
+    "en": "bin",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v678",
+    "gd": "seada",
+    "en": "shed / outhouse",
+    "cat": "household",
+    "level": "B1"
+  },
+  {
+    "id": "v679",
+    "gd": "sàsar",
+    "en": "saucer",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v680",
+    "gd": "cèic",
+    "en": "cake",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v681",
+    "gd": "siris",
+    "en": "cherry",
+    "cat": "food",
+    "level": "A2"
+  },
+  {
+    "id": "v682",
+    "gd": "ubhal",
+    "en": "apple",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v683",
+    "gd": "eòrna",
+    "en": "barley",
+    "cat": "food",
+    "level": "B1"
+  },
+  {
+    "id": "v684",
+    "gd": "taois",
+    "en": "dough / batter",
+    "cat": "food",
+    "level": "B1"
+  },
+  {
+    "id": "v685",
+    "gd": "marag",
+    "en": "pudding (savoury)",
+    "cat": "food",
+    "level": "B1"
+  },
+  {
+    "id": "v686",
+    "gd": "smeur",
+    "en": "bramble / blackberry",
+    "cat": "food",
+    "level": "B1"
+  },
+  {
+    "id": "v687",
+    "gd": "dearc",
+    "en": "berry",
+    "cat": "food",
+    "level": "B1"
+  },
+  {
+    "id": "v688",
+    "gd": "milis",
+    "en": "sweet (taste)",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v689",
+    "gd": "fionn",
+    "en": "fair (hair/complexion)",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v690",
+    "gd": "liath",
+    "en": "grey",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v691",
+    "gd": "calma",
+    "en": "brave / stout",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v692",
+    "gd": "ruadh",
+    "en": "red / auburn",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v693",
+    "gd": "nuadh",
+    "en": "new / fresh",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v694",
+    "gd": "uasal",
+    "en": "noble / aristocratic",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v695",
+    "gd": "grinn",
+    "en": "beautiful / charming",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v696",
+    "gd": "marbh",
+    "en": "dead",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v697",
+    "gd": "bochd",
+    "en": "poor",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v698",
+    "gd": "ceàrr",
+    "en": "wrong / incorrect",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v699",
+    "gd": "dlùth",
+    "en": "close / near",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v700",
+    "gd": "garbh",
+    "en": "rough (surface)",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v701",
+    "gd": "corra",
+    "en": "odd / occasional",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v702",
+    "gd": "gasta",
+    "en": "excellent / fine",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v703",
+    "gd": "ciùin",
+    "en": "quiet / peaceful",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v704",
+    "gd": "balbh",
+    "en": "mute / dumb",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v705",
+    "gd": "sèimh",
+    "en": "mild / gentle",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v706",
+    "gd": "caomh",
+    "en": "kind / gentle",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v707",
+    "gd": "breun",
+    "en": "stinking / foul",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v708",
+    "gd": "seasg",
+    "en": "sterile / barren",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v709",
+    "gd": "faoin",
+    "en": "silly / foolish",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v710",
+    "gd": "droch",
+    "en": "bad (precedes noun)",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v711",
+    "gd": "breac",
+    "en": "speckled / spotted",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v712",
+    "gd": "diùid",
+    "en": "shy / timid",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v713",
+    "gd": "leisg",
+    "en": "lazy",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v714",
+    "gd": "deagh",
+    "en": "good (precedes noun)",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v715",
+    "gd": "teann",
+    "en": "tight / taut",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v716",
+    "gd": "odhar",
+    "en": "dun-coloured",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v717",
+    "gd": "geàrr",
+    "en": "short",
+    "cat": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": "v718",
+    "gd": "àraid",
+    "en": "special / particular",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v719",
+    "gd": "ìseal",
+    "en": "low",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v720",
+    "gd": "obann",
+    "en": "sudden",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v721",
+    "gd": "pailt",
+    "en": "plentiful / abundant",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v722",
+    "gd": "ògail",
+    "en": "youthful",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v723",
+    "gd": "tiugh",
+    "en": "thick / dense",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v724",
+    "gd": "teòma",
+    "en": "expert / skilful",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v725",
+    "gd": "seang",
+    "en": "slender / slim",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v726",
+    "gd": "saobh",
+    "en": "foolish / misguided",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v727",
+    "gd": "seac",
+    "en": "to shrivel / wither",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v728",
+    "gd": "caoin",
+    "en": "to mourn / weep",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v729",
+    "gd": "crith",
+    "en": "to shake / tremble",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v730",
+    "gd": "ruith",
+    "en": "to run",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v731",
+    "gd": "leugh",
+    "en": "to read",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v732",
+    "gd": "dòirt",
+    "en": "to pour / spill",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v733",
+    "gd": "dùisg",
+    "en": "to wake / rouse",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v734",
+    "gd": "gèill",
+    "en": "to surrender / yield",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v735",
+    "gd": "searg",
+    "en": "to wither / wane",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v736",
+    "gd": "failc",
+    "en": "to bathe",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v737",
+    "gd": "caisg",
+    "en": "to stop / prevent",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v738",
+    "gd": "pronn",
+    "en": "to mash / crush",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v739",
+    "gd": "laigh",
+    "en": "to lie down",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v740",
+    "gd": "feith",
+    "en": "to wait",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v741",
+    "gd": "caill",
+    "en": "to lose",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v742",
+    "gd": "caith",
+    "en": "to spend / wear out",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v743",
+    "gd": "creid",
+    "en": "to believe",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v744",
+    "gd": "amais",
+    "en": "to aim / point",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v745",
+    "gd": "seall",
+    "en": "to look / show",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v746",
+    "gd": "saoil",
+    "en": "to think / suppose",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v747",
+    "gd": "sluig",
+    "en": "to swallow",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v748",
+    "gd": "crìon",
+    "en": "to wither / decay",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v749",
+    "gd": "cunnt",
+    "en": "to count",
+    "cat": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": "v750",
+    "gd": "clisg",
+    "en": "to be startled",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v751",
+    "gd": "tairg",
+    "en": "to offer",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v752",
+    "gd": "claon",
+    "en": "to slope / incline",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v753",
+    "gd": "breab",
+    "en": "to kick",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v754",
+    "gd": "blais",
+    "en": "to taste",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v755",
+    "gd": "sgàin",
+    "en": "to burst / crack",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v756",
+    "gd": "nochd",
+    "en": "to appear / show up",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v757",
+    "gd": "sealg",
+    "en": "to hunt",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v758",
+    "gd": "cliog",
+    "en": "to click",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v759",
+    "gd": "priob",
+    "en": "to wink / blink",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v760",
+    "gd": "spàrr",
+    "en": "to drive / thrust",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v761",
+    "gd": "craol",
+    "en": "to broadcast",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v762",
+    "gd": "smàil",
+    "en": "to extinguish / snuff",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v763",
+    "gd": "stòir",
+    "en": "to store",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v764",
+    "gd": "speal",
+    "en": "to mow / scythe",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v765",
+    "gd": "buair",
+    "en": "to disturb / upset",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v766",
+    "gd": "croch",
+    "en": "to hang / suspend",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v767",
+    "gd": "leagh",
+    "en": "to melt",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v768",
+    "gd": "slaod",
+    "en": "to drag / haul",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v769",
+    "gd": "smèid",
+    "en": "to beckon / wave",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v770",
+    "gd": "crath",
+    "en": "to shake / wave",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v771",
+    "gd": "spoth",
+    "en": "to castrate / geld",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v772",
+    "gd": "diùlt",
+    "en": "to refuse / reject",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v773",
+    "gd": "gairm",
+    "en": "to call / cry out",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v774",
+    "gd": "tachd",
+    "en": "to choke / strangle",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v775",
+    "gd": "trèig",
+    "en": "to abandon / desert",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v776",
+    "gd": "builg",
+    "en": "to bubble",
+    "cat": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": "v777",
+    "gd": "ùidh",
+    "en": "interest / inclination",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v778",
+    "gd": "àras",
+    "en": "dwelling / habitation",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v779",
+    "gd": "staid",
+    "en": "condition / state",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v780",
+    "gd": "luach",
+    "en": "value / worth",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v781",
+    "gd": "tuath",
+    "en": "country folk",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v782",
+    "gd": "cèile",
+    "en": "spouse",
+    "cat": "family",
+    "level": "A2"
+  },
+  {
+    "id": "v783",
+    "gd": "gàire",
+    "en": "laughter",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v784",
+    "gd": "maise",
+    "en": "beauty / grace",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v785",
+    "gd": "dragh",
+    "en": "annoyance / trouble",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v786",
+    "gd": "sgeul",
+    "en": "story / tale",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v787",
+    "gd": "taing",
+    "en": "thanks / gratitude",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v788",
+    "gd": "urras",
+    "en": "guarantee / security",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v789",
+    "gd": "breug",
+    "en": "lie / falsehood",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v790",
+    "gd": "geall",
+    "en": "pledge / promise",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v791",
+    "gd": "seagh",
+    "en": "meaning / sense",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v792",
+    "gd": "nàdar",
+    "en": "nature (natural world)",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v793",
+    "gd": "stàit",
+    "en": "state (politics)",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v794",
+    "gd": "fiach",
+    "en": "worth / value",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v795",
+    "gd": "ionad",
+    "en": "place / spot",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v796",
+    "gd": "dòigh",
+    "en": "way / manner",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v797",
+    "gd": "turas",
+    "en": "journey / trip",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v798",
+    "gd": "greis",
+    "en": "a while / short time",
+    "cat": "time",
+    "level": "A2"
+  },
+  {
+    "id": "v799",
+    "gd": "onair",
+    "en": "honour",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v800",
+    "gd": "urram",
+    "en": "respect / esteem",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v801",
+    "gd": "nàire",
+    "en": "shame / disgrace",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v802",
+    "gd": "cruth",
+    "en": "shape / form",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v803",
+    "gd": "cùram",
+    "en": "care / responsibility",
+    "cat": "abstract",
+    "level": "A2"
+  },
+  {
+    "id": "v804",
+    "gd": "gleus",
+    "en": "order / condition",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v805",
+    "gd": "iolra",
+    "en": "plural (grammar)",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v806",
+    "gd": "taobh",
+    "en": "side",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v807",
+    "gd": "brath",
+    "en": "knowledge / notice",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v808",
+    "gd": "atadh",
+    "en": "swelling",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v809",
+    "gd": "àrdan",
+    "en": "arrogance / pride",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v810",
+    "gd": "sonas",
+    "en": "good fortune / happiness",
+    "cat": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": "v811",
+    "gd": "mulad",
+    "en": "grief / sadness",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v812",
+    "gd": "eagal",
+    "en": "fear / fright",
+    "cat": "emotions",
+    "level": "A1"
+  },
+  {
+    "id": "v813",
+    "gd": "gràin",
+    "en": "hate / disgust",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v814",
+    "gd": "fiamh",
+    "en": "awe / fear",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v815",
+    "gd": "pròis",
+    "en": "pride",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v816",
+    "gd": "neart",
+    "en": "strength / power",
+    "cat": "abstract",
+    "level": "A2"
+  },
+  {
+    "id": "v817",
+    "gd": "brìgh",
+    "en": "meaning / sense",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v818",
+    "gd": "ciall",
+    "en": "significance / sense",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v819",
+    "gd": "eòlas",
+    "en": "knowledge / familiarity",
+    "cat": "abstract",
+    "level": "A2"
+  },
+  {
+    "id": "v820",
+    "gd": "astar",
+    "en": "distance",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v821",
+    "gd": "ceist",
+    "en": "question",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v822",
+    "gd": "duais",
+    "en": "reward / prize",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v823",
+    "gd": "pàirt",
+    "en": "part",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v824",
+    "gd": "fuaim",
+    "en": "sound",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v825",
+    "gd": "tràth",
+    "en": "time / period",
+    "cat": "time",
+    "level": "A2"
+  },
+  {
+    "id": "v826",
+    "gd": "àirde",
+    "en": "height",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v827",
+    "gd": "gnàth",
+    "en": "custom / habit",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v828",
+    "gd": "deòin",
+    "en": "consent / willingness",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v829",
+    "gd": "cionn",
+    "en": "occasion",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v830",
+    "gd": "iasad",
+    "en": "loan",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v831",
+    "gd": "fùdar",
+    "en": "powder",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v832",
+    "gd": "riamh",
+    "en": "series / number",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v833",
+    "gd": "sèist",
+    "en": "siege",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v834",
+    "gd": "ràith",
+    "en": "season / quarter (of year)",
+    "cat": "time",
+    "level": "B1"
+  },
+  {
+    "id": "v835",
+    "gd": "faram",
+    "en": "noise / loudness",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v836",
+    "gd": "impis",
+    "en": "imminence",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v837",
+    "gd": "beart",
+    "en": "deed / action",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v838",
+    "gd": "suain",
+    "en": "slumber / sleep",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v839",
+    "gd": "anart",
+    "en": "linen",
+    "cat": "household",
+    "level": "B1"
+  },
+  {
+    "id": "v840",
+    "gd": "gobha",
+    "en": "blacksmith",
+    "cat": "professions",
+    "level": "B1"
+  },
+  {
+    "id": "v841",
+    "gd": "ceàrd",
+    "en": "tinker",
+    "cat": "professions",
+    "level": "B1"
+  },
+  {
+    "id": "v842",
+    "gd": "lèigh",
+    "en": "doctor / physician",
+    "cat": "professions",
+    "level": "B1"
+  },
+  {
+    "id": "v843",
+    "gd": "iarla",
+    "en": "earl",
+    "cat": "professions",
+    "level": "B1"
+  },
+  {
+    "id": "v844",
+    "gd": "naomh",
+    "en": "saint",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v845",
+    "gd": "flath",
+    "en": "prince",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v846",
+    "gd": "laoch",
+    "en": "hero / warrior",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v847",
+    "gd": "dalta",
+    "en": "stepchild / foster child",
+    "cat": "family",
+    "level": "B1"
+  },
+  {
+    "id": "v848",
+    "gd": "muime",
+    "en": "nurse / foster mother",
+    "cat": "family",
+    "level": "B1"
+  },
+  {
+    "id": "v849",
+    "gd": "neach",
+    "en": "person / individual",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v850",
+    "gd": "posta",
+    "en": "postman",
+    "cat": "professions",
+    "level": "A2"
+  },
+  {
+    "id": "v851",
+    "gd": "treas",
+    "en": "third (ordinal)",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v852",
+    "gd": "dusan",
+    "en": "dozen",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v853",
+    "gd": "aonar",
+    "en": "alone / one person",
+    "cat": "numbers",
+    "level": "B1"
+  },
+  {
+    "id": "v854",
+    "gd": "cànan",
+    "en": "language (generic noun)",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v855",
+    "gd": "sìoda",
+    "en": "silk",
+    "cat": "household",
+    "level": "B1"
+  },
+  {
+    "id": "v856",
+    "gd": "mòine",
+    "en": "peat",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v857",
+    "gd": "fiodh",
+    "en": "wood / timber",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v858",
+    "gd": "crann",
+    "en": "plough",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v859",
+    "gd": "sràid",
+    "en": "street",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v860",
+    "gd": "uaigh",
+    "en": "grave / tomb",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v861",
+    "gd": "alcol",
+    "en": "alcohol",
+    "cat": "food",
+    "level": "A2"
+  },
+  {
+    "id": "v862",
+    "gd": "campa",
+    "en": "camp",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v863",
+    "gd": "maide",
+    "en": "wood / stick",
+    "cat": "nature",
+    "level": "A2"
+  },
+  {
+    "id": "v864",
+    "gd": "cuing",
+    "en": "yoke",
+    "cat": "household",
+    "level": "B1"
+  },
+  {
+    "id": "v865",
+    "gd": "fighe",
+    "en": "knitting",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v866",
+    "gd": "sguab",
+    "en": "sheaf / broom",
+    "cat": "household",
+    "level": "B1"
+  },
+  {
+    "id": "v867",
+    "gd": "gaoid",
+    "en": "blemish / defect",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v868",
+    "gd": "geata",
+    "en": "gate",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v869",
+    "gd": "trèan",
+    "en": "train (locomotive, alt. spelling)",
+    "cat": "travel",
+    "level": "A1"
+  },
+  {
+    "id": "v870",
+    "gd": "pàirc",
+    "en": "park",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v871",
+    "gd": "puing",
+    "en": "point",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v872",
+    "gd": "cotan",
+    "en": "cotton",
+    "cat": "clothing",
+    "level": "A2"
+  },
+  {
+    "id": "v873",
+    "gd": "canàl",
+    "en": "canal",
+    "cat": "nature",
+    "level": "B1"
+  },
+  {
+    "id": "v874",
+    "gd": "cabar",
+    "en": "caber (large piece of wood)",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v875",
+    "gd": "fèill",
+    "en": "feast / festival",
+    "cat": "community",
+    "level": "B1"
+  },
+  {
+    "id": "v876",
+    "gd": "crios",
+    "en": "belt",
+    "cat": "clothing",
+    "level": "A2"
+  },
+  {
+    "id": "v877",
+    "gd": "galan",
+    "en": "gallon",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v878",
+    "gd": "brùid",
+    "en": "brute / beast",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v879",
+    "gd": "punnd",
+    "en": "pound (weight)",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v880",
+    "gd": "piàna",
+    "en": "piano",
+    "cat": "hobbies",
+    "level": "A1"
+  },
+  {
+    "id": "v881",
+    "gd": "druma",
+    "en": "drum (instrument)",
+    "cat": "hobbies",
+    "level": "A1"
+  },
+  {
+    "id": "v882",
+    "gd": "cìs",
+    "en": "tax",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v883",
+    "gd": "mòd",
+    "en": "court / tribunal",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v884",
+    "gd": "còir",
+    "en": "duty / moral obligation",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v885",
+    "gd": "strì",
+    "en": "strife / struggle / conflict",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v886",
+    "gd": "roinn",
+    "en": "province / region",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v887",
+    "gd": "calpa",
+    "en": "capital (finance)",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v888",
+    "gd": "rèite",
+    "en": "agreement / accommodation",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v889",
+    "gd": "aonta",
+    "en": "agreement / consent",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v890",
+    "gd": "sluagh",
+    "en": "community / folk",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v891",
+    "gd": "inneal",
+    "en": "implement / instrument",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v892",
+    "gd": "poball",
+    "en": "people / the public",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v893",
+    "gd": "crìoch",
+    "en": "conclusion / boundary",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v894",
+    "gd": "toradh",
+    "en": "consequence / result",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v895",
+    "gd": "comann",
+    "en": "community / society",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v896",
+    "gd": "eucoir",
+    "en": "injustice / wrong",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v897",
+    "gd": "comain",
+    "en": "moral debt / obligation",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v898",
+    "gd": "stòras",
+    "en": "resource / reserves",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v899",
+    "gd": "smachd",
+    "en": "control / authority",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v900",
+    "gd": "deasbad",
+    "en": "debate",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v901",
+    "gd": "teagasg",
+    "en": "doctrine / instruction",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v902",
+    "gd": "coimeas",
+    "en": "comparison / match",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v903",
+    "gd": "gàbhadh",
+    "en": "danger / crisis",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v904",
+    "gd": "spiorad",
+    "en": "spirit / morale",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v905",
+    "gd": "measadh",
+    "en": "appraisal / assessment",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v906",
+    "gd": "còrdadh",
+    "en": "agreement / understanding",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v907",
+    "gd": "nàisean",
+    "en": "nation",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v908",
+    "gd": "piseach",
+    "en": "improvement / progress",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v909",
+    "gd": "goireas",
+    "en": "resource",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v910",
+    "gd": "iomairt",
+    "en": "effort / campaign / struggle",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v911",
+    "gd": "dualchas",
+    "en": "culture / heritage",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v912",
+    "gd": "adhartas",
+    "en": "progress / development",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v913",
+    "gd": "rianachd",
+    "en": "management / administration",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v914",
+    "gd": "rianaire",
+    "en": "administrator",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v915",
+    "gd": "muinntir",
+    "en": "population / the people",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v916",
+    "gd": "deimhinn",
+    "en": "certain / definite",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v917",
+    "gd": "cùmhnant",
+    "en": "treaty / covenant",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v918",
+    "gd": "cumhachd",
+    "en": "influence / power",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v919",
+    "gd": "èifeachd",
+    "en": "effect / efficacy",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v920",
+    "gd": "domhanta",
+    "en": "global",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v921",
+    "gd": "companas",
+    "en": "partnership / fellowship",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v922",
+    "gd": "rèiteach",
+    "en": "reconciliation / resolution",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v923",
+    "gd": "aontachd",
+    "en": "agreement",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v924",
+    "gd": "misneach",
+    "en": "resolution / determination",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v925",
+    "gd": "argumaid",
+    "en": "argument",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v926",
+    "gd": "dìomhain",
+    "en": "idle / unemployed",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v927",
+    "gd": "coireach",
+    "en": "guilty / responsible",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v928",
+    "gd": "sgrùdadh",
+    "en": "scrutiny / inspection",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v929",
+    "gd": "deasbair",
+    "en": "debater",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v930",
+    "gd": "deuchainn",
+    "en": "exam / experiment",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v931",
+    "gd": "adhartach",
+    "en": "advanced / progressive",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v932",
+    "gd": "rannsaich",
+    "en": "to investigate / research",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v933",
+    "gd": "riaghailt",
+    "en": "rule / regulation",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v934",
+    "gd": "uachdaran",
+    "en": "governor / ruler",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v935",
+    "gd": "dearbhadh",
+    "en": "proof / evidence",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v936",
+    "gd": "comhairle",
+    "en": "council / advice",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v937",
+    "gd": "nàiseanta",
+    "en": "national",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v938",
+    "gd": "connsaich",
+    "en": "to argue / dispute",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v939",
+    "gd": "comannach",
+    "en": "social",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v940",
+    "gd": "riaghladh",
+    "en": "ruling / administration",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v941",
+    "gd": "gnìomhach",
+    "en": "active / industrious",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v942",
+    "gd": "treòirich",
+    "en": "to influence / guide",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v943",
+    "gd": "comataidh",
+    "en": "committee",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v944",
+    "gd": "stiùirich",
+    "en": "to manage / supervise",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v945",
+    "gd": "sgaoileadh",
+    "en": "dispersal / dissemination",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v946",
+    "gd": "breithnich",
+    "en": "to judge / assess",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v947",
+    "gd": "ionannachd",
+    "en": "identity / equality",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v948",
+    "gd": "mìneachadh",
+    "en": "explanation",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v949",
+    "gd": "co-theacsa",
+    "en": "context",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v950",
+    "gd": "leasachadh",
+    "en": "improvement / development",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v951",
+    "gd": "stiùireadh",
+    "en": "guidance / management",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v952",
+    "gd": "bun-reachd",
+    "en": "constitution (politics)",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v953",
+    "gd": "oighreachd",
+    "en": "inheritance / heritage / estate",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v954",
+    "gd": "moraltachd",
+    "en": "morality",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v955",
+    "gd": "riaghaltas",
+    "en": "government",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v956",
+    "gd": "acadamaidh",
+    "en": "academy",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v957",
+    "gd": "rèiteachadh",
+    "en": "negotiation / modulation",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v958",
+    "gd": "co-aontaich",
+    "en": "to agree / combine",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v959",
+    "gd": "rannsachadh",
+    "en": "research / study",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v960",
+    "gd": "gnìomhachas",
+    "en": "industry",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v961",
+    "gd": "mac-meanmna",
+    "en": "imagination",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v962",
+    "gd": "nàiseantach",
+    "en": "nationalist",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v963",
+    "gd": "cumhachdach",
+    "en": "influential",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v964",
+    "gd": "prionnsabal",
+    "en": "principle",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v965",
+    "gd": "connsachadh",
+    "en": "argument / dispute",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v966",
+    "gd": "truailleadh",
+    "en": "pollution / contamination",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v967",
+    "gd": "fèin-aithne",
+    "en": "self-identity",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v968",
+    "gd": "feallsanach",
+    "en": "philosopher",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v969",
+    "gd": "eaconomaidh",
+    "en": "economy",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v970",
+    "gd": "mì-chothrom",
+    "en": "injustice / unfairness",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v971",
+    "gd": "dìcheallach",
+    "en": "diligent / hardworking",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v972",
+    "gd": "ceann-uidhe",
+    "en": "destination",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v973",
+    "gd": "nàiseantachd",
+    "en": "nationalism",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v974",
+    "gd": "ro-innleachd",
+    "en": "strategy",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v975",
+    "gd": "leth-bhreith",
+    "en": "discrimination / partiality",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v976",
+    "gd": "ath-leasaich",
+    "en": "to reform",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v977",
+    "gd": "co-òrdachadh",
+    "en": "coordination",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v978",
+    "gd": "neach-obrach",
+    "en": "employee",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v979",
+    "gd": "feallsanachd",
+    "en": "philosophy",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v980",
+    "gd": "mì-thuigsinn",
+    "en": "misunderstanding / misconception",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v981",
+    "gd": "eas-aontachd",
+    "en": "disagreement",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v982",
+    "gd": "cion-cosnaidh",
+    "en": "unemployment",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v983",
+    "gd": "dearbh-aithne",
+    "en": "identity",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v984",
+    "gd": "stèidheachadh",
+    "en": "establishment / institution",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v985",
+    "gd": "mion-sgrùdair",
+    "en": "analyst",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v986",
+    "gd": "connspaideach",
+    "en": "controversial / argumentative",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v987",
+    "gd": "beachd-smaoin",
+    "en": "theory",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v988",
+    "gd": "deasbaireachd",
+    "en": "discussion / debate",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v989",
+    "gd": "daonfhlaitheas",
+    "en": "democracy",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v990",
+    "gd": "fear-poilitigs",
+    "en": "politician",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v991",
+    "gd": "breithneachadh",
+    "en": "adjudication / decision-making",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v992",
+    "gd": "eadar-nàiseanta",
+    "en": "international",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v993",
+    "gd": "ath-leasachadh",
+    "en": "reform",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v994",
+    "gd": "neach-stiùiridh",
+    "en": "director / manager",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v995",
+    "gd": "soilleireachadh",
+    "en": "clarification / explanation",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v996",
+    "gd": "ro-innleachdail",
+    "en": "strategic",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v997",
+    "gd": "com-pàirteachas",
+    "en": "partnership",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v998",
+    "gd": "mion-rannsachadh",
+    "en": "analysis",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v999",
+    "gd": "sluagh-iùl",
+    "en": "politics",
+    "cat": "formal",
+    "level": "B2"
+  },
+  {
+    "id": "v1000",
+    "gd": "cleachd",
+    "en": "to use (cleachdadh = using)",
+    "cat": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": "v1001",
+    "gd": "baidhseagal",
+    "en": "bicycle",
+    "cat": "travel",
+    "level": "A1"
+  },
+  {
+    "id": "v1002",
+    "gd": "fuaigh",
+    "en": "to sew (fuaigheal = sewing)",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v1003",
+    "gd": "sgithich",
+    "en": "to ski (sgitheadh = ski-ing)",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v1004",
+    "gd": "sreathartaich",
+    "en": "to sneeze",
+    "cat": "health",
+    "level": "A2"
+  },
+  {
+    "id": "v1005",
+    "gd": "telebhisean",
+    "en": "television",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v1006",
+    "gd": "làmpa",
+    "en": "lamp",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v1007",
+    "gd": "rèidio",
+    "en": "radio",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v1008",
+    "gd": "sèithear",
+    "en": "chair (alternate word)",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v1009",
+    "gd": "dreasair",
+    "en": "dresser (furniture)",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v1010",
+    "gd": "mamaidh",
+    "en": "mummy",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v1011",
+    "gd": "dadaidh",
+    "en": "daddy",
+    "cat": "family",
+    "level": "A1"
+  },
+  {
+    "id": "v1012",
+    "gd": "pòcaid",
+    "en": "pocket",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v1013",
+    "gd": "sofa",
+    "en": "sofa",
+    "cat": "household",
+    "level": "A1"
+  },
+  {
+    "id": "v1014",
+    "gd": "cuisean",
+    "en": "cushion",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v1015",
+    "gd": "gàirdean",
+    "en": "arm",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v1016",
+    "gd": "uileann",
+    "en": "elbow",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v1017",
+    "gd": "amhaich",
+    "en": "neck / throat",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v1018",
+    "gd": "maoil",
+    "en": "forehead",
+    "cat": "body",
+    "level": "B1"
+  },
+  {
+    "id": "v1019",
+    "gd": "corrag",
+    "en": "finger",
+    "cat": "body",
+    "level": "A1"
+  },
+  {
+    "id": "v1020",
+    "gd": "dithis",
+    "en": "two people",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v1021",
+    "gd": "triùir",
+    "en": "three people",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v1022",
+    "gd": "ceathrar",
+    "en": "four people",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v1023",
+    "gd": "còignear",
+    "en": "five people",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v1024",
+    "gd": "sianar",
+    "en": "six people",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v1025",
+    "gd": "seachdnar",
+    "en": "seven people",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v1026",
+    "gd": "ochdnar",
+    "en": "eight people",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v1027",
+    "gd": "naoinear",
+    "en": "nine people",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v1028",
+    "gd": "deichnear",
+    "en": "ten people",
+    "cat": "numbers",
+    "level": "A2"
+  },
+  {
+    "id": "v1029",
+    "gd": "leis",
+    "en": "with him / with it (prepositional pronoun)",
+    "cat": "grammar-words",
+    "level": "A2"
+  },
+  {
+    "id": "v1030",
+    "gd": "leatha",
+    "en": "with her (prepositional pronoun)",
+    "cat": "grammar-words",
+    "level": "A2"
+  },
+  {
+    "id": "v1031",
+    "gd": "leinn",
+    "en": "with us (prepositional pronoun)",
+    "cat": "grammar-words",
+    "level": "A2"
+  },
+  {
+    "id": "v1032",
+    "gd": "leotha",
+    "en": "with them (prepositional pronoun)",
+    "cat": "grammar-words",
+    "level": "A2"
+  },
+  {
+    "id": "v1033",
+    "gd": "ceapaire",
+    "en": "sandwich",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v1034",
+    "gd": "clàr-bìdhe",
+    "en": "menu",
+    "cat": "food",
+    "level": "A2"
+  },
+  {
+    "id": "v1035",
+    "gd": "oraindsear",
+    "en": "orange (fruit)",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v1036",
+    "gd": "pathadh",
+    "en": "thirst",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v1037",
+    "gd": "teagamh",
+    "en": "doubt",
+    "cat": "abstract",
+    "level": "A2"
+  },
+  {
+    "id": "v1038",
+    "gd": "fortanach",
+    "en": "fortunate / lucky",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v1039",
+    "gd": "coltas",
+    "en": "look / appearance",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1040",
+    "gd": "cailleach",
+    "en": "old woman",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1041",
+    "gd": "an-earar",
+    "en": "the day after tomorrow",
+    "cat": "time",
+    "level": "A2"
+  },
+  {
+    "id": "v1042",
+    "gd": "rabaid",
+    "en": "rabbit",
+    "cat": "animals",
+    "level": "A1"
+  },
+  {
+    "id": "v1043",
+    "gd": "faoileag",
+    "en": "seagull",
+    "cat": "animals",
+    "level": "A2"
+  },
+  {
+    "id": "v1044",
+    "gd": "curran",
+    "en": "carrot",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v1045",
+    "gd": "uan",
+    "en": "lamb (animal)",
+    "cat": "animals",
+    "level": "A1"
+  },
+  {
+    "id": "v1046",
+    "gd": "croit",
+    "en": "croft",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1047",
+    "gd": "mairt",
+    "en": "cows (irregular plural of bò)",
+    "cat": "animals",
+    "level": "B1"
+  },
+  {
+    "id": "v1048",
+    "gd": "Gàidheal",
+    "en": "a Gael / Highlander",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1049",
+    "gd": "blobhsa",
+    "en": "blouse",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v1050",
+    "gd": "sgarfa",
+    "en": "scarf",
+    "cat": "clothing",
+    "level": "A1"
+  },
+  {
+    "id": "v1051",
+    "gd": "neapraig",
+    "en": "handkerchief",
+    "cat": "clothing",
+    "level": "A2"
+  },
+  {
+    "id": "v1052",
+    "gd": "tartain",
+    "en": "tartan",
+    "cat": "clothing",
+    "level": "A2"
+  },
+  {
+    "id": "v1053",
+    "gd": "cuireadh",
+    "en": "invitation",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1054",
+    "gd": "maighstir",
+    "en": "Mr / master",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1055",
+    "gd": "boireannach",
+    "en": "woman",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v1056",
+    "gd": "spaideil",
+    "en": "posh / grand",
+    "cat": "adjectives",
+    "level": "B1"
+  },
+  {
+    "id": "v1057",
+    "gd": "cus",
+    "en": "too much",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v1058",
+    "gd": "righ",
+    "en": "king",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1059",
+    "gd": "peatroil",
+    "en": "petrol",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v1060",
+    "gd": "cunntasair",
+    "en": "accountant",
+    "cat": "professions",
+    "level": "A2"
+  },
+  {
+    "id": "v1061",
+    "gd": "banca",
+    "en": "bank",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v1062",
+    "gd": "seinneadair",
+    "en": "singer",
+    "cat": "professions",
+    "level": "A2"
+  },
+  {
+    "id": "v1063",
+    "gd": "cluicheadair",
+    "en": "player",
+    "cat": "professions",
+    "level": "A2"
+  },
+  {
+    "id": "v1064",
+    "gd": "matamataigs",
+    "en": "mathematics",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1065",
+    "gd": "bun-sgoil",
+    "en": "primary school",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v1066",
+    "gd": "beairteach",
+    "en": "wealthy",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v1067",
+    "gd": "companaidh",
+    "en": "company",
+    "cat": "professions",
+    "level": "A2"
+  },
+  {
+    "id": "v1068",
+    "gd": "amadan",
+    "en": "fool",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1069",
+    "gd": "èiginn",
+    "en": "distress / emergency",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v1070",
+    "gd": "fallas",
+    "en": "sweat",
+    "cat": "body",
+    "level": "A2"
+  },
+  {
+    "id": "v1071",
+    "gd": "teanas-bùird",
+    "en": "table tennis",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v1072",
+    "gd": "piàno",
+    "en": "piano",
+    "cat": "hobbies",
+    "level": "A1"
+  },
+  {
+    "id": "v1073",
+    "gd": "obair-ghrèis",
+    "en": "embroidery",
+    "cat": "hobbies",
+    "level": "B1"
+  },
+  {
+    "id": "v1074",
+    "gd": "eathar",
+    "en": "boat (small)",
+    "cat": "travel",
+    "level": "A2"
+  },
+  {
+    "id": "v1075",
+    "gd": "cur-na-mara",
+    "en": "seasickness",
+    "cat": "health",
+    "level": "B1"
+  },
+  {
+    "id": "v1076",
+    "gd": "fadachd",
+    "en": "longing",
+    "cat": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": "v1077",
+    "gd": "talla",
+    "en": "hall",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1078",
+    "gd": "iomain",
+    "en": "shinty",
+    "cat": "hobbies",
+    "level": "B1"
+  },
+  {
+    "id": "v1079",
+    "gd": "giotàr",
+    "en": "guitar",
+    "cat": "hobbies",
+    "level": "A1"
+  },
+  {
+    "id": "v1080",
+    "gd": "caisteal",
+    "en": "castle",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v1081",
+    "gd": "prionnsa",
+    "en": "prince",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1082",
+    "gd": "drochaid",
+    "en": "bridge",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1083",
+    "gd": "reòiteag",
+    "en": "ice cream",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v1084",
+    "gd": "piobaire",
+    "en": "piper",
+    "cat": "professions",
+    "level": "A2"
+  },
+  {
+    "id": "v1085",
+    "gd": "taigh-òsta",
+    "en": "hotel",
+    "cat": "travel",
+    "level": "A1"
+  },
+  {
+    "id": "v1086",
+    "gd": "cliamhainn",
+    "en": "son-in-law",
+    "cat": "family",
+    "level": "B1"
+  },
+  {
+    "id": "v1087",
+    "gd": "cogadh",
+    "en": "war",
+    "cat": "abstract",
+    "level": "B1"
+  },
+  {
+    "id": "v1088",
+    "gd": "obair-dachaigh",
+    "en": "homework",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1089",
+    "gd": "còmhlan-ciùil",
+    "en": "band (music)",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v1090",
+    "gd": "consairt",
+    "en": "concert",
+    "cat": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": "v1091",
+    "gd": "sinnsear",
+    "en": "ancestor",
+    "cat": "family",
+    "level": "B1"
+  },
+  {
+    "id": "v1092",
+    "gd": "làrach-lìn",
+    "en": "website",
+    "cat": "technology",
+    "level": "B1"
+  },
+  {
+    "id": "v1093",
+    "gd": "mòdam",
+    "en": "modem",
+    "cat": "technology",
+    "level": "B1"
+  },
+  {
+    "id": "v1094",
+    "gd": "briog",
+    "en": "to click",
+    "cat": "technology",
+    "level": "A2"
+  },
+  {
+    "id": "v1095",
+    "gd": "leigeil-sios",
+    "en": "download",
+    "cat": "technology",
+    "level": "B1"
+  },
+  {
+    "id": "v1096",
+    "gd": "tòrr",
+    "en": "a lot",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1097",
+    "gd": "teoclaid",
+    "en": "chocolate",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v1098",
+    "gd": "suiteas",
+    "en": "sweets / candy",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v1099",
+    "gd": "tiodhlac",
+    "en": "gift / present",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v1100",
+    "gd": "cracair",
+    "en": "cracker (party)",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v1101",
+    "gd": "balùin",
+    "en": "balloon",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v1102",
+    "gd": "dèideag",
+    "en": "toy",
+    "cat": "everyday",
+    "level": "A1"
+  },
+  {
+    "id": "v1103",
+    "gd": "laoidh",
+    "en": "hymn",
+    "cat": "everyday",
+    "level": "B1"
+  },
+  {
+    "id": "v1104",
+    "gd": "dùrachd",
+    "en": "wish / good wishes",
+    "cat": "everyday",
+    "level": "A2"
+  },
+  {
+    "id": "v1105",
+    "gd": "cridheil",
+    "en": "hearty / merry",
+    "cat": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": "v1106",
+    "gd": "simileir",
+    "en": "chimney",
+    "cat": "household",
+    "level": "A2"
+  },
+  {
+    "id": "v1107",
+    "gd": "turcaidh",
+    "en": "turkey",
+    "cat": "food",
+    "level": "A1"
+  },
+  {
+    "id": "v1108",
+    "gd": "Nollaig",
+    "en": "Christmas",
+    "cat": "everyday",
+    "level": "A1"
+  }
 ]

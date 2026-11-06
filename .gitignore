@@ -7,6 +7,10 @@ docs/*.zip
 docs/*.mp3
 docs/*.m4a
 docs/*.mp4
+docs/*.txt
+docs/*.jsonl
+docs/kaikki_*.json
+docs/add_batch*.js
 docs/scot/
 docs/**/*.mp3
 

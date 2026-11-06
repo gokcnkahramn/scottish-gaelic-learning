@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gaidhlig-agam-v4';
+const CACHE_NAME = 'gaidhlig-agam-v12';
 const ASSETS = [
   './',
   './index.html',
